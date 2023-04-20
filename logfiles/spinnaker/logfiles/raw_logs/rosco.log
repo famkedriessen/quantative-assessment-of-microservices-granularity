@@ -1,0 +1,4072 @@
+--317f5ed--2023-03-13--spinnakerbot
+1	1	gradle.properties
+
+--8767765--2023-03-06--spinnakerbot
+1	1	gradle.properties
+
+--17d001d--2023-03-02--spinnakerbot
+1	1	gradle.properties
+
+--368f8e5--2023-03-02--Sandesh
+2	0	build.gradle
+0	4	rosco-manifests/rosco-manifests.gradle
+0	4	rosco-web/rosco-web.gradle
+
+--7310481--2023-02-28--spinnakerbot
+1	1	gradle.properties
+
+--ac1695c--2023-02-20--spinnakerbot
+1	1	gradle.properties
+
+--b303f2a--2023-02-20--spinnakerbot
+1	1	gradle.properties
+
+--c02b560--2023-02-16--Sandesh
+0	1	rosco-manifests/rosco-manifests.gradle
+
+--871bb75--2023-02-09--spinnakerbot
+1	1	gradle.properties
+
+--6d775c3--2023-02-08--spinnakerbot
+1	1	gradle.properties
+
+--c3d4418--2023-02-08--spinnakerbot
+1	1	gradle.properties
+
+--a672c5e--2023-02-08--spinnakerbot
+1	1	gradle.properties
+
+--e25f398--2023-02-08--spinnakerbot
+1	1	gradle.properties
+
+--2ebdadd--2023-01-30--spinnakerbot
+1	1	gradle.properties
+
+--cb905f8--2023-01-30--spinnakerbot
+1	1	gradle.properties
+
+--9bbf173--2023-01-26--spinnakerbot
+1	1	gradle.properties
+1	1	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImplTest.java
+15	10	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/ManifestTestUtils.java
+1	1	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsTest.java
+15	7	rosco-web/src/test/java/com/netflix/spinnaker/rosco/controllers/V2BakeryControllerTest.java
+
+--b5e185d--2023-01-23--Sandesh
+1	0	rosco-web/rosco-web.gradle
+2	10	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--1fe4b42--2023-01-12--spinnakerbot
+1	1	gradle.properties
+
+--ab10d91--2022-12-21--spinnakerbot
+1	1	gradle.properties
+
+--a9b4d15--2022-12-15--spinnakerbot
+1	1	gradle.properties
+
+--167a31d--2022-12-09--David Byron
+1	1	rosco-core/rosco-core.gradle
+1	0	rosco-manifests/rosco-manifests.gradle
+1	1	rosco-web/rosco-web.gradle
+
+--b49402a--2022-12-09--spinnakerbot
+1	1	gradle.properties
+
+--3e14425--2022-12-08--spinnakerbot
+1	1	gradle.properties
+
+--b04a78f--2022-12-08--spinnakerbot
+1	1	gradle.properties
+
+--e65a68a--2022-12-08--spinnakerbot
+1	1	gradle.properties
+
+--e140213--2022-12-08--Jason
+4	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+26	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+6	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+
+--defc951--2022-12-08--David Byron
+6	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+26	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+6	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+
+--577d19c--2022-12-08--David Byron
+6	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+26	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+6	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+
+--713d194--2022-12-08--David Byron
+6	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+26	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+6	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+
+--e80cfaa--2022-12-08--David Byron
+6	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+26	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+6	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+
+--b0317d0--2022-12-08--Sandesh
+0	7	rosco-web/rosco-web.gradle
+
+--5dafb66--2022-12-06--spinnakerbot
+1	1	gradle.properties
+
+--7947172--2022-11-29--mergify[bot]
+1	1	gradle.properties
+
+--1becf31--2022-11-29--mergify[bot]
+1	1	gradle.properties
+
+--f1e67be--2022-11-29--mergify[bot]
+1	1	gradle.properties
+
+--5c4264f--2022-11-24--spinnakerbot
+1	1	gradle.properties
+
+--4513c61--2022-11-23--mergify[bot]
+27	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/DeleteBakesRequest.java
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+36	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+8	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+17	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--5cb10c8--2022-11-23--mergify[bot]
+27	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/DeleteBakesRequest.java
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+36	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+8	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+17	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--10dd75a--2022-11-23--mergify[bot]
+27	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/DeleteBakesRequest.java
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+36	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+8	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+17	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--fb7d01f--2022-11-22--DanielaS12
+3	3	rosco-web/config/rosco.yml
+
+--6b5e12a--2022-11-19--spinnakerbot
+1	1	gradle.properties
+
+--288f4ff--2022-11-18--spinnakerbot
+1	1	gradle.properties
+
+--428e27a--2022-11-18--spinnakerbot
+1	1	gradle.properties
+
+--96cd6d2--2022-11-17--armory-abedonik
+27	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/DeleteBakesRequest.java
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+36	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+8	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+17	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--ff5fbf8--2022-11-16--David Byron
+1	1	rosco-manifests/rosco-manifests.gradle
+
+--4af8f34--2022-11-15--Nemesis Osorio
+4	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/util/AzureImageNameFactory.java
+18	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/util/AzureImageNameFactorySpec.groovy
+
+--191af1b--2022-11-10--Victor J. Diaz Ayuste
+7	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestRequest.java
+5	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+56	0	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsTest.java
+
+--ccb3f5d--2022-11-04--Sergio Quintero
+16	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+62	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+
+--30d0603--2022-11-01--Nemesis Osorio
+2	2	halconfig/images.yml
+136	0	halconfig/packer/azure-linux-managed-image.pkr.hcl
+0	64	halconfig/packer/azure-linux.json
+125	0	halconfig/packer/azure-linux.pkr.hcl
+0	72	halconfig/packer/azure-windows-2012-r2.json
+131	0	halconfig/packer/azure-windows-managed-image.pkr.hcl
+136	0	halconfig/packer/azure-windows.pkr.hcl
+2	2	halconfig/packer/install_packages.sh
+9	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+59	16	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+48	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/util/AzureImageNameFactory.java
+85	6	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+59	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/util/AzureImageNameFactorySpec.groovy
+3	2	rosco-web/config/rosco.yml
+1	1	rosco-web/rosco-web.gradle
+
+--bda5cdc--2022-10-25--David Byron
+3	3	.github/workflows/build.yml
+3	3	.github/workflows/pr.yml
+7	7	.github/workflows/release.yml
+
+--e96cae4--2022-10-19--spinnakerbot
+1	1	gradle.properties
+
+--08d0854--2022-10-19--spinnakerbot
+1	1	gradle.properties
+
+--ef1bab5--2022-10-10--spinnakerbot
+1	1	gradle.properties
+
+--53315a7--2022-10-03--spinnakerbot
+1	1	gradle.properties
+
+--55da552--2022-09-27--spinnakerbot
+1	1	gradle.properties
+
+--b7040c7--2022-09-12--spinnakerbot
+1	1	gradle.properties
+
+--a22e118--2022-08-23--mergify[bot]
+23	0	.github/workflows/release.yml
+
+--f185189--2022-08-23--mergify[bot]
+17	4	rosco-web/pkg_scripts/postInstall.sh
+
+--9217481--2022-08-23--mergify[bot]
+17	4	rosco-web/pkg_scripts/postInstall.sh
+
+--a088e78--2022-08-23--Ashley Kleynhans
+17	4	rosco-web/pkg_scripts/postInstall.sh
+
+--daef8c4--2022-08-15--spinnakerbot
+1	1	gradle.properties
+
+--ec62ead--2022-08-04--David Byron
+3	3	.github/workflows/codeql-analysis.yml
+
+--06b2900--2022-08-02--mergify[bot]
+1	1	Dockerfile.compile
+1	1	Dockerfile.slim
+
+--c12dfb8--2022-08-02--mergify[bot]
+1	1	Dockerfile.compile
+1	1	Dockerfile.slim
+
+--4b27bb2--2022-08-02--Cameron Motevasselani
+1	1	Dockerfile.compile
+1	1	Dockerfile.slim
+
+--bbfe358--2022-07-27--spinnakerbot
+1	1	gradle.properties
+
+--8ba9849--2022-07-20--Patrik Greco
+1	1	rosco-manifests/rosco-manifests.gradle
+2	2	rosco-web/rosco-web.gradle
+
+--7ef77ca--2022-07-19--Łukasz Jendrysik
+1	2	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--cb26069--2022-07-09--armory-abedonik
+9	2	Dockerfile.slim
+9	2	Dockerfile.ubuntu
+1	0	rosco-manifests/rosco-manifests.gradle
+1	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+27	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/config/RoscoKustomizeConfigurationProperties.java
+7	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeBakeManifestService.java
+23	4	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtils.java
+56	6	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtilsSpec.groovy
+2	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--83df731--2022-06-17--David Byron
+1	1	rosco-manifests/rosco-manifests.gradle
+
+--c1ee2e9--2022-06-14--spinnakerbot
+1	1	gradle.properties
+
+--548af26--2022-06-10--Marcin Flis
+0	1	.github/workflows/build.yml
+0	1	.github/workflows/release.yml
+
+--2253c9e--2022-06-10--Marcin Flis
+1	1	.github/PULL_REQUEST_TEMPLATE.md
+9	2	.github/workflows/build.yml
+8	2	.github/workflows/pr.yml
+9	2	.github/workflows/release.yml
+9	5	Dockerfile.slim
+7	5	Dockerfile.ubuntu
+
+--f6d302e--2022-06-06--spinnakerbot
+1	1	gradle.properties
+
+--ce00717--2022-05-27--spinnakerbot
+1	1	gradle.properties
+
+--ceb52b5--2022-05-04--David Byron
+1	1	rosco-core/rosco-core.gradle
+4	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/services/ServiceConfig.java
+1	8	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImpl.java
+1	0	rosco-web/rosco-web.gradle
+7	2	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/WebConfig.groovy
+157	0	rosco-web/src/test/java/com/netflix/spinnaker/rosco/controllers/V2BakeryControllerWithClouddriverServiceTest.java
+1	0	rosco-web/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker
+
+--53c6666--2022-04-27--mergify[bot]
+15	9	.github/workflows/release_info.sh
+
+--1256d50--2022-04-27--mergify[bot]
+15	9	.github/workflows/release_info.sh
+
+--ca97d32--2022-04-27--mergify[bot]
+2	16	.mergify.yml
+
+--866e9c6--2022-04-27--mergify[bot]
+2	16	.mergify.yml
+
+--40c9976--2022-04-27--kskewes-sf
+2	16	.mergify.yml
+
+--b61f828--2022-04-27--kskewes-sf
+15	9	.github/workflows/release_info.sh
+
+--f612dd3--2022-04-26--mergify[bot]
+6	0	halconfig/rosco.yml
+
+--fed26a5--2022-04-26--mergify[bot]
+6	0	halconfig/rosco.yml
+
+--64fa42a--2022-04-27--kskewes-sf
+6	0	halconfig/rosco.yml
+
+--2089ee0--2022-04-26--David Byron
+23	0	.github/workflows/release.yml
+
+--3033eb2--2022-04-21--spinnakerbot
+1	1	gradle.properties
+
+--6f1a75e--2022-04-20--spinnakerbot
+1	1	gradle.properties
+
+--0638d8f--2022-04-20--kskewes-sf
+4	2	.github/workflows/release.yml
+
+--0e92384--2022-04-20--kskewes-sf
+21	0	.github/workflows/release.yml
+
+--da9ab70--2022-04-04--spinnakerbot
+1	1	gradle.properties
+
+--b539e13--2022-04-01--David Byron
+1	1	gradle.properties
+
+--074198a--2022-04-01--spinnakerbot
+1	1	gradle.properties
+
+--655d3e0--2022-03-23--spinnakerbot
+1	1	gradle.properties
+
+--b6eed18--2022-03-23--spinnakerbot
+1	1	gradle.properties
+
+--9882c3d--2022-03-21--spinnakerbot
+1	1	gradle.properties
+
+--6d73231--2022-03-22--kskewes-sf
+48	9	.github/workflows/build.yml
+36	12	.github/workflows/pr.yml
+56	14	.github/workflows/release.yml
+
+--788f204--2022-03-18--kskewes-sf
+3	1	.github/workflows/build.yml
+5	1	.github/workflows/pr.yml
+2	1	.github/workflows/release.yml
+
+--e942b50--2022-03-17--kskewes-sf
+14	13	.github/workflows/build.yml
+31	32	.github/workflows/pr.yml
+11	12	.github/workflows/release.yml
+
+--1b4301c--2022-03-11--kskewes-sf
+5	5	.github/workflows/release.yml
+
+--85ffdbc--2022-03-11--kskewes-sf
+2	2	.github/workflows/release.yml
+
+--ed9e8ab--2022-03-10--Sandesh
+1	1	build.gradle
+
+--23ad5df--2022-03-10--kskewes-sf
+13	0	.github/workflows/build.yml
+1	0	.github/workflows/release.yml
+
+--6312787--2022-03-10--Karl Skewes
+6	6	.github/workflows/build.yml
+
+--ee1f881--2022-03-10--Karl Skewes
+1	1	.github/workflows/build.yml
+1	1	.github/workflows/pr.yml
+
+--5d4375a--2022-03-10--kskewes-sf
+29	2	.github/workflows/build.yml
+26	1	.github/workflows/pr.yml
+39	1	.github/workflows/release.yml
+
+--a071a33--2022-03-04--David Byron
+0	1	.github/workflows/release.yml
+
+--930bbdd--2022-03-04--spinnakerbot
+1	1	gradle.properties
+
+--d10c34c--2022-03-04--David Byron
+1	2	.github/workflows/release.yml
+0	1	rosco-web/rosco-web.gradle
+
+--e7363ac--2022-03-04--spinnakerbot
+1	1	gradle.properties
+
+--c358887--2022-03-03--spinnakerbot
+1	1	gradle.properties
+
+--2fd3c13--2022-03-03--Chris Phillips
+1	1	.github/workflows/release.yml
+
+--dc76f5e--2022-03-03--spinnakerbot
+1	1	gradle.properties
+
+--87cd624--2022-03-02--spinnakerbot
+1	1	gradle.properties
+
+--ffdfa68--2022-03-02--Chris Phillips
+1	0	.github/workflows/release.yml
+
+--1f39541--2022-03-02--Chris Phillips
+1	1	.github/workflows/release.yml
+
+--042c61e--2022-03-02--Chris Phillips
+8	0	.github/workflows/release.yml
+1	0	rosco-web/rosco-web.gradle
+
+--b01875d--2022-03-02--spinnakerbot
+1	1	gradle.properties
+
+--40b7004--2022-02-23--kskewes-sf
+3	7	.github/workflows/build.yml
+3	7	.github/workflows/pr.yml
+3	7	.github/workflows/release.yml
+
+--2654f00--2022-02-09--spinnakerbot
+1	1	gradle.properties
+
+--643bfd8--2022-01-18--Cameron Motevasselani
+15	10	.mergify.yml
+
+--c37dd81--2022-01-19--mergify[bot]
+15	10	.mergify.yml
+
+--eb99d8d--2022-01-18--Cameron Motevasselani
+15	10	.mergify.yml
+
+--0a690ae--2022-01-18--Cameron Motevasselani
+15	10	.mergify.yml
+
+--ce6cf1b--2021-12-14--David Byron
+5	0	rosco-manifests/rosco-manifests.gradle
+8	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImpl.java
+11	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+31	0	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImplTest.java
+46	0	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/ManifestTestUtils.java
+52	16	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsTest.java
+6	0	rosco-web/rosco-web.gradle
+122	0	rosco-web/src/test/java/com/netflix/spinnaker/rosco/controllers/V2BakeryControllerTest.java
+
+--a77b08a--2021-12-14--spinnakerbot
+1	1	gradle.properties
+
+--449cc3b--2021-12-14--spinnakerbot
+1	1	gradle.properties
+
+--0770c9a--2021-12-14--spinnakerbot
+1	1	gradle.properties
+
+--6bbb47a--2021-12-10--spinnakerbot
+1	1	gradle.properties
+
+--7ef652b--2021-12-07--Edgar Garcia
+4	4	build.gradle
+1	1	gradle.properties
+1	1	rosco-bom/rosco-bom.gradle
+6	6	rosco-core/rosco-core.gradle
+3	3	rosco-manifests/rosco-manifests.gradle
+3	3	rosco-web/rosco-web.gradle
+
+--733dbba--2021-12-07--edgarulg
+4	4	build.gradle
+1	1	gradle.properties
+1	1	rosco-bom/rosco-bom.gradle
+6	6	rosco-core/rosco-core.gradle
+3	3	rosco-manifests/rosco-manifests.gradle
+3	3	rosco-web/rosco-web.gradle
+
+--d46c221--2021-12-06--spinnakerbot
+1	1	gradle.properties
+
+--09bebd1--2021-12-04--Evan Sebastian
+1	0	rosco-web/config/rosco.yml
+
+--3ecd3c2--2021-12-04--Cameron Fieber
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--4bacf38--2021-11-30--Math Fortin
+20	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+38	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+
+--515473d--2021-11-15--spinnakerbot
+1	1	gradle.properties
+
+--141ab1d--2021-11-11--spinnakerbot
+1	1	gradle.properties
+
+--4713432--2021-11-08--spinnakerbot
+1	1	gradle.properties
+
+--1ec1365--2021-11-05--spinnakerbot
+1	1	gradle.properties
+
+--7ae2879--2021-11-01--David Byron
+3	3	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImpl.java
+3	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+25	4	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImplTest.java
+35	0	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsTest.java
+
+--39d6b40--2021-10-29--Jason
+1	1	.github/workflows/codeql-analysis.yml
+
+--7cd9a28--2021-10-28--Cameron Motevasselani
+65	0	.github/workflows/codeql-analysis.yml
+
+--0e517ea--2021-10-22--spinnakerbot
+1	1	gradle.properties
+
+--c0e61e8--2021-10-22--spinnakerbot
+1	1	gradle.properties
+
+--9bb2494--2021-09-27--spinnakerbot
+1	1	gradle.properties
+
+--eaa86d0--2021-09-27--Sandesh
+4	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+
+--cf6251f--2021-09-03--spinnakerbot
+1	1	gradle.properties
+
+--8e6117e--2021-08-30--spinnakerbot
+1	1	gradle.properties
+
+--b4f4ddc--2021-08-30--spinnakerbot
+1	1	gradle.properties
+
+--d15aebc--2021-08-18--spinnakerbot
+1	1	gradle.properties
+
+--d92eed0--2021-08-17--spinnakerbot
+1	1	gradle.properties
+
+--3534f02--2021-08-17--spinnakerbot
+1	1	gradle.properties
+
+--2b06007--2021-08-11--spinnakerbot
+1	1	gradle.properties
+
+--76af591--2021-08-06--spinnakerbot
+1	1	gradle.properties
+
+--b4afadf--2021-08-04--spinnakerbot
+1	1	gradle.properties
+
+--fa06b12--2021-08-04--spinnakerbot
+1	1	gradle.properties
+
+--e97c6f1--2021-08-03--spinnakerbot
+1	1	gradle.properties
+
+--2eb1c8d--2021-07-30--spinnakerbot
+1	1	gradle.properties
+
+--409ef39--2021-07-28--spinnakerbot
+1	1	gradle.properties
+
+--4bbfe41--2021-07-26--spinnakerbot
+1	1	gradle.properties
+
+--b8c054c--2021-07-21--spinnakerbot
+1	1	gradle.properties
+
+--1d2e769--2021-07-20--spinnakerbot
+1	1	gradle.properties
+
+--5dcf97a--2021-06-25--spinnakerbot
+1	1	gradle.properties
+
+--a537c80--2021-06-01--spinnakerbot
+1	1	gradle.properties
+
+--7be0362--2021-05-25--mergify[bot]
+1	1	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+
+--69dd3f3--2021-05-25--mergify[bot]
+1	1	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+
+--6903265--2021-05-14--Karl
+2	2	README.md
+
+--14e23d3--2021-05-11--mergify[bot]
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--49894d2--2021-05-11--mergify[bot]
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--831188e--2021-04-30--David Martin
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/Bake.groovy
+
+--42b3551--2021-04-30--Gavin Bunney
+12	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+127	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+
+--0dd3f39--2021-04-22--spinnakerbot
+1	1	gradle.properties
+
+--c9a5af4--2021-04-20--Cameron Motevasselani
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--3d57385--2021-04-19--Cameron Motevasselani
+1	1	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+
+--e1c7f51--2021-04-19--spinnakerbot
+1	1	gradle.properties
+
+--b549fab--2021-03-19--Daniel Peach
+7	4	.github/workflows/release.yml
+5	2	build.gradle
+
+--973e927--2021-03-19--Daniel Peach
+3	3	build.gradle
+1	1	gradle.properties
+1	1	rosco-bom/rosco-bom.gradle
+6	6	rosco-core/rosco-core.gradle
+3	3	rosco-manifests/rosco-manifests.gradle
+3	3	rosco-web/rosco-web.gradle
+
+--291f5ed--2021-03-18--spinnakerbot
+1	1	gradle.properties
+
+--0e191bb--2021-03-17--spinnakerbot
+1	1	gradle.properties
+
+--49d8bb9--2021-03-10--spinnakerbot
+1	1	gradle.properties
+
+--05a06a2--2021-03-10--spinnakerbot
+1	1	gradle.properties
+
+--8471009--2021-03-03--spinnakerbot
+1	1	gradle.properties
+
+--c7e2974--2021-02-25--spinnakerbot
+1	1	gradle.properties
+
+--0a782e9--2021-02-09--harikumarks
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+72	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+
+--0a10984--2021-02-09--Karl
+7	4	Dockerfile.slim
+7	4	Dockerfile.ubuntu
+1	1	halconfig/packer/aws-windows-2012-r2.json
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--5a60bef--2021-02-08--Jason
+1	1	Dockerfile.compile
+1	1	Dockerfile.slim
+
+--2353a3e--2021-02-08--spinnakerbot
+1	1	gradle.properties
+
+--e5e36c9--2021-02-03--spinnakerbot
+1	1	gradle.properties
+
+--7db63f3--2021-01-25--spinnakerbot
+1	1	gradle.properties
+
+--e321484--2021-01-20--spinnakerbot
+1	1	gradle.properties
+
+--0a4a7e7--2021-01-19--Adam Jordens
+1	1	.github/workflows/release.yml
+
+--5ed1ab9--2021-01-15--spinnakerbot
+1	1	gradle.properties
+
+--7788fb5--2021-01-15--spinnakerbot
+1	1	gradle.properties
+
+--f1692e9--2021-01-07--spinnakerbot
+1	1	gradle.properties
+
+--c0ada92--2021-01-04--spinnakerbot
+1	1	gradle.properties
+
+--69c2ff9--2020-12-14--spinnakerbot
+1	1	gradle.properties
+
+--7d8920d--2020-12-14--spinnakerbot
+1	1	gradle.properties
+
+--591d961--2020-12-11--spinnakerbot
+1	1	gradle.properties
+
+--03e4e26--2020-12-08--spinnakerbot
+1	1	gradle.properties
+
+--3a5d08b--2020-12-08--spinnakerbot
+1	1	gradle.properties
+
+--0bffd78--2020-12-08--David Byron
+6	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+
+--8662444--2020-12-07--tompiscitell
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/config/JedisConfig.groovy
+5	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/config/RedisConnectionInfo.groovy
+
+--c39f83d--2020-12-04--David Byron
+1	0	rosco-core/rosco-core.gradle
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/services/ServiceConfig.java
+
+--465a89c--2020-12-04--spinnakerbot
+1	1	gradle.properties
+
+--5349ef9--2020-12-03--David Byron
+8	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImpl.java
+
+--ed3929e--2020-12-03--spinnakerbot
+1	1	gradle.properties
+
+--eb4a798--2020-11-13--spinnakerbot
+1	1	gradle.properties
+
+--fe65329--2020-11-10--Cameron Fieber
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--bfc52be--2020-11-06--spinnakerbot
+1	1	gradle.properties
+
+--afe8438--2020-11-05--spinnakerbot
+1	1	gradle.properties
+
+--48307fe--2020-11-02--David Byron
+1	0	rosco-manifests/rosco-manifests.gradle
+53	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestEnvironment.java
+21	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestRequest.java
+21	4	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+1	45	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtils.java
+0	175	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsSpec.groovy
+321	1	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsTest.java
+
+--e5fdff9--2020-10-28--spinnakerbot
+1	1	gradle.properties
+
+--91ddd3b--2020-10-27--spinnakerbot
+1	1	gradle.properties
+
+--c1e454c--2020-10-19--spinnakerbot
+1	1	gradle.properties
+
+--45bfe2e--2020-10-17--Josef Ludvicek
+3	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImpl.java
+
+--b4a0f0e--2020-10-09--spinnakerbot
+1	1	gradle.properties
+
+--4adaffe--2020-10-08--spinnakerbot
+1	1	gradle.properties
+
+--41ad14f--2020-10-08--Michael Plump
+1	6	.github/workflows/build.yml
+1	6	.github/workflows/pr.yml
+1	6	.github/workflows/release.yml
+1	4	Dockerfile.compile
+1	0	gradle.properties
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestService.java
+
+--e4670e3--2020-10-08--spinnakerbot
+1	1	gradle.properties
+
+--2e8b279--2020-10-07--spinnakerbot
+1	1	gradle.properties
+
+--4f733ab--2020-10-06--spinnakerbot
+1	1	gradle.properties
+
+--49d7727--2020-10-06--spinnakerbot
+1	1	gradle.properties
+
+--06f5087--2020-10-06--spinnakerbot
+1	1	gradle.properties
+
+--f8571fe--2020-10-06--spinnakerbot
+1	1	gradle.properties
+
+--bc8999b--2020-10-06--spinnakerbot
+1	1	gradle.properties
+
+--78e20ec--2020-10-02--spinnakerbot
+1	1	gradle.properties
+
+--ea44486--2020-10-01--Karl
+1	0	rosco-web/rosco-web.gradle
+
+--696e6d1--2020-09-30--spinnakerbot
+1	1	gradle.properties
+
+--90d2e59--2020-09-29--spinnakerbot
+1	1	gradle.properties
+
+--e9e2e86--2020-09-28--spinnakerbot
+1	1	gradle.properties
+
+--803d255--2020-09-24--spinnakerbot
+1	1	gradle.properties
+
+--b911bb2--2020-09-24--spinnakerbot
+1	1	gradle.properties
+
+--69f72e4--2020-09-23--spinnakerbot
+1	1	gradle.properties
+
+--cdc25d3--2020-09-22--spinnakerbot
+1	1	gradle.properties
+
+--239a534--2020-09-18--spinnakerbot
+1	1	gradle.properties
+
+--bd01eca--2020-09-17--spinnakerbot
+1	1	gradle.properties
+
+--730e49a--2020-09-16--spinnakerbot
+1	1	gradle.properties
+
+--9d28472--2020-09-11--spinnakerbot
+1	1	gradle.properties
+
+--209a468--2020-09-10--spinnakerbot
+1	1	gradle.properties
+
+--3ff4403--2020-09-09--spinnakerbot
+1	1	gradle.properties
+
+--ec21194--2020-09-03--Zach Smith
+2	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+30	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/cloudfoundry/CloudFoundryBakeManifestRequest.java
+184	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/cloudfoundry/CloudFoundryBakeManifestService.java
+162	0	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/cloudfoundry/CloudFoundryBakeManifestServiceTest.java
+
+--9affb6e--2020-09-02--spinnakerbot
+1	1	gradle.properties
+
+--ce5cade--2020-08-31--spinnakerbot
+1	1	gradle.properties
+
+--cfc08b4--2020-08-31--spinnakerbot
+1	1	gradle.properties
+
+--796bca5--2020-08-27--spinnakerbot
+1	1	gradle.properties
+
+--3c2f643--2020-08-27--Cameron Fieber
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--21c758a--2020-08-26--spinnakerbot
+1	1	gradle.properties
+
+--0623c46--2020-08-26--mergify[bot]
+6	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+47	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+
+--f7bcc01--2020-08-25--spinnakerbot
+1	1	gradle.properties
+
+--ffecdc9--2020-08-25--Eric Zimanyi
+6	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+47	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+
+--f4834d6--2020-08-24--spinnakerbot
+1	1	gradle.properties
+
+--79d1c25--2020-08-21--spinnakerbot
+1	1	gradle.properties
+
+--efab813--2020-08-21--spinnakerbot
+1	1	gradle.properties
+
+--1621730--2020-08-18--spinnakerbot
+1	1	gradle.properties
+
+--508ec06--2020-08-18--Cameron Fieber
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+1	1	gradlew
+3	18	gradlew.bat
+
+--93698c9--2020-08-17--spinnakerbot
+1	1	gradle.properties
+
+--13487f2--2020-08-13--Michael Plump
+1	1	Dockerfile.compile
+0	39	Dockerfile.java8
+6	5	Dockerfile.slim
+5	5	Dockerfile.ubuntu
+0	38	Dockerfile.ubuntu-java8
+
+--e22863c--2020-08-09--spinnakerbot
+1	1	gradle.properties
+
+--83331fa--2020-08-06--spinnakerbot
+1	1	gradle.properties
+
+--20b08d9--2020-08-06--spinnakerbot
+1	1	gradle.properties
+
+--329d5c6--2020-07-28--Michael Plump
+1	1	gradle.properties
+
+--8a31924--2020-07-22--AbdulBasit Kabir
+1	1	Dockerfile.java8
+1	1	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+1	1	Dockerfile.ubuntu-java8
+
+--4f87c6b--2020-07-21--spinnakerbot
+1	1	gradle.properties
+
+--44370fd--2020-07-16--spinnakerbot
+1	1	gradle.properties
+
+--e17ec3e--2020-07-15--spinnakerbot
+1	1	gradle.properties
+
+--6ab0065--2020-07-13--spinnakerbot
+1	1	gradle.properties
+
+--b243439--2020-07-10--spinnakerbot
+1	1	gradle.properties
+
+--2fe08cb--2020-07-10--Glauco Vinicius
+1	1	.github/PULL_REQUEST_TEMPLATE.md
+
+--f88fb24--2020-07-10--spinnakerbot
+1	1	gradle.properties
+
+--b7a189b--2020-07-09--spinnakerbot
+1	1	gradle.properties
+
+--fa37b04--2020-07-09--spinnakerbot
+1	1	gradle.properties
+
+--8c0d7d6--2020-07-09--spinnakerbot
+1	1	gradle.properties
+
+--4ba471e--2020-07-09--Cameron Fieber
+1	1	rosco-web/rosco-web.gradle
+
+--15c8b43--2020-07-08--spinnakerbot
+1	1	gradle.properties
+
+--653ae11--2020-07-08--Cameron Fieber
+3	2	rosco-web/rosco-web.gradle
+
+--0f5108b--2020-07-08--spinnakerbot
+1	1	gradle.properties
+
+--3dba2fb--2020-07-08--spinnakerbot
+1	1	gradle.properties
+
+--fb939a6--2020-07-07--spinnakerbot
+1	1	gradle.properties
+
+--78a7373--2020-07-07--spinnakerbot
+1	1	gradle.properties
+
+--9b6198e--2020-07-06--spinnakerbot
+1	1	gradle.properties
+
+--cdc783b--2020-07-06--Cameron Fieber
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--b584331--2020-07-06--spinnakerbot
+1	1	gradle.properties
+
+--cdf3b8d--2020-06-25--spinnakerbot
+1	1	gradle.properties
+
+--6bdba40--2020-06-24--spinnakerbot
+1	1	gradle.properties
+
+--e366bd1--2020-06-24--spinnakerbot
+1	1	gradle.properties
+
+--a5efed3--2020-06-24--Cameron Fieber
+1	1	gradle/wrapper/gradle-wrapper.properties
+1	1	rosco-web/rosco-web.gradle
+2	0	settings.gradle
+
+--c0c8bee--2020-06-23--spinnakerbot
+1	1	gradle.properties
+
+--462f713--2020-06-23--spinnakerbot
+1	1	gradle.properties
+
+--c963f27--2020-06-19--spinnakerbot
+1	1	gradle.properties
+
+--1ef04c4--2020-06-18--spinnakerbot
+1	1	gradle.properties
+
+--f4a5fad--2020-06-17--spinnakerbot
+1	1	gradle.properties
+
+--a1132bf--2020-06-17--spinnakerbot
+1	1	gradle.properties
+
+--5f50b9e--2020-06-17--spinnakerbot
+1	1	gradle.properties
+
+--f3b76d5--2020-06-16--spinnakerbot
+1	1	gradle.properties
+
+--ea8f65f--2020-06-16--spinnakerbot
+1	1	gradle.properties
+
+--f1b6cad--2020-06-16--spinnakerbot
+1	1	gradle.properties
+
+--190f5ef--2020-06-15--spinnakerbot
+1	1	gradle.properties
+
+--0e64720--2020-06-15--spinnakerbot
+1	1	gradle.properties
+
+--6e2af29--2020-06-15--spinnakerbot
+1	1	gradle.properties
+
+--3d65a4a--2020-06-11--spinnakerbot
+1	1	gradle.properties
+
+--0a88890--2020-06-10--Eric Zimanyi
+6	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandlerSpec.groovy
+9	20	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtils.java
+
+--f25276e--2020-06-04--spinnakerbot
+1	1	gradle.properties
+
+--162fe78--2020-06-03--spinnakerbot
+1	1	gradle.properties
+
+--14cb086--2020-06-02--spinnakerbot
+1	1	gradle.properties
+
+--52b315a--2020-06-02--Pedro Gonçalves
+9	0	rosco-web/pkg_scripts/postInstall.sh
+
+--41bf07a--2020-06-01--spinnakerbot
+1	1	gradle.properties
+
+--0db9118--2020-06-01--spinnakerbot
+1	1	gradle.properties
+
+--ee65bab--2020-05-29--spinnakerbot
+1	1	gradle.properties
+
+--d5d1c49--2020-05-29--Eric Zimanyi
+6	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandlerSpec.groovy
+
+--ba3db4e--2020-05-29--spinnakerbot
+--eff6d80--2020-05-29--Eric Zimanyi
+1	1	gradle.properties
+3	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandlerSpec.groovy
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtils.java
+1	1	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsSpec.groovy
+
+--44a09cb--2020-05-28--spinnakerbot
+1	1	gradle.properties
+
+--c6fac3e--2020-05-27--spinnakerbot
+1	1	gradle.properties
+
+--0665d9e--2020-05-27--spinnakerbot
+1	1	gradle.properties
+
+--1da3dfc--2020-05-27--Eric Zimanyi
+6	0	halconfig/README.md
+0	6	halconfig/rosco.yml
+4	1	rosco-web/config/rosco.yml
+
+--9c52e32--2020-05-26--Robert Jordan
+1	1	Dockerfile.java8
+1	1	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+1	1	Dockerfile.ubuntu-java8
+
+--5c6d37e--2020-05-21--spinnakerbot
+1	1	gradle.properties
+
+--3bed55c--2020-05-21--Cameron Fieber
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--6bbb638--2020-05-19--spinnakerbot
+1	1	gradle.properties
+
+--4c08919--2020-05-15--spinnakerbot
+1	1	gradle.properties
+
+--a88bcd9--2020-05-14--spinnakerbot
+1	1	gradle.properties
+
+--faf008f--2020-05-13--spinnakerbot
+1	1	gradle.properties
+
+--5ff31bd--2020-05-13--Dionysios Kakouris
+3	3	Dockerfile.java8
+3	3	Dockerfile.slim
+3	3	Dockerfile.ubuntu
+3	3	Dockerfile.ubuntu-java8
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--f54d7e2--2020-05-12--spinnakerbot
+1	1	gradle.properties
+
+--fb4401e--2020-05-11--spinnakerbot
+1	1	gradle.properties
+
+--3d249b8--2020-05-07--Cameron Fieber
+1	1	gradle.properties
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+2	0	gradlew
+1	0	gradlew.bat
+
+--f46d2bf--2020-05-07--spinnakerbot
+1	1	gradle.properties
+
+--25b31c7--2020-05-06--spinnakerbot
+1	1	gradle.properties
+
+--6caa273--2020-05-06--spinnakerbot
+1	1	gradle.properties
+
+--3d3425f--2020-05-06--spinnakerbot
+1	1	gradle.properties
+
+--6a2b0bf--2020-05-05--Cameron Fieber
+14	0	gradle.properties
+8	0	settings.gradle
+
+--81930f2--2020-05-04--spinnakerbot
+1	1	gradle.properties
+
+--8c0b298--2020-05-04--spinnakerbot
+1	1	gradle.properties
+
+--0091cc1--2020-05-01--Brian Murphey
+3	3	Dockerfile.java8
+3	3	Dockerfile.slim
+3	3	Dockerfile.ubuntu
+3	3	Dockerfile.ubuntu-java8
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--2697264--2020-04-29--spinnakerbot
+1	1	gradle.properties
+
+--d7d9226--2020-04-29--spinnakerbot
+1	1	gradle.properties
+
+--32481f1--2020-04-28--spinnakerbot
+1	1	gradle.properties
+
+--593a532--2020-04-28--Cameron Motevasselani
+1	0	rosco-core/rosco-core.gradle
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+
+--97f288e--2020-04-28--spinnakerbot
+1	1	gradle.properties
+
+--2259551--2020-04-27--spinnakerbot
+1	1	gradle.properties
+
+--2f6ac0f--2020-04-22--spinnakerbot
+1	1	gradle.properties
+
+--84520b2--2020-04-21--spinnakerbot
+1	1	gradle.properties
+
+--0def30e--2020-04-21--spinnakerbot
+1	1	gradle.properties
+
+--24ae00e--2020-04-20--spinnakerbot
+1	1	gradle.properties
+
+--86edcd1--2020-04-20--spinnakerbot
+1	1	gradle.properties
+
+--73f3484--2020-04-20--spinnakerbot
+1	1	gradle.properties
+
+--fb7f25c--2020-04-19--Cameron Fieber
+4	5	.github/workflows/build.yml
+4	3	.github/workflows/pr.yml
+7	12	.github/workflows/release.yml
+5	1	.github/workflows/release_info.sh
+4	23	build.gradle
+1	2	gradle.properties
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+15	20	gradlew
+4	1	gradlew.bat
+0	11	rosco-bom/rosco-bom.gradle
+24	26	rosco-web/rosco-web.gradle
+
+--97ca023--2020-04-16--spinnakerbot
+1	1	gradle.properties
+
+--dbdc8bd--2020-04-16--spinnakerbot
+1	1	gradle.properties
+
+--1f179ff--2020-04-14--spinnakerbot
+1	1	gradle.properties
+
+--2a1b366--2020-04-14--Eric Zimanyi
+1	0	build.gradle
+3	1	rosco-core/rosco-core.gradle
+
+--c81e613--2020-04-14--spinnakerbot
+1	1	gradle.properties
+
+--a4b414d--2020-04-14--spinnakerbot
+1	1	gradle.properties
+
+--544f73a--2020-04-14--spinnakerbot
+1	1	gradle.properties
+
+--54177ce--2020-04-13--spinnakerbot
+1	1	gradle.properties
+
+--f5033fc--2020-04-11--spinnakerbot
+1	1	gradle.properties
+
+--b6bbfb4--2020-04-10--spinnakerbot
+1	1	gradle.properties
+
+--529e0ed--2020-04-08--Michael Plump
+1	1	.mergify.yml
+
+--37df054--2020-04-08--spinnakerbot
+1	2	gradle.properties
+
+--034bb79--2020-04-08--Michael Plump
+10	1	.mergify.yml
+
+--2c4930a--2020-04-06--spinnakerbot
+2	2	gradle.properties
+
+--c65f1be--2020-04-03--spinnakerbot
+2	2	gradle.properties
+
+--dc8d0d4--2020-04-02--Michael Plump
+1	1	.github/workflows/pr.yml
+
+--9a20165--2020-04-01--Cameron Motevasselani
+1	1	gradle.properties
+
+--e3d331d--2020-03-31--spinnakerbot
+2	2	gradle.properties
+
+--d137cee--2020-03-31--spinnakerbot
+2	2	gradle.properties
+
+--3ec9ad2--2020-03-30--spinnakerbot
+2	2	gradle.properties
+
+--e1279eb--2020-03-27--Michael Plump
+2	0	.github/workflows/build.yml
+
+--d650b32--2020-03-26--Michael Plump
+6	1	.github/workflows/build.yml
+5	0	.github/workflows/pr.yml
+7	2	.github/workflows/release.yml
+9	3	Dockerfile.compile
+1	1	gradle.properties
+
+--85285a7--2020-03-26--spinnakerbot
+2	2	gradle.properties
+
+--e13067b--2020-03-26--spinnakerbot
+2	2	gradle.properties
+
+--145c1ba--2020-03-26--spinnakerbot
+2	2	gradle.properties
+
+--9ea433f--2020-03-25--spinnakerbot
+2	2	gradle.properties
+
+--6fae461--2020-03-25--Eric Zimanyi
+32	3	.mergify.yml
+
+--4d262f7--2020-03-20--spinnakerbot
+2	2	gradle.properties
+
+--43e2b29--2020-03-19--spinnakerbot
+2	2	gradle.properties
+
+--78dae10--2020-03-18--spinnakerbot
+2	2	gradle.properties
+
+--b47b0ec--2020-03-18--spinnakerbot
+2	2	gradle.properties
+
+--97bc5f8--2020-03-14--spinnakerbot
+2	2	gradle.properties
+
+--a1e765a--2020-03-14--spinnakerbot
+2	2	gradle.properties
+
+--44e3f27--2020-03-13--Chris Smalley
+28	0	.github/workflows/build.yml
+0	28	.github/workflows/ci.yml
+22	0	.github/workflows/pr.yml
+60	0	.github/workflows/release.yml
+31	0	.github/workflows/release_info.sh
+3	3	.mergify.yml
+0	18	.travis.yml
+0	28	gradle/buildViaTravis.sh
+0	19	gradle/installViaTravis.sh
+0	4	gradle/prepCaches.sh
+
+--5c16b78--2020-03-10--spinnakerbot
+2	2	gradle.properties
+
+--7f570d4--2020-03-10--Justin Field
+20	17	build.gradle
+44	0	rosco-bom/rosco-bom.gradle
+1	1	settings.gradle
+
+--0faf419--2020-03-06--Michael Plump
+1	1	gradle.properties
+
+--08ea918--2020-03-05--spinnakerbot
+2	2	gradle.properties
+
+--1f89ea4--2020-03-05--spinnakerbot
+2	2	gradle.properties
+
+--f8e1d2c--2020-03-04--Eric Zimanyi
+2	0	rosco-web/config/packer/scripts/windows-configure-chocolatey.ps1
+
+--93462a5--2020-03-05--mergify[bot]
+2	2	gradle.properties
+
+--c5d76dc--2020-03-04--mergify[bot]
+2	2	gradle.properties
+
+--9346131--2020-03-03--tcrozier
+2	0	rosco-web/config/packer/scripts/windows-configure-chocolatey.ps1
+
+--e254ce9--2020-03-03--tcrozier
+2	0	halconfig/packer/scripts/windows-configure-chocolatey.ps1
+
+--22b3500--2020-03-02--spinnakerbot
+2	2	gradle.properties
+
+--8ad9fbc--2020-03-02--Brandon Powell
+1	1	Dockerfile.java8
+1	1	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+1	1	Dockerfile.ubuntu-java8
+
+--62b4cf1--2020-02-28--spinnakerbot
+2	2	gradle.properties
+
+--0a97fca--2020-02-28--spinnakerbot
+2	2	gradle.properties
+
+--c1b9f7a--2020-02-29--Shengyu Liu
+1	1	README.md
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+214	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/tencentcloud/TencentCloudBakeHandler.java
+85	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/tencentcloud/config/RoscoTencentCloudConfiguration.java
+458	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/tencentcloud/TencentCloudBakeHandlerSpec.groovy
+46	0	rosco-web/config/packer/tencentcloud.json
+50	0	rosco-web/config/rosco.yml
+1	0	rosco-web/rosco-web.gradle
+2	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--fdb8c91--2020-02-27--Brandon Powell
+1	0	Dockerfile.java8
+1	0	Dockerfile.slim
+1	0	Dockerfile.ubuntu
+1	0	Dockerfile.ubuntu-java8
+
+--47185a9--2020-02-27--spinnakerbot
+2	2	gradle.properties
+
+--8438779--2020-02-26--Michael Plump
+7	0	.gcloudignore
+
+--b883c48--2020-02-26--Michael Plump
+1	1	Dockerfile.java8
+1	1	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+1	1	Dockerfile.ubuntu-java8
+0	1	halconfig/packer
+83	0	halconfig/packer/alicloud-multi.json
+49	0	halconfig/packer/alicloud.json
+46	0	halconfig/packer/aws-chroot.json
+58	0	halconfig/packer/aws-ebs.json
+80	0	halconfig/packer/aws-multi-chroot.json
+92	0	halconfig/packer/aws-multi-ebs.json
+86	0	halconfig/packer/aws-windows-2012-r2.json
+64	0	halconfig/packer/azure-linux.json
+72	0	halconfig/packer/azure-windows-2012-r2.json
+40	0	halconfig/packer/docker.json
+62	0	halconfig/packer/gce.json
+77	0	halconfig/packer/huaweicloud.json
+167	0	halconfig/packer/install_packages.sh
+57	0	halconfig/packer/oci.json
+42	0	halconfig/packer/scripts/aws-windows-2012-configure-ec2service.ps1
+30	0	halconfig/packer/scripts/aws-windows.userdata
+84	0	halconfig/packer/scripts/windows-configure-chocolatey.ps1
+109	0	halconfig/packer/scripts/windows-install-packages.ps1
+0	83	rosco-web/config/packer/alicloud-multi.json
+0	49	rosco-web/config/packer/alicloud.json
+0	46	rosco-web/config/packer/aws-chroot.json
+0	58	rosco-web/config/packer/aws-ebs.json
+0	80	rosco-web/config/packer/aws-multi-chroot.json
+0	92	rosco-web/config/packer/aws-multi-ebs.json
+0	86	rosco-web/config/packer/aws-windows-2012-r2.json
+0	64	rosco-web/config/packer/azure-linux.json
+0	72	rosco-web/config/packer/azure-windows-2012-r2.json
+0	40	rosco-web/config/packer/docker.json
+0	62	rosco-web/config/packer/gce.json
+0	77	rosco-web/config/packer/huaweicloud.json
+0	167	rosco-web/config/packer/install_packages.sh
+0	57	rosco-web/config/packer/oci.json
+0	42	rosco-web/config/packer/scripts/aws-windows-2012-configure-ec2service.ps1
+0	30	rosco-web/config/packer/scripts/aws-windows.userdata
+0	84	rosco-web/config/packer/scripts/windows-configure-chocolatey.ps1
+0	109	rosco-web/config/packer/scripts/windows-install-packages.ps1
+1	1	rosco-web/rosco-web.gradle
+
+--bd12136--2020-02-24--Michael Plump
+5	6	Dockerfile.compile
+4	4	Dockerfile.java8
+4	4	Dockerfile.slim
+4	4	Dockerfile.ubuntu
+4	4	Dockerfile.ubuntu-java8
+
+--737bcc8--2020-02-24--spinnakerbot
+2	2	gradle.properties
+
+--6d80219--2020-02-21--spinnakerbot
+2	2	gradle.properties
+
+--1881ef0--2020-02-21--Evan Sebastian
+1	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+27	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/config/RoscoHelmConfigurationProperties.java
+6	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+29	5	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+36	2	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsSpec.groovy
+5	1	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsTest.java
+2	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--c9bfe69--2020-02-20--spinnakerbot
+2	2	gradle.properties
+
+--5da1ba0--2020-02-20--Evan Sebastian
+8	0	Dockerfile.java8
+8	0	Dockerfile.slim
+8	0	Dockerfile.ubuntu
+8	0	Dockerfile.ubuntu-java8
+
+--470bc5e--2020-02-17--spinnakerbot
+2	2	gradle.properties
+
+--13635f8--2020-02-14--spinnakerbot
+2	2	gradle.properties
+
+--4a5da50--2020-02-11--spinnakerbot
+2	2	gradle.properties
+
+--8b62d48--2020-02-10--spinnakerbot
+2	2	gradle.properties
+
+--67a0f67--2020-02-10--Rob Zienert
+1	0	build.gradle
+
+--2a2e18d--2020-02-10--spinnakerbot
+2	2	gradle.properties
+
+--6db04c4--2020-02-07--spinnakerbot
+2	2	gradle.properties
+
+--95d2d09--2020-02-07--spinnakerbot
+2	2	gradle.properties
+
+--7e2a10e--2020-02-07--spinnakerbot
+2	2	gradle.properties
+
+--8012f8b--2020-02-05--spinnakerbot
+2	2	gradle.properties
+
+--dde36a9--2020-02-05--spinnakerbot
+2	2	gradle.properties
+
+--b9557c2--2020-02-04--spinnakerbot
+2	2	gradle.properties
+
+--8db2e64--2020-02-03--Travis Tomsu
+28	0	.github/workflows/ci.yml
+
+--a10c462--2020-01-31--spinnakerbot
+2	2	gradle.properties
+
+--2f00fb5--2020-01-29--spinnakerbot
+2	2	gradle.properties
+
+--6fb1e67--2020-01-28--spinnakerbot
+2	2	gradle.properties
+
+--8cc346b--2020-01-28--spinnakerbot
+2	2	gradle.properties
+
+--619c172--2020-01-27--spinnakerbot
+2	2	gradle.properties
+
+--389c47c--2020-01-27--spinnakerbot
+2	1	gradle.properties
+
+--442bf23--2020-01-27--Pierre Delagrave
+1	2	gradle.properties
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/config/RedisConnectionInfo.groovy
+
+--5da6d47--2020-01-23--spinnakerbot
+2	2	gradle.properties
+
+--2865999--2020-01-23--spinnakerbot
+2	2	gradle.properties
+
+--f979b44--2020-01-22--spinnakerbot
+2	2	gradle.properties
+
+--f00ffd6--2020-01-21--spinnakerbot
+2	2	gradle.properties
+
+--6877be5--2020-01-20--spinnakerbot
+2	2	gradle.properties
+
+--46cb218--2020-01-20--spinnakerbot
+2	2	gradle.properties
+
+--508e253--2020-01-16--Ethan Rogers
+1	1	gradle.properties
+
+--7cb56a6--2020-01-16--Ethan Rogers
+1	1	gradle.properties
+
+--e7c0e75--2020-01-15--spinnakerbot
+2	2	gradle.properties
+
+--6f715b1--2020-01-15--Michael Plump
+30	0	Dockerfile.java8
+1	1	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+29	0	Dockerfile.ubuntu-java8
+
+--34a269b--2020-01-15--spinnakerbot
+2	2	gradle.properties
+
+--22140d3--2020-01-15--spinnakerbot
+2	2	gradle.properties
+
+--ae11314--2020-01-14--spinnakerbot
+2	2	gradle.properties
+
+--4a723ef--2020-01-14--spinnakerbot
+2	2	gradle.properties
+
+--81d5f1f--2020-01-07--Pierre Delagrave
+2	2	gradle.properties
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/config/RedisConnectionInfo.groovy
+
+--e456a97--2020-01-06--spinnakerbot
+2	2	gradle.properties
+
+--4e7d56e--2019-12-30--Michael Plump
+1	1	Dockerfile.slim
+
+--9d0269d--2019-12-27--Maggie Neterval
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+
+--b6d95c7--2019-12-16--spinnakerbot
+2	2	gradle.properties
+
+--e2f660f--2019-12-13--Michael Plump
+2	2	Dockerfile.slim
+
+--1c2370e--2019-12-13--Michael Plump
+1	1	Dockerfile.slim
+
+--189a0c2--2019-12-11--spinnakerbot
+2	2	gradle.properties
+
+--52f918b--2019-12-11--spinnakerbot
+2	2	gradle.properties
+
+--c2b3a74--2019-12-10--Pierre Delagrave
+1	1	gradle.properties
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/config/RedisConnectionInfo.groovy
+
+--3cbd84f--2019-12-10--spinnakerbot
+2	2	gradle.properties
+
+--142f4bf--2019-12-09--spinnakerbot
+2	2	gradle.properties
+
+--0f7c4da--2019-12-05--spinnakerbot
+2	2	gradle.properties
+
+--2f7172f--2019-12-04--Eric Zimanyi
+9	10	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+5	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+8	9	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+10	11	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandlerSpec.groovy
+
+--99c6c4f--2019-12-04--spinnakerbot
+2	2	gradle.properties
+
+--b745ac8--2019-08-09--Louis Jimenez
+1	0	.travis.yml
+
+--1aafcb0--2019-12-03--Travis Tomsu
+13	4	halconfig/images.yml
+13	4	rosco-web/config/rosco.yml
+
+--9712828--2019-12-03--Travis Tomsu
+13	4	halconfig/images.yml
+13	4	rosco-web/config/rosco.yml
+
+--203179e--2019-12-02--spinnakerbot
+2	2	gradle.properties
+
+--ac8c066--2019-12-02--Travis Tomsu
+8	8	halconfig/images.yml
+
+--269dc83--2019-12-02--Travis Tomsu
+13	4	halconfig/images.yml
+
+--16f6c06--2019-12-02--Travis Tomsu
+8	8	rosco-web/config/rosco.yml
+
+--ba62976--2019-12-02--Travis Tomsu
+13	4	rosco-web/config/rosco.yml
+
+--6c02c31--2019-12-02--Travis Tomsu
+11	0	.mergify.yml
+
+--57e63f6--2019-11-27--spinnakerbot
+2	2	gradle.properties
+
+--ad8a2d0--2019-11-28--zengchen
+1	1	README.md
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+253	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/huaweicloud/HuaweiCloudBakeHandler.java
+99	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/huaweicloud/config/RoscoHuaweiCloudConfiguration.java
+521	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/huaweicloud/HuaweiCloudBakeHandlerSpec.groovy
+77	0	rosco-web/config/packer/huaweicloud.json
+35	0	rosco-web/config/rosco.yml
+1	0	rosco-web/rosco-web.gradle
+2	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--7d8f2ad--2019-11-20--spinnakerbot
+2	2	gradle.properties
+
+--e83e726--2019-11-11--spinnakerbot
+2	2	gradle.properties
+
+--5249105--2019-11-11--spinnakerbot
+2	2	gradle.properties
+
+--eb77205--2019-11-10--spinnakerbot
+2	2	gradle.properties
+
+--7de115d--2019-11-05--spinnakerbot
+2	2	gradle.properties
+
+--7472a99--2019-11-04--spinnakerbot
+2	2	gradle.properties
+
+--38a0486--2019-11-04--spinnakerbot
+2	2	gradle.properties
+
+--cc0aaff--2019-10-30--Asher Feldman
+2	1	rosco-core/rosco-core.gradle
+23	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+45	8	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+12	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+8	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/services/ClouddriverService.java
+15	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/services/ServiceConfig.java
+60	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+1	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--2f92d63--2019-10-29--Kathryn Lewis
+1	0	rosco-manifests/rosco-manifests.gradle
+4	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloader.java
+17	12	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImpl.java
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+1	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeBakeManifestRequest.java
+89	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtils.java
+2	2	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImplTest.java
+
+--a43835d--2019-10-29--Kevin Woo
+3	4	Dockerfile.slim
+5	4	Dockerfile.ubuntu
+
+--2f27972--2019-10-28--spinnakerbot
+2	2	gradle.properties
+
+--c520000--2019-10-25--spinnakerbot
+2	2	gradle.properties
+
+--3c5cc58--2019-10-23--spinnakerbot
+2	2	gradle.properties
+
+--406d927--2019-10-23--Sergio Pena
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeOptions.groovy
+3	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+59	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+1	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+4	0	rosco-web/config/rosco.yml
+
+--14b794b--2019-10-23--Mark Vulfson
+4	0	.mergify.yml
+
+--00dbfde--2019-10-23--Maggie Neterval
+9	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImpl.java
+
+--7e5d3da--2019-10-22--spinnakerbot
+2	2	gradle.properties
+
+--7f03017--2019-10-21--Mark Vulfson
+19	0	.mergify.yml
+
+--f6c8580--2019-10-18--Maggie Neterval
+1	1	Dockerfile.slim
+
+--e853428--2019-10-18--karthiksadhasivam
+3	3	Dockerfile.slim
+3	3	Dockerfile.ubuntu
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--0afbb05--2019-10-16--spinnakerbot
+2	2	gradle.properties
+
+--9efc017--2019-10-15--Kevin Woo
+1	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtils.java
+
+--338a41d--2019-10-14--spinnakerbot
+1	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestRequest.java
+2	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+
+--9e0dc7c--2019-10-11--Eric Zimanyi
+25	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloader.java
+37	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImpl.java
+15	3	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestEnvironment.java
+8	9	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+3	4	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestService.java
+0	37	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+2	4	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+21	62	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+2	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeBakeManifestService.java
+8	17	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtils.java
+7	7	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsSpec.groovy
+0	56	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsTest.java
+12	32	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtilsSpec.groovy
+93	0	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/ArtifactDownloaderImplTest.java
+63	0	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/BakeManifestEnvironmentTest.java
+48	0	rosco-manifests/src/test/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsTest.java
+
+--abe19bb--2019-10-11--Ethan Rogers
+1	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestRequest.java
+2	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+
+--2d31878--2019-10-10--Eric Zimanyi
+4	0	rosco-manifests/rosco-manifests.gradle
+16	5	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+56	0	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsTest.java
+
+--746fa9c--2019-10-10--Eric Zimanyi
+4	0	rosco-manifests/rosco-manifests.gradle
+16	5	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+56	0	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsTest.java
+
+--c0fdcab--2019-10-10--German Muzquiz
+1	0	rosco-web/rosco-web.gradle
+
+--6851ced--2019-10-07--spinnakerbot
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+
+--357c1ae--2019-10-07--Ethan Rogers
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+
+--89c22b3--2019-10-01--spinnakerbot
+2	2	gradle.properties
+
+--97cbd55--2019-09-26--spinnakerbot
+2	2	gradle.properties
+
+--7c7c17a--2019-09-18--spinnakerbot
+2	2	gradle.properties
+
+--42f3d31--2019-09-10--spinnakerbot
+2	2	gradle.properties
+
+--22f25af--2019-09-10--Aaquiff Ahnaff Rauf
+3	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+25	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+141	0	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtilsSpec.groovy
+
+--09a9b61--2019-09-09--spinnakerbot
+2	2	gradle.properties
+
+--315130d--2019-09-06--spinnakerbot
+2	2	gradle.properties
+
+--d642d80--2019-09-06--spinnakerbot
+2	2	gradle.properties
+
+--886d285--2019-09-05--spinnakerbot
+2	2	gradle.properties
+
+--cfb88bb--2019-09-04--spinnakerbot
+2	2	gradle.properties
+
+--75ecbe7--2019-09-03--Matt Duftler
+1	1	README.md
+
+--9ff81c5--2019-09-03--Michael Plump
+47	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestEnvironment.java
+23	26	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestService.java
+5	28	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+12	10	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+1	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+13	10	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeBakeManifestService.java
+1	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtils.java
+7	3	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/V2BakeryController.java
+
+--60ec793--2019-08-31--Ethan Rogers
+7	0	Dockerfile.slim
+5	0	Dockerfile.ubuntu
+2	0	rosco-manifests/rosco-manifests.gradle
+2	5	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+71	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestService.java
+14	38	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+3	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestRequest.java
+20	57	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+31	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+102	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizationFileReader.java
+28	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeBakeManifestRequest.java
+61	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeBakeManifestService.java
+212	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtils.java
+33	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/mapping/ConfigMapGenerator.java
+72	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/mapping/Kustomization.java
+29	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/mapping/Patch.java
+31	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/mapping/PatchesJson6902.java
+33	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/kustomize/mapping/Target.java
+76	0	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizationFileReaderSpec.groovy
+220	0	rosco-manifests/src/test/groovy/com/netflix/spinnaker/rosco/manifests/kustomize/KustomizeTemplateUtilsSpec.groovy
+27	7	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/V2BakeryController.java
+
+--6d923bf--2019-08-30--spinnakerbot
+2	2	gradle.properties
+
+--1e835f9--2019-08-23--Gard Rimestad
+6	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/Bake.groovy
+7	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+20	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+47	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+7	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+
+--9e97494--2019-08-22--spinnakerbot
+2	2	gradle.properties
+
+--c652935--2019-08-21--Ethan Rogers
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+
+--6664a44--2019-08-20--spinnakerbot
+2	2	gradle.properties
+
+--2338366--2019-08-20--Pierre Delagrave
+0	25	Dockerfile
+6	0	Dockerfile.compile
+4	7	Dockerfile.slim
+23	0	Dockerfile.ubuntu
+0	13	cloudbuild.yaml
+
+--1181e00--2019-08-19--spinnakerbot
+2	2	gradle.properties
+
+--023fc42--2019-08-16--spinnakerbot
+2	2	gradle.properties
+
+--5d2eeb5--2019-08-15--spinnakerbot
+2	2	gradle.properties
+
+--150a1d7--2019-08-15--Asher Feldman
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+
+--0f37339--2019-08-14--matthack
+2	2	Dockerfile
+3	3	Dockerfile.slim
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--778ea6e--2019-08-14--cfieber@netflix.com
+3	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/OCIBakeHandler.java
+1	0	rosco-manifests/rosco-manifests.gradle
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+
+--c7d57de--2019-08-14--cfieber@netflix.com
+1	1	gradle.properties
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+17	1	gradlew
+17	1	gradlew.bat
+
+--b8204d7--2019-08-13--jingsfdc
+2	2	Dockerfile
+3	3	Dockerfile.slim
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--36810ea--2019-08-13--jingsfdc
+2	2	Dockerfile
+3	3	Dockerfile.slim
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--8e34d36--2019-08-12--spinnakerbot
+2	2	gradle.properties
+
+--da5b6d3--2019-08-09--spinnakerbot
+2	2	gradle.properties
+
+--dff9fca--2019-08-09--Eric Zimanyi
+2	2	cloudbuild.yaml
+
+--f95ff49--2019-08-09--Louis Jimenez
+1	0	.travis.yml
+
+--13026b4--2019-08-02--spinnakerbot
+2	2	gradle.properties
+
+--7d00830--2019-07-26--Eric Zimanyi
+0	14	cloudbuild-tagged.yaml
+9	6	cloudbuild.yaml
+
+--e005118--2019-07-25--spinnakerbot
+2	2	gradle.properties
+
+--9162855--2019-07-25--Michael Plump
+10	0	.idea/README.md
+8	0	.idea/compiler.xml
+6	0	.idea/copyright/ALS2.xml
+3	0	.idea/copyright/profiles_settings.xml
+6	0	.idea/google-java-format.xml
+12	0	.idea/gradle.xml
+6	0	.idea/vcs.xml
+1	1	gradle.properties
+
+--4bff7a3--2019-07-24--He Guimin
+1	1	README.md
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+210	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/alicloud/AliCloudBakeHandler.java
+91	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/alicloud/config/RoscoAliCloudConfiguration.java
+528	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/alicloud/AliCloudBakeHandlerSpec.groovy
+83	0	rosco-web/config/packer/alicloud-multi.json
+49	0	rosco-web/config/packer/alicloud.json
+49	0	rosco-web/config/rosco.yml
+1	0	rosco-web/rosco-web.gradle
+2	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--caf6db7--2019-07-16--spinnakerbot
+2	2	gradle.properties
+
+--f1b54da--2019-07-10--spinnakerbot
+2	2	gradle.properties
+
+--f01311c--2019-07-09--spinnakerbot
+2	2	gradle.properties
+
+--6af777d--2019-07-08--spinnakerbot
+2	1	gradle.properties
+
+--df39500--2019-06-26--Eric Zimanyi
+0	4	build.gradle
+2	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoPackerConfigurationProperties.java
+48	40	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/OCIBakeHandler.java
+6	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/config/RoscoOracleConfiguration.java
+7	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.java
+6	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageUtil.java
+4	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerArtifactService.java
+4	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerManifest.java
+5	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerManifestService.java
+0	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/DebPackageUtil.java
+0	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/RpmPackageUtil.java
+0	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/services/ClouddriverService.java
+4	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/services/ServiceConfig.java
+5	3	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+18	16	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestRequest.java
+15	17	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+9	10	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+1	3	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/V2BakeryController.java
+
+--d6eeae9--2019-06-26--Eric Zimanyi
+26	54	build.gradle
+4	0	gradle.properties
+3	3	gradle/buildViaTravis.sh
+0	14	gradle/init-publish.gradle
+2	2	gradle/installViaTravis.sh
+1	1	gradle/wrapper/gradle-wrapper.properties
+17	12	rosco-core/rosco-core.gradle
+3	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+5	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/config/RoscoAzureConfiguration.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/config/RoscoDockerConfiguration.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/config/RoscoOracleConfiguration.java
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/services/ServiceConfig.java
+9	3	rosco-manifests/rosco-manifests.gradle
+11	9	rosco-web/rosco-web.gradle
+2	2	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+3	3	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+
+--390f618--2019-06-24--spinnakerbot
+--e04da7d--2019-06-24--Eric Zimanyi
+0	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+85	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/StatusController.groovy
+0	42	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/AllStatusEndpoint.groovy
+0	44	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/InstanceStatusEndpoint.groovy
+0	79	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/StatusHandler.groovy
+0	47	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/mvc/AllStatusMvcEndpoint.groovy
+0	47	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/mvc/InstanceStatusMvcEndpoint.groovy
+105	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/AllStatusEndpointSpec.groovy
+113	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/InstanceStatusEndpointSpec.groovy
+0	117	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/endpoints/AllStatusEndpointSpec.groovy
+0	117	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/endpoints/InstanceStatusEndpointSpec.groovy
+
+--276152c--2019-06-24--Eric Zimanyi
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+30	10	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--c0b17b0--2019-06-21--Eric Zimanyi
+0	90	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+107	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.java
+0	13	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageUtil.groovy
+32	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageUtil.java
+0	70	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/DebPackageUtil.groovy
+86	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/DebPackageUtil.java
+0	63	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/RpmPackageUtil.groovy
+82	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/RpmPackageUtil.java
+
+--4998c28--2019-06-17--spinnakerbot
+--164ce77--2019-06-17--spinnakerbot
+--658ff32--2019-06-17--spinnakerbot
+--7cc64ec--2019-06-03--spinnakerbot
+--9cc3ab8--2019-05-31--spinnakerbot
+--a86c365--2019-05-20--Eric Zimanyi
+4	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+
+--59f7929--2019-05-17--spinnakerbot
+5	3	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+
+--a8d60cb--2019-05-17--Eric Zimanyi
+5	3	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+
+--0ababe1--2019-05-16--Asher Feldman
+14	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoPackerConfigurationProperties.java
+11	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactory.groovy
+4	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+8	0	rosco-web/config/rosco.yml
+2	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--f85fdf6--2019-05-15--Asher Feldman
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+3	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/JobRequest.groovy
+14	8	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+2	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+1	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocalSpec.groovy
+8	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+14	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/WebConfig.groovy
+12	2	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+
+--6d78af6--2019-05-14--Asher Feldman
+11	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+
+--6ce4545--2019-04-26--Cameron Fieber
+1	0	rosco-web/rosco-web.gradle
+
+--0a3286a--2019-04-25--Publik
+0	18	halconfig/images.yml
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+0	162	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+0	83	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/config/RoscoOpenstackConfiguration.groovy
+0	741	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+0	59	rosco-web/config/packer/openstack.json
+0	36	rosco-web/config/rosco.yml
+0	2	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+1	14	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--0f63f8d--2019-04-23--Daniel Lamando
+1	0	rosco-core/rosco-core.gradle
+9	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+17	24	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+
+--d719000--2019-04-22--spinnakerbot
+1	1	build.gradle
+
+--ef375fd--2019-04-16--Rob Zienert
+3	0	OWNERS.md
+
+--b347c75--2019-04-16--Rob Zienert
+3	0	OWNERS.md
+
+--4e887be--2019-04-12--Nick Gaya
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeStatus.groovy
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/JobRequest.groovy
+24	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+83	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocalSpec.groovy
+2	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+
+--e0459c2--2019-04-09--Jeyrs Chabu
+6	0	.gitignore
+
+--7701637--2019-03-29--spinnakerbot
+1	1	build.gradle
+
+--e6d50e6--2019-03-26--spinnakerbot
+1	1	build.gradle
+
+--74f0718--2019-03-22--spinnakerbot
+1	1	build.gradle
+
+--95a2e29--2019-03-15--spinnakerbot
+1	1	build.gradle
+
+--af545ba--2019-03-14--spinnakerbot
+1	1	rosco-web/config/packer/azure-linux.json
+
+--f5f1868--2019-03-14--spinnakerbot
+23	13	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+14	16	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+2	5	rosco-web/config/packer/azure-linux.json
+
+--973da7d--2019-03-08--spinnakerbot
+1	1	build.gradle
+
+--39a556d--2019-03-05--Brandon Powell
+1	1	gradle/init-publish.gradle
+
+--eb06e32--2019-02-26--spinnakerbot
+1	1	build.gradle
+
+--3b8789f--2019-02-20--spinnakerbot
+1	1	build.gradle
+
+--7216b11--2019-02-15--spinnakerbot
+1	1	build.gradle
+
+--a646179--2019-02-13--spinnakerbot
+1	1	build.gradle
+
+--020f087--2019-02-12--mybayern1974
+1	1	rosco-web/config/packer/azure-linux.json
+
+--2b1f120--2019-02-08--spinnakerbot
+1	1	build.gradle
+
+--e795f4c--2019-02-07--spinnakerbot
+1	1	build.gradle
+
+--d7d1864--2019-02-01--spinnakerbot
+1	1	build.gradle
+
+--2e74dce--2019-01-30--spinnakerbot
+1	1	build.gradle
+
+--0054289--2019-01-31--Zhiqing Qiu
+23	13	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+14	16	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+2	5	rosco-web/config/packer/azure-linux.json
+
+--107139d--2019-01-30--spinnakerbot
+1	1	build.gradle
+
+--91f74ed--2019-01-29--spinnakerbot
+1	1	build.gradle
+
+--d5e52f4--2019-01-28--spinnakerbot
+1	1	build.gradle
+
+--42f81a2--2019-01-23--spinnakerbot
+1	1	build.gradle
+
+--212b504--2019-01-23--Eric Zimanyi
+1	1	build.gradle
+
+--7fff805--2019-01-23--spinnakerbot
+1	1	build.gradle
+
+--b650bf8--2019-01-23--spinnakerbot
+1	1	build.gradle
+
+--7da3298--2019-01-22--spinnakerbot
+1	1	build.gradle
+
+--aebb58d--2019-01-22--Steve
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+
+--9608d72--2019-01-22--Zhiqing Qiu
+22	2	halconfig/images.yml
+22	2	rosco-web/config/rosco.yml
+
+--9a16e3c--2019-01-18--spinnakerbot
+1	1	build.gradle
+
+--8cec1f6--2019-01-17--Jørgen Jervidalo
+1	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+4	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+20	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+15	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+16	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--c768c84--2019-01-16--spinnakerbot
+1	1	build.gradle
+
+--0737197--2019-01-14--spinnakerbot
+1	1	build.gradle
+
+--4ec406b--2019-01-11--spinnakerbot
+1	1	build.gradle
+
+--a504152--2019-01-11--Chris Smalley
+4	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+32	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+
+--682c959--2019-01-07--spinnakerbot
+1	1	build.gradle
+
+--a3232d0--2019-01-02--spinnakerbot
+1	1	build.gradle
+
+--0e336fc--2018-12-21--spinnakerbot
+3	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+38	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+
+--6fcb7f0--2018-12-21--Eric Zimanyi
+3	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+38	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+
+--b6f3bb0--2018-12-18--spinnakerbot
+1	1	build.gradle
+
+--d30d103--2018-12-07--spinnakerbot
+1	1	build.gradle
+
+--f71c8ee--2018-12-06--spinnakerbot
+1	1	build.gradle
+
+--d04126c--2018-11-30--Dibyo Mukherjee
+7	1	build.gradle
+
+--91f4baf--2018-11-24--spinnakerbot
+1	1	build.gradle
+
+--08bcc3b--2018-11-12--spinnakerbot
+1	1	build.gradle
+
+--952061d--2018-11-08--spinnakerbot
+1	1	build.gradle
+
+--8edec78--2018-11-08--Guoyong Zhang
+1	1	rosco-web/config/packer/oci.json
+
+--ccb004e--2018-11-09--joashc
+2	2	Dockerfile
+3	3	Dockerfile.slim
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--7dc4f88--2018-10-25--spinnakerbot
+1	1	build.gradle
+
+--07ae50c--2018-10-25--Travis Tomsu
+10	7	build.gradle
+7	5	gradle/buildViaTravis.sh
+14	0	gradle/init-publish.gradle
+6	4	gradle/installViaTravis.sh
+25	28	rosco-web/rosco-web.gradle
+
+--45abba8--2018-10-18--spinnakerbot
+1	1	build.gradle
+
+--066c231--2018-10-18--spinnakerbot
+1	1	build.gradle
+
+--0a9161e--2018-10-17--spinnakerbot
+1	1	build.gradle
+
+--7a0a802--2018-10-17--Guoyong Zhang
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/OCIBakeHandler.java
+9	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/config/ManagedOracleAccount.java
+3	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/oracle/OCIBakeHandlerSpec.groovy
+3	1	rosco-web/config/packer/oci.json
+
+--71bd589--2018-10-05--spinnakerbot
+1	1	build.gradle
+
+--d28ab94--2018-10-05--spinnakerbot
+1	1	build.gradle
+
+--082349e--2018-10-03--spinnakerbot
+1	1	build.gradle
+
+--be3a089--2018-10-03--spinnakerbot
+1	1	build.gradle
+1	1	halconfig/packer
+
+--2f1a4f8--2018-10-02--Travis Tomsu
+5	1	build.gradle
+
+--5e766c0--2018-10-02--Lars Wander
+0	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeStatus.groovy
+3	15	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+
+--f785bf2--2018-09-21--Guoyong Zhang
+8	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/OCIBakeHandler.java
+4	4	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/oracle/OCIBakeHandlerSpec.groovy
+
+--15a5614--2018-09-18--Sergey Reshetnyak
+1	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+
+--e1ab712--2018-09-18--Sergey Reshetnyak
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeStatus.groovy
+15	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+1	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+
+--7ee530f--2018-09-18--Brant Burnett
+4	2	rosco-web/config/packer/aws-windows-2012-r2.json
+4	2	rosco-web/config/packer/azure-windows-2012-r2.json
+
+--dd1bac8--2018-09-14--Guoyong Zhang
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+181	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/OCIBakeHandler.java
+76	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/config/ManagedOracleAccount.java
+62	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/config/OracleBakeryDefaults.java
+24	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/config/OracleConfigurationProperties.java
+34	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/config/OracleOperatingSystemVirtualizationSettings.java
+32	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/config/OracleVirtualizationSettings.java
+56	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/oracle/config/RoscoOracleConfiguration.java
+253	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/oracle/OCIBakeHandlerSpec.groovy
+55	0	rosco-web/config/packer/oci.json
+1	0	rosco-web/rosco-web.gradle
+2	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--c420b6f--2018-09-06--Brant Burnett
+4	0	rosco-web/config/packer/scripts/windows-install-packages.ps1
+
+--acc2fa7--2018-08-28--Eric Zimanyi
+1	1	build.gradle
+
+--c057c1d--2018-08-17--Lars Wander
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--2a1f79a--2018-08-18--Daiki Matsui
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--3608dd8--2018-08-13--Eric Zimanyi
+14	15	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+
+--adf0e78--2018-07-06--Kevin Woo
+1	1	rosco-web/config/packer/install_packages.sh
+
+--c5b9f9a--2018-07-06--Kevin Woo
+1	1	rosco-web/config/packer/install_packages.sh
+
+--12add38--2018-06-06--Sergey Reshetnyak
+1	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+0	71	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestService.java
+0	6	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+11	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestRequest.java
+75	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmBakeManifestService.java
+10	3	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+6	5	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/V2BakeryController.java
+
+--b6cc3e2--2018-05-25--Nick
+7	5	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+
+--58990ea--2018-05-25--Eric Zimanyi
+5	3	rosco-web/config/packer/install_packages.sh
+
+--6d0f875--2018-05-23--Jacob Kiefer
+1	1	Dockerfile
+
+--5677fec--2018-05-21--Eric Zimanyi
+4	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+
+--887c3ea--2018-05-18--Eric Zimanyi
+2	2	rosco-web/config/rosco.yml
+
+--699c1a7--2018-05-18--Rory Quinn
+83	65	rosco-web/config/packer/scripts/windows-install-packages.ps1
+
+--ae12d5d--2018-05-15--Sergey Reshetnyak
+9	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+
+--c4aad5b--2018-05-07--Eric Zimanyi
+9	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+
+--229ef60--2018-05-03--Eric Zimanyi
+87	19	rosco-web/config/packer/install_packages.sh
+
+--676ee25--2018-05-02--Lars Wander
+1	1	Dockerfile.slim
+
+--a05e823--2018-05-02--Lars Wander
+5	0	Dockerfile
+5	0	Dockerfile.slim
+8	0	rosco-web/pkg_scripts/postInstall.sh
+
+--4d90fc7--2018-04-27--Eric Zimanyi
+4	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+7	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+10	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+77	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerArtifactService.java
+63	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+20	12	rosco-web/config/packer/gce.json
+4	0	rosco-web/config/packer/install_packages.sh
+
+--bddfd19--2018-04-23--Lars Wander
+1	2	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+19	1	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+
+--0d65954--2018-04-09--Jon Schneider
+2	2	build.gradle
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	2	gradle/wrapper/gradle-wrapper.properties
+42	30	gradlew
+4	10	gradlew.bat
+3	1	rosco-web/rosco-web.gradle
+
+--044e163--2018-04-19--Eric Zimanyi
+1	0	rosco-core/rosco-core.gradle
+19	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+48	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerManifest.java
+63	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerManifestService.java
+118	15	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+34	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackerManifestServiceSpec.groovy
+50	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackerManifestSpec.groovy
+6	1	rosco-web/config/packer/gce.json
+
+--14e3b91--2018-04-19--Sergey Reshetnyak
+1	1	Dockerfile.slim
+
+--f86b041--2018-04-13--Isaac Mosquera
+2	2	Dockerfile
+3	3	Dockerfile.slim
+
+--49a3fda--2018-04-13--Lars Wander
+2	0	rosco-manifests/rosco-manifests.gradle
+0	4	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+20	13	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestService.java
+28	3	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+3	3	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+
+--2896d13--2018-04-13--Lars Wander
+9	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+
+--5917bd8--2018-04-12--Lars Wander
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/JobExecutor.groovy
+17	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/config/LocalJobConfig.groovy
+13	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+
+--3da3349--2018-04-11--Eric Zimanyi
+5	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+12	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+3	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandlerSpec.groovy
+
+--7f42a88--2018-04-10--Lars Wander
+1	1	build.gradle
+2	1	rosco-core/rosco-core.gradle
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/JobRequest.groovy
+12	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/services/ClouddriverService.java
+51	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/services/ServiceConfig.java
+1	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+3	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+5	0	rosco-manifests/rosco-manifests.gradle
+39	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestRequest.java
+64	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/BakeManifestService.java
+50	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/TemplateUtils.java
+36	0	rosco-manifests/src/main/java/com/netflix/spinnaker/rosco/manifests/helm/HelmTemplateUtils.java
+1	0	rosco-web/rosco-web.gradle
+4	2	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+23	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/V2BakeryController.java
+1	1	settings.gradle
+
+--6b59b56--2018-04-09--Brant Burnett
+1	1	rosco-web/config/packer/aws-windows-2012-r2.json
+
+--e6caba3--2018-04-06--Lars Wander
+3	3	Dockerfile.slim
+
+--dbaf576--2018-04-04--Lars Wander
+1	1	Dockerfile.slim
+
+--8c1618a--2018-04-04--Lars Wander
+4	0	Dockerfile.slim
+
+--8a7f60f--2018-03-03--Eric Zimanyi
+10	0	README.md
+5	0	build.gradle
+
+--266bf0d--2018-02-09--Mike Rowehl
+14	14	halconfig/images.yml
+1	1	rosco-web/config/packer/aws-ebs.json
+1	1	rosco-web/config/packer/aws-multi-ebs.json
+1	1	rosco-web/config/packer/aws-windows-2012-r2.json
+16	16	rosco-web/config/rosco.yml
+
+--f20e74a--2018-02-08--Daniel Williams
+1	1	rosco-web/etc/init/rosco.conf
+
+--9bcde95--2018-02-08--Volodymyr Sobotovych
+1	1	Dockerfile
+1	1	Dockerfile.slim
+
+--51d8090--2018-01-14--Rob Umberger
+28	0	halconfig/images.yml
+8	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+2	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+40	6	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+4	0	rosco-web/config/packer/aws-ebs.json
+4	0	rosco-web/config/packer/aws-multi-ebs.json
+6	0	rosco-web/config/packer/aws-windows-2012-r2.json
+47	0	rosco-web/config/rosco.yml
+
+--edf8709--2018-01-04--Sandeep Raju
+11	9	rosco-web/config/rosco.yml
+
+--18de903--2017-11-30--Brandon Nelson
+1	1	rosco-web/lib/systemd/system/rosco.service
+
+--a80a887--2017-11-28--Brandon Nelson
+14	0	rosco-web/lib/systemd/system/rosco.service
+
+--08c1021--2017-11-03--Daiki Matsui
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+1	1	rosco-web/config/packer/aws-chroot.json
+2	2	rosco-web/config/packer/aws-ebs.json
+1	1	rosco-web/config/packer/aws-multi-chroot.json
+2	2	rosco-web/config/packer/aws-multi-ebs.json
+1	1	rosco-web/config/packer/aws-windows-2012-r2.json
+
+--9a84499--2017-11-03--Tomas Pulmano
+2	3	rosco-web/config/packer/aws-ebs.json
+
+--8f05647--2017-11-02--Avram Lyon
+3	2	rosco-web/config/packer/aws-ebs.json
+
+--858cf33--2017-11-02--Anders Brujordet
+2	1	build.gradle
+2	2	gradle/wrapper/gradle-wrapper.properties
+1	0	rosco-core/rosco-core.gradle
+0	31	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/Artifact.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/Bake.groovy
+1	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+6	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+9	10	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+7	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandlerSpec.groovy
+1	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+
+--66b8a89--2017-10-19--LuizMuller
+2	2	Dockerfile
+3	3	Dockerfile.slim
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--e9c8fb9--2017-09-25--Costi Muraru
+4	0	rosco-web/rosco-web.gradle
+
+--11878df--2017-09-14--Adam Jordens
+1	1	build.gradle
+1	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--ea91135--2017-09-13--Adam Jordens
+1	1	build.gradle
+1	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--6c0bd77--2017-09-05--Rob Umberger
+3	2	rosco-web/config/packer/install_packages.sh
+
+--769d7b2--2017-08-21--Travis Tomsu
+3	3	build.gradle
+1	1	rosco-web/rosco-web.gradle
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+6	28	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+8	8	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--d900a50--2017-07-11--Gary Danko
+1	1	build.gradle
+
+--c73b9ee--2017-07-10--Travis Tomsu
+14	0	cloudbuild-tagged.yaml
+2	2	cloudbuild.yaml
+
+--7fe25ac--2017-07-05--Matt Duftler
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+100	56	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+2	0	rosco-web/config/packer/gce.json
+
+--c831ee0--2017-06-22--Andrew Backes
+5	0	rosco-web/config/rosco.yml
+
+--1956e53--2017-06-02--Gary Danko
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--abe9164--2017-06-01--Lars Wander
+0	8	halconfig/images.yml
+44	53	rosco-web/config/rosco.yml
+
+--e06ce53--2017-06-01--Matt Duftler
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactory.groovy
+
+--a78cb92--2017-05-31--Travis Tomsu
+1	1	.github/PULL_REQUEST_TEMPLATE.md
+
+--b735a17--2017-06-01--Matt Duftler
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactory.groovy
+
+--f41f278--2017-05-31--Travis Tomsu
+1	1	.github/PULL_REQUEST_TEMPLATE.md
+
+--d739d38--2017-05-24--Lars Wander
+12	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+
+--a48965b--2017-05-24--Lars Wander
+1	1	halconfig/rosco.yml
+
+--072cfa3--2017-05-23--Anders Brujordet
+31	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/Artifact.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/Bake.groovy
+11	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+23	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/BakeRecipe.groovy
+13	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+36	12	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+30	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+50	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+70	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandlerSpec.groovy
+15	15	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+2	2	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+6	6	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+16	16	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+9	9	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+21	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+9	5	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+24	15	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--b2cadca--2017-05-13--Lars Wander
+194	0	halconfig/images.yml
+1	0	halconfig/packer
+
+--9bd9bc5--2017-05-01--Rob Umberger
+0	1	rosco-web/config/packer/scripts/windows-configure-chocolatey.ps1
+77	3	rosco-web/config/packer/scripts/windows-install-packages.ps1
+
+--358ab4f--2017-04-06--Jacob Kiefer
+1	2	Dockerfile.slim
+
+--b093d57--2017-04-06--Jacob Kiefer
+3	1	Dockerfile.slim
+
+--eec8d92--2017-04-06--Jacob Kiefer
+1	1	Dockerfile.slim
+
+--a8d4eb6--2017-04-06--Jacob Kiefer
+1	1	Dockerfile.slim
+
+--4e4b69a--2017-04-05--Jacob Kiefer
+1	0	Dockerfile.slim
+
+--93fabe1--2017-04-05--Jacob Kiefer
+1	0	Dockerfile.slim
+
+--8618292--2017-03-22--Jacob Kiefer
+4	0	.clog.toml
+
+--7e0b95b--2017-03-06--Jacob Kiefer
+0	1	rosco-web/pkg_scripts/postInstall.sh
+4	0	rosco-web/rosco-web.gradle
+
+--8a66a60--2017-03-06--cegganesh84
+1	1	rosco-web/pkg_scripts/postInstall.sh
+
+--d95c788--2017-03-03--Jacob Kiefer
+4	5	rosco-web/pkg_scripts/postInstall.sh
+
+--f061cce--2017-03-03--Jacob Kiefer
+4	4	rosco-web/pkg_scripts/postInstall.sh
+
+--3dc7a46--2017-03-03--Jacob Kiefer
+15	12	rosco-web/pkg_scripts/postInstall.sh
+
+--4727375--2017-03-02--Jacob Kiefer
+15	1	rosco-web/pkg_scripts/postInstall.sh
+
+--3eabe92--2017-03-02--Lars Wander
+11	11	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+
+--4bfc83d--2017-03-02--Lars Wander
+31	11	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+6	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+
+--75fca2a--2017-03-01--Jacob Kiefer
+14	0	.github/PULL_REQUEST_TEMPLATE.md
+
+--5750144--2017-02-22--Travis Tomsu
+0	2	cloudbuild.yaml
+
+--1ec0738--2017-02-14--Lars Wander
+1	1	halconfig/rosco.yml
+
+--d741054--2017-02-14--Richard Guthrie
+14	2	rosco-web/config/packer/azure-linux.json
+
+--b5aaece--2017-02-14--Jacob Kiefer
+1	1	build.gradle
+
+--996b811--2017-02-13--Travis Tomsu
+2	1	cloudbuild.yaml
+
+--ddd6ed4--2017-02-11--Jørgen Jervidalo
+12	14	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+6	171	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+13	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageUtil.groovy
+70	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/DebPackageUtil.groovy
+122	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/NupkgPackageUtil.groovy
+63	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/RpmPackageUtil.groovy
+14	14	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+2	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+6	6	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+14	14	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+7	7	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+2	126	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+39	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/DebPackageUtilSpec.groovy
+75	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/NupkgPackageUtilSpec.groovy
+34	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/packagespecific/RpmPackageUtilSpec.groovy
+
+--9415588--2017-02-10--Matt Duftler
+74	67	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/AllStatusEndpoint.groovy
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/StatusHandler.groovy
+
+--925c120--2017-02-10--Rob Umberger
+9	6	rosco-web/config/packer/install_packages.sh
+
+--83a24bf--2017-02-10--Rob Umberger
+20	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+30	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+
+--d5e73f2--2017-02-07--Travis Tomsu
+8	13	Dockerfile
+16	0	Dockerfile.slim
+2	1	build.gradle
+11	0	cloudbuild.yaml
+
+--12a41ce--2017-02-07--Rob Umberger
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeOptions.groovy
+6	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+6	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+8	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/config/RoscoAzureConfiguration.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerImageNameFactory.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactory.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactory.groovy
+97	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+110	12	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+119	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+5	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+3	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerImageNameFactorySpec.groovy
+13	13	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+7	7	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+15	15	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactorySpec.groovy
+40	2	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+74	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+7	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+78	0	rosco-web/config/packer/aws-windows-2012-r2.json
+70	0	rosco-web/config/packer/azure-windows-2012-r2.json
+42	0	rosco-web/config/packer/scripts/aws-windows-2012-configure-ec2service.ps1
+30	0	rosco-web/config/packer/scripts/aws-windows.userdata
+85	0	rosco-web/config/packer/scripts/windows-configure-chocolatey.ps1
+13	0	rosco-web/config/packer/scripts/windows-install-packages.ps1
+31	3	rosco-web/config/rosco.yml
+
+--5b63609--2017-02-06--Eric Wiseblatt
+--96bd69e--2017-02-06--Eric Wiseblatt
+1	1	build.gradle
+
+--09b7069--2017-02-05--Matt Duftler
+1	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerImageNameFactory.groovy
+
+--3ab5590--2017-02-06--Anders Brujordet
+10	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerImageNameFactory.groovy
+30	6	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+5	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerImageNameFactorySpec.groovy
+2	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+
+--24a5ddf--2017-02-03--Jacob Kiefer
+2	0	gradle/buildViaTravis.sh
+
+--3f24c2b--2017-01-28--Matt Duftler
+4	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+4	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+49	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+2	0	rosco-web/config/packer/gce.json
+
+--c69d724--2017-01-25--Eric Wiseblatt
+--90c22cd--2017-01-23--Eric Wiseblatt
+11	8	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+2	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+3	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+6	7	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+44	8	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--01d5cd2--2017-01-18--Lars Wander
+11	0	halconfig/rosco.yml
+
+--a08ef17--2017-01-17--Matt Duftler
+14	0	rosco-web/config/rosco.yml
+
+--739d4f5--2017-01-17--robumberger
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeOptions.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+3	2	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+3	0	rosco-web/config/rosco.yml
+
+--b6a8108--2017-01-15--Matt Duftler
+2	2	Dockerfile
+8	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+7	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+206	24	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+3	1	rosco-web/config/packer/gce.json
+14	3	rosco-web/config/rosco.yml
+
+--49f92df--2016-12-29--Matt Duftler
+1	1	rosco-web/config/packer/install_packages.sh
+
+--c15e860--2016-12-29--Andrew Halligan
+6	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+
+--a06fda0--2016-12-20--Matt Duftler
+0	9	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+1	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+
+--701b9b1--2016-12-20--Cameron Fieber
+1	1	build.gradle
+5	73	rosco-web/rosco-web.gradle
+
+--fd37973--2016-12-18--Matt Duftler
+4	4	rosco-web/config/rosco.yml
+
+--0ecff1a--2016-12-15--Anders Brujordet
+1	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerImageNameFactory.groovy
+2	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerImageNameFactorySpec.groovy
+
+--abd36e3--2016-12-15--Matt Duftler
+5	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+12	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+0	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+0	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+0	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+0	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+0	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+0	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+0	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/registry/CloudProviderBakeHandlerRegistry.groovy
+0	7	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/registry/DefaultCloudProviderBakeHandlerRegistry.groovy
+3	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+0	45	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+0	30	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+
+--2b70ec6--2016-12-07--Anders Brujordet
+11	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+15	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+1	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+9	4	rosco-web/config/packer/docker.json
+
+--8ab067f--2016-11-21--Matt Duftler
+1	2	build.gradle
+0	3	rosco-metrics/rosco-metrics.gradle
+0	41	rosco-metrics/src/main/groovy/com/netflix/spinnaker/rosco/metrics/config/MetricsConfiguration.groovy
+4	4	rosco-web/config/rosco.yml
+4	1	rosco-web/rosco-web.gradle
+9	2	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+40	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/WebConfig.groovy
+1	1	settings.gradle
+
+--78fcbf6--2016-11-16--John Shimek
+16	20	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+19	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+
+--c77f2fb--2016-11-15--Scot Moorhead
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/config/RoscoAzureConfiguration.groovy
+1	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+3	0	rosco-web/config/rosco.yml
+
+--fd45d52--2016-11-09--Cameron Fieber
+4	4	.travis.yml
+
+--05bed75--2016-11-04--Matt Duftler
+2	2	rosco-web/config/rosco.yml
+
+--57f7e64--2016-11-02--Ulises Olivenza
+1	0	rosco-web/config/rosco.yml
+1	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+42	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/AllStatusEndpoint.groovy
+44	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/InstanceStatusEndpoint.groovy
+79	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/StatusHandler.groovy
+47	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/mvc/AllStatusMvcEndpoint.groovy
+47	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/endpoints/mvc/InstanceStatusMvcEndpoint.groovy
+117	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/endpoints/AllStatusEndpointSpec.groovy
+117	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/endpoints/InstanceStatusEndpointSpec.groovy
+
+--d925edc--2016-11-01--Matt Duftler
+3	3	rosco-web/config/rosco.yml
+
+--1cf6b17--2016-11-01--Matt Duftler
+5	5	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+9	3	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--bf71890--2016-11-01--cegganesh84
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/JobExecutor.groovy
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+24	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+
+--3131d56--2016-10-31--Matt Duftler
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+19	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+72	7	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+
+--c160921--2016-10-26--Anders Brujordet
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/JobRequest.groovy
+1	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+10	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+1	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+37	17	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--7d6e0d1--2016-10-25--Eric Wiseblatt
+1	1	build.gradle
+1	0	rosco-web/rosco-web.gradle
+
+--587ba7f--2016-10-17--Matt Duftler
+4	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+5	2	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+1	1	rosco-web/config/packer/gce.json
+
+--633b37e--2016-10-14--Eric Wiseblatt
+2	2	Dockerfile
+
+--0d3eb27--2016-10-13--Matt Duftler
+17	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+
+--4fed5e8--2016-10-13--Cameron Fieber
+--5bc5839--2016-10-13--Cameron Fieber
+23	3	build.gradle
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--f53f9ae--2016-10-10--Matt Duftler
+10	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+96	10	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+8	4	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+5	4	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--71a672b--2016-09-08--John Shimek
+8	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+3	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/config/RoscoOpenstackConfiguration.groovy
+36	28	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+6	4	rosco-web/config/packer/openstack.json
+5	4	rosco-web/config/rosco.yml
+
+--6ffde7d--2016-08-29--jc
+12	0	Dockerfile
+
+--c62812e--2016-08-24--Anders Brujordet
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+17	21	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+5	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+5	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+4	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+24	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerImageNameFactory.groovy
+5	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+5	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+54	7	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+69	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerImageNameFactorySpec.groovy
+1	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+
+--686f38c--2016-08-23--Dan Maas
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/config/RoscoOpenstackConfiguration.groovy
+11	11	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+2	2	rosco-web/config/packer/openstack.json
+6	4	rosco-web/config/rosco.yml
+
+--2265243--2016-08-23--John Shimek
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+2	10	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+
+--872efae--2016-08-19--Matt Duftler
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+8	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+8	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactory.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerCommandFactory.groovy
+12	12	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+1	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+4	4	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+8	8	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+7	7	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+24	2	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+
+--822a52d--2016-08-11--Matt Duftler
+26	21	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+
+--6b982c2--2016-08-12--Anders Brujordet
+34	36	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+
+--520fa3e--2016-08-10--Eric Wiseblatt
+--48090a6--2016-08-10--duftler
+9	2	rosco-web/config/rosco.yml
+
+--8f24eef--2016-08-06--Matt Duftler
+1	35	rosco-web/config/packer/aws-chroot.json
+1	35	rosco-web/config/packer/aws-ebs.json
+80	0	rosco-web/config/packer/aws-multi-chroot.json
+88	0	rosco-web/config/packer/aws-multi-ebs.json
+3	0	rosco-web/config/rosco.yml
+
+--8bfc330--2016-07-26--Matt Duftler
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+
+--ea46215--2016-07-26--Matt Duftler
+0	7	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+2	7	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+2	7	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+2	7	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+2	8	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+2	7	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+3	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactorySpec.groovy
+
+--20af3c3--2016-07-26--Anders Brujordet
+0	7	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+17	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+8	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+8	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+0	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/config/RoscoAzureConfiguration.groovy
+8	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+9	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+8	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+0	98	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+49	17	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactory.groovy
+27	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+66	31	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+82	79	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+23	13	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+46	22	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+437	418	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+0	296	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+347	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactorySpec.groovy
+9	9	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+16	4	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+20	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/TestDefaults.groovy
+
+--3812ee7--2016-07-24--Dan Maas
+5	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+54	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+0	54	rosco-web/config/packer/openstack-v2.json
+0	56	rosco-web/config/packer/openstack-v3.json
+57	0	rosco-web/config/packer/openstack.json
+1	1	rosco-web/config/rosco.yml
+
+--6d8e94b--2016-07-23--Matt Duftler
+27	0	rosco-web/config/rosco.yml
+
+--b414c73--2016-07-13--Antonio Sagliocco
+18	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+102	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+35	1	rosco-web/config/packer/aws-chroot.json
+35	1	rosco-web/config/packer/aws-ebs.json
+
+--f165221--2016-07-11--Dan Maas
+11	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/JobRequest.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+9	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+5	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+54	0	rosco-web/config/packer/openstack-v2.json
+56	0	rosco-web/config/packer/openstack-v3.json
+0	55	rosco-web/config/packer/openstack.json
+5	5	rosco-web/config/rosco.yml
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+
+--2ba0f44--2016-07-06--Cameron Fieber
+--012bca5--2016-07-06--robertsigler
+1	0	rosco-web/rosco-web.gradle
+
+--a8bb957--2016-07-05--Matt Duftler
+0	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactory.groovy
+
+--a9f75cb--2016-06-30--Matt Duftler
+2	2	rosco-web/config/rosco.yml
+
+--965d043--2016-06-30--Matt Duftler
+1	1	build.gradle
+
+--ad5722e--2016-06-29--Matt Duftler
+1	1	README.md
+
+--47d4471--2016-06-23--Anders Brujordet
+0	7	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+5	13	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+
+--df8d619--2016-06-22--Matt Duftler
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+
+--7bcaef3--2016-06-22--Matt Duftler
+2	1	build.gradle
+25	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+23	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+5	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+13	6	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+3	0	rosco-metrics/rosco-metrics.gradle
+41	0	rosco-metrics/src/main/groovy/com/netflix/spinnaker/rosco/metrics/config/MetricsConfiguration.groovy
+6	2	rosco-web/config/rosco.yml
+1	0	rosco-web/rosco-web.gradle
+2	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+18	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+10	4	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+1	1	settings.gradle
+
+--ba3e036--2016-06-21--Matt Duftler
+1	0	rosco-web/etc/init/rosco.conf
+
+--7667be0--2016-06-20--Dennis
+4	1	rosco-web/config/packer/install_packages.sh
+
+--1ec7b9c--2016-06-16--Travis Tomsu
+--ce46066--2016-06-15--duftler
+1	1	README.md
+1	1	build.gradle
+1	0	rosco-core/rosco-core.gradle
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/Bake.groovy
+14	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeStatus.groovy
+0	52	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+89	54	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+25	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/JobExecutor.groovy
+30	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/JobRequest.groovy
+35	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/config/LocalJobConfig.groovy
+174	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/jobs/local/JobExecutorLocal.groovy
+19	11	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+119	26	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+2	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+0	39	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DockerFriendlyPackerCommandFactory.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerCommandFactory.groovy
+0	52	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/retrofit/RetrofitConfiguration.groovy
+0	38	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/retrofit/gson/GsonOptionalDeserializer.groovy
+0	39	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/api/RushService.groovy
+0	42	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/api/ScriptExecution.groovy
+0	23	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/api/ScriptId.groovy
+0	36	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/api/ScriptRequest.groovy
+0	77	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/config/RushConfiguration.groovy
+0	76	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/health/RushHealthIndicator.groovy
+43	91	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+0	124	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DockerFriendlyPackerCommandFactorySpec.groovy
+1	1	rosco-web/config/packer/install_packages.sh
+2	26	rosco-web/config/rosco.yml
+3	2	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+50	41	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+137	148	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--5529639--2016-06-16--Matt Duftler
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+
+--5e38c43--2016-06-16--Ulises Olivenza
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+4	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+5	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+5	2	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+15	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+5	1	rosco-web/config/packer/aws-chroot.json
+5	1	rosco-web/config/packer/aws-ebs.json
+
+--0035cd8--2016-06-06--Larry Guger
+6	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/config/RoscoAzureConfiguration.groovy
+1	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+2	0	rosco-web/config/rosco.yml
+
+--f4c6d32--2016-06-02--Matt Duftler
+1	0	rosco-web/config/packer/gce.json
+
+--1346d65--2016-06-01--Larry Guger
+26	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+28	10	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/config/RoscoAzureConfiguration.groovy
+92	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+8	9	rosco-web/config/packer/azure-linux.json
+8	0	rosco-web/config/rosco.yml
+
+--5eb055a--2016-05-25--Larry Guger
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+83	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandler.groovy
+73	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/azure/config/RoscoAzureConfiguration.groovy
+122	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/azure/AzureBakeHandlerSpec.groovy
+56	0	rosco-web/config/packer/azure-linux.json
+16	0	rosco-web/config/rosco.yml
+1	0	rosco-web/rosco-web.gradle
+2	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--a636d6d--2016-05-20--Dan Maas
+0	1	build.gradle
+3	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+150	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandler.groovy
+82	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/openstack/config/RoscoOpenstackConfiguration.groovy
+679	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/openstack/OpenstackBakeHandlerSpec.groovy
+55	0	rosco-web/config/packer/openstack.json
+28	0	rosco-web/config/rosco.yml
+2	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+9	2	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+14	1	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--1e9418b--2016-05-20--Matt Duftler
+1	0	AUTHORS
+
+--6f1bc0e--2016-05-20--Dan Maas
+1	0	AUTHORS
+58	1	README.md
+23	0	codestyle.xml
+
+--2a07c2d--2016-05-16--Albert Manyà
+10	0	rosco-web/config/packer/install_packages.sh
+
+--9bb753e--2016-05-13--Matt Duftler
+2	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+23	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+22	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+
+--4067c55--2016-05-13--schmidtwastl
+10	0	rosco-web/config/rosco.yml
+
+--bd35b4a--2016-05-11--Larry Guger
+3	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/config/JedisConfig.groovy
+
+--1b59b6d--2016-05-06--Antonio Sagliocco
+3	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+41	41	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+11	11	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+29	29	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+
+--d85ed50--2016-05-05--Matt Duftler
+2	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+
+--eda857e--2016-05-05--Antonio Sagliocco
+27	24	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+21	1	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+
+--803691a--2016-04-12--Matt Duftler
+--d9c2b08--2016-04-12--Matt Duftler
+1	5	rosco-web/config/rosco.yml
+
+--9c5a46d--2016-04-12--Matt Duftler
+--72f6c61--2016-04-11--Demetri Mouratis
+22	0	rosco-web/config/rosco.yml
+
+--799b7be--2016-04-08--Matt Duftler
+--a146f47--2016-04-07--kalymero
+2	1	rosco-web/config/packer/install_packages.sh
+
+--1dd0995--2016-04-05--Matt Duftler
+--4f43c51--2016-04-05--Ervan Setiawan
+2	2	rosco-web/config/packer/aws-chroot.json
+
+--7c65105--2016-04-05--Matt Duftler
+--fd6b2a3--2016-04-04--Diana Tkachenko
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+4	4	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+
+--d4fc828--2016-04-01--Matt Duftler
+--7a0b381--2016-04-01--duftler
+16	8	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+4	4	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+7	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+
+--ba340af--2016-03-25--Matt Duftler
+--7dd5917--2016-03-22--Gard Rimestad
+6	5	rosco-web/config/packer/install_packages.sh
+
+--21a492e--2016-03-21--duftler
+1	0	rosco-web/config/packer/aws-ebs.json
+2	0	rosco-web/config/packer/gce.json
+2	2	rosco-web/config/packer/install_packages.sh
+
+--ff07148--2016-03-25--Matt Duftler
+--2ae478b--2016-03-25--duftler
+0	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+17	28	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+
+--c1db29c--2016-03-22--Eric Wiseblatt
+--540e54c--2016-03-19--Gard Rimestad
+8	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+8	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactory.groovy
+65	20	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+29	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactorySpec.groovy
+14	0	rosco-web/config/rosco.yml
+1	0	rosco-web/rosco-web.gradle
+
+--09ed293--2016-03-10--Eric Wiseblatt
+--01965ee--2016-03-09--Peter Dai
+2	0	rosco-web/etc/init/rosco.conf
+
+--b15c122--2016-03-10--Matt Duftler
+--34f37ad--2016-03-10--Gard Rimestad
+2	1	rosco-web/config/packer/aws-chroot.json
+14	0	rosco-web/config/packer/install_packages.sh
+
+--ed9ace8--2016-03-03--Matt Duftler
+--d739a24--2016-03-03--Gard Rimestad
+3	0	rosco-web/config/packer/install_packages.sh
+
+--0b3ef49--2016-02-29--Matt Duftler
+--b91a226--2016-02-29--Gard Rimestad
+41	0	rosco-web/config/packer/aws-chroot.json
+
+--02774c6--2016-02-29--Gard Rimestad
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+80	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+
+--d8a6d64--2016-02-29--Matt Duftler
+--2658158--2016-02-29--duftler
+21	21	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+
+--1b8aec6--2016-02-29--Matt Duftler
+--76a7c8f--2016-02-23--Antonio Sagliocco
+9	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+73	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+
+--065c70a--2016-02-26--Matt Duftler
+--25569ce--2016-02-24--duftler
+26	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+3	8	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+5	8	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/config/RoscoDockerConfiguration.groovy
+0	12	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+37	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+35	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+
+--72aa278--2016-02-23--Matt Duftler
+--2fd4c2d--2016-02-23--duftler
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+32	31	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+27	27	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+28	28	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+7	7	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+1	1	rosco-web/config/packer/aws-ebs.json
+1	1	rosco-web/config/packer/gce.json
+3	3	rosco-web/config/packer/install_packages.sh
+
+--13e8d80--2016-02-23--Matt Duftler
+--7ed3adf--2016-02-23--Antonio Sagliocco
+13	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+58	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+
+--7ce3587--2016-02-23--Matt Duftler
+--8d3b770--2016-02-22--Antonio Sagliocco
+9	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+71	8	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+53	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+62	9	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+4	2	rosco-web/config/packer/aws-ebs.json
+4	2	rosco-web/config/packer/docker.json
+4	2	rosco-web/config/packer/gce.json
+45	13	rosco-web/config/packer/install_packages.sh
+6	2	rosco-web/config/rosco.yml
+
+--70691b1--2016-02-19--Matt Duftler
+--66d77ee--2016-02-19--Gard Rimestad
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+4	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+40	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+3	1	rosco-web/config/packer/aws-ebs.json
+3	1	rosco-web/config/packer/gce.json
+6	0	rosco-web/config/packer/install_packages.sh
+
+--0802bfa--2016-02-18--Matt Duftler
+--77c912f--2016-02-18--Peter Dai
+2	1	rosco-web/config/packer/aws-ebs.json
+
+--ab05f30--2016-02-02--Travis Tomsu
+--3f09ca2--2016-02-02--duftler
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+44	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+2	0	rosco-web/config/packer/gce.json
+1	0	rosco-web/config/rosco.yml
+
+--ddebc7e--2016-02-01--Travis Tomsu
+--293705f--2016-02-01--duftler
+7	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+7	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+80	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+74	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+
+--f32cb32--2016-01-30--Adam Jordens
+--65aae4d--2016-01-26--Sean Korten
+1	0	rosco-web/rosco-web.gradle
+
+--f1da347--2016-01-21--Matt Duftler
+--4df4703--2016-01-21--duftler
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+17	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+11	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+39	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+36	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+2	0	rosco-web/config/packer/aws-ebs.json
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+
+--ef30f0b--2016-01-12--Chris Berry
+--e54f7da--2016-01-12--duftler
+1	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+2	3	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+
+--ec5af3a--2015-12-17--Travis Tomsu
+--cb09f2e--2015-12-17--duftler
+1	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+1	4	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+
+--d750943--2015-12-15--Matt Duftler
+--8a084ba--2015-12-14--Travis Tomsu
+15	3	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+36	2	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--01ab2f2--2015-12-14--Travis Tomsu
+--794dc39--2015-12-14--duftler
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+12	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+
+--34ed0b9--2015-12-03--Tomás Lin
+--7ca90cb--2015-12-03--Tomás Lin
+1	1	Dockerfile
+
+--89bc1e5--2015-11-28--Matt Duftler
+--1979afc--2015-11-28--Cameron Fieber
+1	1	build.gradle
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--cfc26e0--2015-11-28--Matt Duftler
+--1b9770f--2015-11-28--duftler
+28	28	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--73db4cd--2015-11-23--Travis Tomsu
+39	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeOptions.groovy
+1	15	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+23	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+20	6	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+4	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+17	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+3	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/config/RoscoDockerConfiguration.groovy
+19	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+4	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/registry/CloudProviderBakeHandlerRegistry.groovy
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/registry/DefaultCloudProviderBakeHandlerRegistry.groovy
+3	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+2	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactory.groovy
+8	9	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+19	13	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+16	10	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+18	12	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+31	20	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+8	6	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+34	9	rosco-web/config/rosco.yml
+33	10	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+63	12	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--ec82274--2015-11-28--Matt Duftler
+--e18e617--2015-11-28--duftler
+1	0	rosco-web/rosco-web.gradle
+
+--b12968e--2015-11-26--Adam Jordens
+--2ad38e7--2015-11-26--duftler
+18	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+48	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--02fcfbe--2015-11-25--Matt Duftler
+--6df5a99--2015-11-25--duftler
+0	11	rosco-web/pkg_scripts/preInstall.sh
+4	1	rosco-web/rosco-web.gradle
+
+--6c4395e--2015-11-25--Matt Duftler
+--dd17408--2015-11-25--Matt Duftler
+1	1	rosco-web/pkg_scripts/preInstall.sh
+
+--64f269b--2015-11-25--Matt Duftler
+--f5b5953--2015-11-25--layered-esell
+7	2	rosco-web/pkg_scripts/preInstall.sh
+
+--1d51da9--2015-11-25--layered-esell
+6	0	rosco-web/pkg_scripts/preInstall.sh
+1	0	rosco-web/rosco-web.gradle
+
+--d46f72f--2015-11-24--Cameron Fieber
+--8b33473--2015-11-24--Cameron Fieber
+1	1	.travis.yml
+
+--999edce--2015-11-24--Cameron Fieber
+--be79d10--2015-11-24--Cameron Fieber
+2	1	.travis.yml
+5	0	build.gradle
+2	2	gradle/buildViaTravis.sh
+4	0	gradle/prepCaches.sh
+
+--935ac1d--2015-11-23--Cameron Fieber
+--3a4f484--2015-11-23--Cameron Fieber
+5	1	build.gradle
+
+--70578d6--2015-11-23--Matt Duftler
+--3dfe2dc--2015-11-22--duftler
+8	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+3	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+4	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DockerFriendlyPackerCommandFactory.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactory.groovy
+6	4	rosco-web/config/packer/aws-ebs.json
+2	0	rosco-web/config/packer/gce.json
+3	1	rosco-web/config/rosco.yml
+
+--94d4e1b--2015-11-21--Cameron Fieber
+--c8cb0e7--2015-11-21--Cameron Fieber
+5	1	README.md
+
+--f3696d1--2015-11-21--Eric Wiseblatt
+--d62b173--2015-11-20--duftler
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/health/RushHealthIndicator.groovy
+
+--787cf73--2015-11-20--Cameron Fieber
+16	0	.travis.yml
+24	0	gradle/buildViaTravis.sh
+17	0	gradle/installViaTravis.sh
+
+--f9fabcc--2015-11-19--Steven Kim
+--b313011--2015-11-19--duftler
+1	1	rosco-web/config/packer/aws-ebs.json
+1	1	rosco-web/config/packer/gce.json
+5	1	rosco-web/config/packer/install_packages.sh
+4	1	rosco-web/config/rosco.yml
+
+--2a48c13--2015-11-17--Cameron Fieber
+--eda4960--2015-11-17--David Peterka
+1	1	rosco-web/rosco-web.gradle
+
+--5f6c458--2015-11-17--Cameron Fieber
+--976d052--2015-11-17--Cameron Fieber
+10	3	rosco-web/rosco-web.gradle
+
+--aeab003--2015-11-16--Tomás Lin
+2	11	Dockerfile
+
+--404bbcb--2015-11-15--Cameron Fieber
+1	1	build.gradle
+
+--00b1c5f--2015-11-15--Matt Duftler
+--5013925--2015-11-15--David Stenglein
+2	2	rosco-web/config/packer/aws-ebs.json
+21	0	rosco-web/config/rosco.yml
+
+--59eb035--2015-11-15--Matt Duftler
+--2643a6d--2015-11-15--Matt Duftler
+2	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+
+--faef3a7--2015-11-15--Matt Duftler
+--dd92334--2015-11-15--duftler
+9	0	rosco-web/src/main/resources/banner.txt
+
+--8aedd67--2015-11-15--Cameron Fieber
+1	1	build.gradle
+
+--f2ef142--2015-11-15--Matt Duftler
+--564bc26--2015-11-15--David Stenglein
+1	2	rosco-web/etc/init/rosco.conf
+
+--4dee1e8--2015-11-14--Eric Wiseblatt
+--9faf8cf--2015-11-14--David Peterka
+2	2	rosco-web/pkg_scripts/postInstall.sh
+
+--2fffb3e--2015-11-14--Matt Duftler
+--ccafdb5--2015-11-14--David Peterka
+2	1	rosco-web/rosco-web.gradle
+
+--d473ad6--2015-11-14--Cameron Fieber
+2	6	build.gradle
+
+--b5d1d6b--2015-11-14--Matt Duftler
+--b3a0c5f--2015-11-14--duftler
+3	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/config/JedisConfig.groovy
+54	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/config/RedisConnectionInfo.groovy
+
+--c7b3257--2015-11-14--Matt Duftler
+--52418a0--2015-11-14--duftler
+7	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+22	11	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+17	8	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+64	13	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+
+--ff0cbb7--2015-11-13--duftler
+2	2	rosco-web/config/rosco.yml
+
+--846c596--2015-11-13--duftler
+16	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+11	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+15	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/api/ScriptRequest.groovy
+4	0	rosco-web/config/packer/aws-ebs.json
+1	6	rosco-web/config/rosco.yml
+1	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+
+--039d6a9--2015-11-13--duftler
+4	2	README.md
+3	0	build.gradle
+0	19	docker/Dockerfile
+0	35	docker/aws-ebs.json
+0	33	docker/docker.json
+0	30	docker/gce.json
+9	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeStatus.groovy
+12	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+3	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+6	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+0	39	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultPackerCommandFactory.groovy
+39	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DockerFriendlyPackerCommandFactory.groovy
+39	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/LocalJobFriendlyPackerCommandFactory.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerCommandFactory.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/config/RushConfiguration.groovy
+2	2	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+0	124	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultPackerCommandFactorySpec.groovy
+124	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DockerFriendlyPackerCommandFactorySpec.groovy
+36	0	rosco-web/config/packer/aws-ebs.json
+33	0	rosco-web/config/packer/docker.json
+32	0	rosco-web/config/packer/gce.json
+15	0	rosco-web/config/packer/install_packages.sh
+16	7	rosco-web/config/rosco.yml
+3	2	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+8	2	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+3	3	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--349a57e--2015-11-13--Matt Duftler
+--01c3881--2015-11-13--David Peterka
+11	0	rosco-web/etc/init/rosco.conf
+8	0	rosco-web/etc/logrotate.d/rosco
+14	0	rosco-web/pkg_scripts/postInstall.sh
+3	0	rosco-web/pkg_scripts/postUninstall.sh
+25	2	rosco-web/rosco-web.gradle
+
+--4ba3722--2015-11-13--Cameron Fieber
+7	9	build.gradle
+0	1	gradle.properties
+-	-	gradle/wrapper/gradle-wrapper.jar
+2	2	gradle/wrapper/gradle-wrapper.properties
+3	7	gradlew
+0	56	idea/codeStyle.xml
+0	30	idea/ideaModule.gradle
+10	15	rosco-web/rosco-web.gradle
+
+--763e398--2015-11-09--tomaslin
+22	0	Dockerfile
+
+--8a51f39--2015-10-30--Matt Duftler
+--0a41e20--2015-10-30--duftler
+6	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+
+--8c10f5c--2015-10-30--duftler
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+
+--5ca8344--2015-10-28--Eric Wiseblatt
+--66e764d--2015-10-28--Eric Wiseblatt
+7	17	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--9f1be77--2015-10-20--Matt Duftler
+--886f6aa--2015-10-20--Eric Wiseblatt
+8	0	rosco-web/rosco-web.gradle
+
+--fa30f16--2015-09-30--Matt Duftler
+--f789291--2015-09-30--duftler
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+
+--11af73d--2015-09-29--duftler
+10	4	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+41	9	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--d2a7b10--2015-09-28--Matt Duftler
+--8b46042--2015-09-28--duftler
+171	169	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+
+--5e9a943--2015-08-26--Cameron Fieber
+--f14593a--2015-08-26--Steven Kim
+10	0	AUTHORS
+
+--fd3ab56--2015-08-13--Travis Tomsu
+--b079ca6--2015-08-13--duftler
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+
+--8fb8c43--2015-05-04--Eric Wiseblatt
+--6f9c424--2015-05-04--duftler
+1	1	docker/aws-ebs.json
+2	2	docker/docker.json
+1	1	docker/gce.json
+1	1	rosco-web/config/rosco.yml
+
+--8af6034--2015-05-01--Eric Wiseblatt
+--7fde431--2015-04-30--duftler
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+
+--47897d1--2015-04-30--duftler
+6	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+
+--72e10ae--2015-04-30--duftler
+16	16	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+5	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+46	12	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+6	4	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+
+--76e878f--2015-04-30--Eric Wiseblatt
+--82177f2--2015-04-30--duftler
+5	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+
+--318bc77--2015-04-30--duftler
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+2	22	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+41	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+23	15	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+
+--1951985--2015-04-29--Eric Wiseblatt
+--e4ec94f--2015-04-29--duftler
+6	6	docker/aws-ebs.json
+3	3	docker/docker.json
+5	5	docker/gce.json
+
+--4786180--2015-04-29--Eric Wiseblatt
+--eefa420--2015-04-29--duftler
+2	1	docker/aws-ebs.json
+2	1	docker/docker.json
+2	1	docker/gce.json
+8	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+17	6	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+12	4	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+12	4	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+2	0	rosco-web/config/rosco.yml
+
+--f83a447--2015-04-28--Eric Wiseblatt
+--ffe5bd4--2015-04-28--duftler
+7	7	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+10	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+8	15	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+
+--a7d344a--2015-04-27--Matt Duftler
+--322a404--2015-04-26--duftler
+0	1	rosco-web/rosco-web.gradle
+
+--48a0f00--2015-04-25--duftler
+1	1	rosco-web/rosco-web.gradle
+
+--8ec67c2--2015-04-17--Matt Duftler
+--1ba1978--2015-04-17--duftler
+3	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+4	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+2	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+6	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+41	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+41	2	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+37	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+40	2	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+
+--3cdfd98--2015-04-16--Matt Duftler
+--e695b8d--2015-04-15--duftler
+3	9	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+4	16	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+0	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+0	10	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+
+--32a9998--2015-04-15--duftler
+64	9	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+22	23	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+21	22	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+21	20	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactory.groovy
+5	9	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+2	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+2	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+6	12	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+
+--458a439--2015-04-15--Matt Duftler
+--0ed0b14--2015-04-14--duftler
+18	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+
+--645edc9--2015-04-14--duftler
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactory.groovy
+9	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+
+--fbfd802--2015-04-14--duftler
+3	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+3	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+3	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+5	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+17	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactory.groovy
+8	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+5	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+5	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+11	12	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+
+--320694c--2015-04-14--duftler
+6	1	docker/Dockerfile
+32	0	docker/docker.json
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+3	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+101	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandler.groovy
+69	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/docker/config/RoscoDockerConfiguration.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+7	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultPackerCommandFactory.groovy
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerCommandFactory.groovy
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/api/ScriptRequest.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/config/RushConfiguration.groovy
+3	3	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+211	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/docker/DockerBakeHandlerSpec.groovy
+2	2	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+30	16	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultPackerCommandFactorySpec.groovy
+13	0	rosco-web/config/rosco.yml
+2	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+1	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+10	10	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--ee05cfd--2015-04-11--duftler
+4	1	docker/aws-ebs.json
+4	1	docker/gce.json
+1	0	rosco-core/rosco-core.gradle
+7	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+7	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+7	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+48	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+12	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultPackerCommandFactory.groovy
+3	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactory.groovy
+128	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverter.groovy
+6	4	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+15	14	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+116	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactorySpec.groovy
+110	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultPackerCommandFactorySpec.groovy
+95	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/util/PackageNameConverterSpec.groovy
+
+--9c7fc5a--2015-04-10--duftler
+32	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+
+--c757013--2015-03-10--Matt Duftler
+--481fa17--2015-03-08--duftler
+142	121	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+
+--bbb0abd--2015-03-07--duftler
+3	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+166	88	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+1	4	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+4	4	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--80359bd--2015-03-06--duftler
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+
+--1625d70--2015-03-06--duftler
+5	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+10	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+33	5	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+100	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--5d3b89f--2015-03-06--duftler
+10	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+
+--b6cc3a3--2015-03-01--duftler
+1	1	rosco-core/rosco-core.gradle
+2	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+45	19	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+
+--714f3db--2015-03-01--duftler
+2	2	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+
+--30d2335--2015-03-01--duftler
+1	0	rosco-core/rosco-core.gradle
+28	4	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+152	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/executor/BakePoller.groovy
+98	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/BakeStore.groovy
+216	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/RedisBackedBakeStore.groovy
+72	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/persistence/config/JedisConfig.groovy
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+12	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+8	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+0	9	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/registry/DefaultCloudProviderBakeHandlerRegistry.groovy
+1	1	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultPackerCommandFactory.groovy
+1	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/health/RushHealthIndicator.groovy
+172	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/executor/BakePollerSpec.groovy
+2	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+91	32	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+252	60	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--e0a4da9--2015-02-23--Matt Duftler
+--cf29535--2015-02-15--duftler
+6	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeStatus.groovy
+21	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+9	2	rosco-web/config/rosco.yml
+5	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+29	3	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--606b86e--2015-01-30--Matt Duftler
+--5cfcd12--2015-01-29--duftler
+28	8	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+199	0	rosco-web/src/test/groovy/com/netflix/spinnaker/rosco/controllers/BakeryControllerSpec.groovy
+
+--9c18225--2015-01-29--duftler
+4	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+3	3	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+4	1	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+
+--8ca551f--2015-01-29--duftler
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+0	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+2	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+0	5	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+
+--8ef63ac--2015-01-29--duftler
+6	8	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+6	9	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+6	8	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+6	10	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+18	8	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+11	5	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+
+--a08ba88--2015-01-28--duftler
+0	14	Dockerfile
+203	0	LICENSE.txt
+0	43	bake.json
+45	0	build.gradle
+14	0	docker/Dockerfile
+31	0	docker/aws-ebs.json
+26	0	docker/gce.json
+1	0	gradle.properties
+-	-	gradle/wrapper/gradle-wrapper.jar
+6	0	gradle/wrapper/gradle-wrapper.properties
+164	0	gradlew
+90	0	gradlew.bat
+56	0	idea/codeStyle.xml
+30	0	idea/ideaModule.gradle
+7	0	rosco-core/rosco-core.gradle
+35	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/Bake.groovy
+67	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeRequest.groovy
+49	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/api/BakeStatus.groovy
+73	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/config/RoscoConfiguration.groovy
+41	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/CloudProviderBakeHandler.groovy
+107	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandler.groovy
+86	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/aws/config/RoscoAWSConfiguration.groovy
+87	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandler.groovy
+78	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/google/config/RoscoGoogleConfiguration.groovy
+43	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/registry/CloudProviderBakeHandlerRegistry.groovy
+58	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/registry/DefaultCloudProviderBakeHandlerRegistry.groovy
+34	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultImageNameFactory.groovy
+29	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/DefaultPackerCommandFactory.groovy
+28	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/ImageNameFactory.groovy
+26	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/providers/util/PackerCommandFactory.groovy
+52	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/retrofit/RetrofitConfiguration.groovy
+38	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/retrofit/gson/GsonOptionalDeserializer.groovy
+39	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/api/RushService.groovy
+42	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/api/ScriptExecution.groovy
+23	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/api/ScriptId.groovy
+34	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/api/ScriptRequest.groovy
+77	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/config/RushConfiguration.groovy
+75	0	rosco-core/src/main/groovy/com/netflix/spinnaker/rosco/rush/health/RushHealthIndicator.groovy
+309	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/aws/AWSBakeHandlerSpec.groovy
+195	0	rosco-core/src/test/groovy/com/netflix/spinnaker/rosco/providers/google/GCEBakeHandlerSpec.groovy
+77	0	rosco-web/config/rosco.yml
+66	0	rosco-web/rosco-web.gradle
+77	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/Main.groovy
+80	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/controllers/BakeryController.groovy
+41	0	rosco-web/src/main/groovy/com/netflix/spinnaker/rosco/filters/SimpleCORSFilter.groovy
+14	0	settings.gradle
+
+--37943af--2015-01-28--Matt Duftler
+--90cb75a--2015-01-28--duftler
+14	1	.gitignore
+
+--76e1758--2015-01-15--Matt Duftler
+--6226e99--2015-01-15--duftler
+1	0	.gitignore
+
+--8a4446f--2015-01-14--Matt Duftler
+--6f86b25--2015-01-14--duftler
+14	0	Dockerfile
+43	0	bake.json
+
+--c98f951--2015-01-06--Matt Duftler
+2	0	README.md
+
+--7cae16a--2015-01-05--Matt Duftler
+1	0	README.md
+
+--9e4ce00--2015-01-05--duftler
+0	0	README.md

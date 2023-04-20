@@ -1,0 +1,3248 @@
+--88a7216--2023-03-02--Sandesh
+2	0	build.gradle
+0	4	fiat-api/fiat-api.gradle
+0	6	fiat-roles/fiat-roles.gradle
+0	6	fiat-sql/fiat-sql.gradle
+
+--6e69c81--2023-02-17--Sandesh
+0	1	build.gradle
+
+--7f84ae1--2023-02-07--Jørgen Jervidalo
+3	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/FiatRoleConfig.java
+8	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/Synchronizer.java
+
+--b304eb8--2023-02-07--ovidiupopa07
+2	2	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepository.kt
+41	2	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepositoryTests.kt
+
+--6d4bcfc--2023-02-07--ovidiupopa07
+2	2	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepository.kt
+39	2	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepositoryTests.kt
+
+--6123b32--2023-01-23--Sandesh
+1	0	fiat-web/fiat-web.gradle
+3	15	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+
+--8c622d1--2023-01-19--Matt Sicker
+21	43	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepository.kt
+
+--b50d621--2022-12-08--Sandesh
+0	9	fiat-web/fiat-web.gradle
+
+--52351b0--2022-11-18--David Byron
+1	1	.github/workflows/release.yml
+
+--7885764--2022-11-17--David Byron
+1	1	.github/workflows/release.yml
+
+--9ad1d22--2022-11-17--David Byron
+1	1	.github/workflows/release.yml
+
+--55dbe27--2022-09-14--kskewes-sf
+1	1	.github/workflows/bump_dependencies.yml
+
+--b42440c--2022-09-13--David Byron
+1	1	.github/workflows/bump_dependencies.yml
+
+--5ebf6b8--2022-09-02--Apoorv Mahajan
+7	0	fiat-roles/fiat-roles.gradle
+56	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProviderConfig.java
+14	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationResourceProvider.java
+18	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverApplicationLoader.java
+16	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+79	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+47	0	fiat-roles/src/test/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverApplicationLoaderTest.java
+4	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+24	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+
+--0acc9f9--2022-08-31--Tina
+12	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+2	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+6	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+35	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/Synchronizer.java
+12	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncStrategy.java
+4	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+56	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+88	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+10	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--d741969--2022-08-14--Marcin Flis
+8	2	.github/workflows/build.yml
+8	2	.github/workflows/pr.yml
+8	2	.github/workflows/release.yml
+
+--87932d8--2022-08-02--Cameron Motevasselani
+1	1	Dockerfile.slim
+
+--611cd94--2022-08-02--armory-abedonik
+3	0	fiat-sql/src/main/resources/db/changelog-master.yml
+39	0	fiat-sql/src/main/resources/db/changelog/20220727-resource-name-to-lower-case.yml
+
+--e77eba1--2022-08-01--Matt Sicker
+4	0	fiat-api/fiat-api.gradle
+48	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/AuthenticatedRequestAuthenticationConverter.java
+35	5	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+52	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConverter.java
+20	38	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationFilter.java
+8	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+22	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+14	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatStatus.java
+37	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/AccessControlledResource.java
+26	1	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+1	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatSharedSpecification.groovy
+2	0	fiat-core/fiat-core.gradle
+10	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/Authorization.java
+44	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/SpinnakerAuthorities.java
+20	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+12	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+53	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/UserPermissionTest.java
+
+--ce8faf8--2022-07-26--armory-abedonik
+2	2	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepository.kt
+1	1	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepositoryTests.kt
+
+--906ecd7--2022-07-26--chriskotula
+21	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/FiatRoleConfig.java
+81	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/CallableCache.java
+240	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/Synchronizer.java
+76	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncStrategy.java
+9	169	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+78	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/CachedSynchronizationSpec.groovy
+81	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/CallableCacheSpec.groovy
+2	10	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+
+--9e7b7a0--2022-06-24--Matt Sicker
+2	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/AccountManagerConfig.java
+1	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+14	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+38	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/config/AccountManagerConfigTest.java
+4	2	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+11	2	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepository.kt
+1	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/tables/User.kt
+3	0	fiat-sql/src/main/resources/db/changelog-master.yml
+20	0	fiat-sql/src/main/resources/db/changelog/20220615-account-manager-flag.yml
+2	0	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepositoryTests.kt
+
+--6c22e4c--2022-05-20--kskewes-sf
+12	1	.github/workflows/bump_dependencies.yml
+
+--8972abd--2022-05-12--Pere
+18	0	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+14	0	fiat-google-groups/src/test/groovy/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProviderSpec.groovy
+
+--d383865--2022-04-27--kskewes-sf
+2	16	.mergify.yml
+
+--843977c--2022-04-27--kskewes-sf
+15	9	.github/workflows/release_info.sh
+
+--23cf00d--2022-04-26--David Byron
+1	1	.github/workflows/bump_dependencies.yml
+
+--3a2a347--2022-04-21--kskewes-sf
+16	0	.github/workflows/release.yml
+
+--c879f34--2022-04-14--Sandesh
+1	0	fiat-github/fiat-github.gradle
+
+--3cf7254--2022-04-08--Cameron Motevasselani
+1	1	.github/workflows/bump_dependencies.yml
+
+--9f4120c--2022-04-01--David Byron
+1	1	gradle.properties
+
+--1af69f4--2022-04-01--David Byron
+1	0	.github/workflows/bump_dependencies.yml
+21	1	.github/workflows/release.yml
+
+--58bd47a--2022-04-01--David Byron
+1	0	.github/workflows/bump_dependencies.yml
+21	1	.github/workflows/release.yml
+
+--54fab39--2022-04-02--Nathan Essex
+8	14	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+
+--9050e3d--2022-04-02--Nathan Essex
+9	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionRepositoryConfigProps.java
+24	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+
+--dd191f0--2022-04-01--Matt Sicker
+3	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+16	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/AccountManagerConfig.java
+22	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+26	5	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+
+--25cb9f4--2022-03-22--kskewes-sf
+48	9	.github/workflows/build.yml
+36	12	.github/workflows/pr.yml
+56	14	.github/workflows/release.yml
+
+--a8bd0ee--2022-03-18--kskewes-sf
+3	1	.github/workflows/build.yml
+5	1	.github/workflows/pr.yml
+2	1	.github/workflows/release.yml
+
+--0dcab33--2022-03-17--kskewes-sf
+14	13	.github/workflows/build.yml
+31	32	.github/workflows/pr.yml
+11	12	.github/workflows/release.yml
+
+--cb79e23--2022-03-11--kskewes-sf
+5	5	.github/workflows/release.yml
+
+--e1b6bd7--2022-03-10--David Byron
+2	2	.github/workflows/release.yml
+
+--3959ceb--2022-03-10--David Byron
+42	2	.github/workflows/build.yml
+26	1	.github/workflows/pr.yml
+47	2	.github/workflows/release.yml
+
+--ca45708--2022-03-10--Sandesh
+1	1	build.gradle
+
+--8306933--2022-03-02--David Byron
+3	0	.github/workflows/bump_dependencies.yml
+
+--ea88218--2022-03-01--Cameron Motevasselani
+8	8	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+2	2	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.java
+
+--665b5fe--2022-03-01--Thomas Schaaf
+7	3	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+5	14	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.java
+0	27	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/model/TeamMembership.java
+
+--f53d60e--2022-02-23--kskewes-sf
+3	7	.github/workflows/build.yml
+3	7	.github/workflows/pr.yml
+3	7	.github/workflows/release.yml
+
+--b423f22--2022-01-19--Cameron Motevasselani
+15	10	.mergify.yml
+
+--a748d82--2021-12-07--Edgar Garcia
+4	4	build.gradle
+5	5	fiat-api/fiat-api.gradle
+1	1	fiat-bom/fiat-bom.gradle
+1	1	fiat-github/fiat-github.gradle
+4	4	fiat-roles/fiat-roles.gradle
+6	6	fiat-web/fiat-web.gradle
+1	1	gradle.properties
+
+--494bc87--2021-12-07--edgarulg
+4	4	build.gradle
+5	5	fiat-api/fiat-api.gradle
+1	1	fiat-bom/fiat-bom.gradle
+1	1	fiat-github/fiat-github.gradle
+4	4	fiat-roles/fiat-roles.gradle
+6	6	fiat-web/fiat-web.gradle
+1	1	gradle.properties
+
+--461f759--2021-12-05--Dan Everton
+12	9	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+32	24	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+14	18	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+16	16	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+15	15	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+99	237	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepository.kt
+18	19	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepositoryTests.kt
+4	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+
+--31b3d20--2021-12-04--Cameron Fieber
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--f884afb--2021-12-04--Repon Kumar Roy
+1	1	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+
+--7aa8adb--2021-12-04--Patrik Greco
+0	4	fiat-web/config/fiat.yml
+
+--717679d--2021-12-04--Rob Zienert
+1	1	CODEOWNERS
+
+--b8f739f--2021-11-15--David Byron
+2	0	fiat-sql/fiat-sql.gradle
+4	3	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepositoryTests.kt
+0	7	fiat-web/src/test/resources/fiat-test.yml
+
+--0966862--2021-09-14--Nathan Essex
+1	0	fiat-roles/fiat-roles.gradle
+9	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionRepositoryConfigProps.java
+141	120	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+77	67	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+
+--67f3e83--2021-08-13--Cameron Motevasselani
+3	3	build.gradle
+5	5	fiat-api/fiat-api.gradle
+1	1	fiat-bom/fiat-bom.gradle
+1	1	fiat-github/fiat-github.gradle
+4	4	fiat-roles/fiat-roles.gradle
+5	5	fiat-web/fiat-web.gradle
+2	2	gradle.properties
+
+--a96dbf1--2021-08-13--Cameron Motevasselani
+1	0	.github/workflows/release.yml
+
+--04b7148--2021-08-13--Cameron Motevasselani
+1	0	.github/workflows/release.yml
+
+--b846508--2021-08-13--Cameron Motevasselani
+8	5	.github/workflows/release.yml
+5	2	build.gradle
+0	1	halconfig/fiat.yml
+
+--ba8b456--2021-03-19--Daniel Peach
+8	5	.github/workflows/release.yml
+5	2	build.gradle
+0	1	halconfig/fiat.yml
+
+--ab2f52a--2021-07-29--Dan Everton
+4	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+1	0	fiat-sql/fiat-sql.gradle
+54	8	fiat-sql/src/main/kotlin/com/netflix/spinnaker/config/SqlConfiguration.kt
+601	178	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepository.kt
+0	50	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/Jooq.kt
+28	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/SqlUtil.kt
+0	47	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/TableDefinitions.kt
+44	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/converters/ResourceTypeConverter.kt
+69	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/tables/Permission.kt
+71	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/tables/Resource.kt
+67	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/tables/User.kt
+27	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/tables/references/Tables.kt
+9	0	fiat-sql/src/main/resources/db/changelog-master.yml
+75	0	fiat-sql/src/main/resources/db/changelog/20210312-split-body.yml
+19	0	fiat-sql/src/main/resources/db/changelog/20210322-optimistic-resource-update.yml
+19	0	fiat-sql/src/main/resources/db/changelog/20210324-resource-body-hash.yml
+0	544	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/model/SqlPermissionsRepositoryTests.kt
+0	104	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/model/TestDatabase.kt
+739	0	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepositoryTests.kt
+121	0	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/permissions/TestDatabase.kt
+71	0	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/permissions/sql/converters/ResourceTypeConverterTests.kt
+10	1	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+10	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--b42ac29--2021-07-29--Dan Everton
+1	1	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+3	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+3	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+2	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/BaseAccessControlled.java
+3	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/BuildService.java
+41	22	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+6	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+46	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+13	10	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+16	16	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+2	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultFallbackPermissionsResolver.java
+2	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ApplicationResourcePermissionSource.java
+3	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ChaosMonkeyApplicationResourcePermissionSource.java
+2	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourcePrefixPermissionSource.java
+8	5	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultFallbackPermissionsResolverSpec.groovy
+3	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+5	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+10	10	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/ResourcePrefixPermissionSourceSpec.groovy
+3	3	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+1	1	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--6d62aec--2021-03-22--Daniel Peach
+3	3	build.gradle
+5	5	fiat-api/fiat-api.gradle
+1	1	fiat-bom/fiat-bom.gradle
+1	1	fiat-github/fiat-github.gradle
+3	3	fiat-roles/fiat-roles.gradle
+4	4	fiat-sql/fiat-sql.gradle
+5	5	fiat-web/fiat-web.gradle
+1	1	gradle.properties
+
+--7ecd979--2021-03-19--Daniel Peach
+8	5	.github/workflows/release.yml
+5	2	build.gradle
+0	1	halconfig/fiat.yml
+
+--f878cb5--2021-03-11--Dan Everton
+8	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+11	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+2	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+31	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+4	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepository.kt
+62	6	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/model/SqlPermissionsRepositoryTests.kt
+
+--754bb07--2021-03-08--Chris Smalley
+8	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+4	2	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+
+--07dc0f2--2021-03-09--Dan Everton
+54	48	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+
+--1be70ba--2021-03-04--Dan Everton
+2	0	build.gradle
+14	17	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+3	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/PermissionsRepositoryConfig.java
+3	0	fiat-sql-mysql/fiat-sql-mysql.gradle
+3	0	fiat-sql-postgres/fiat-sql-postgres.gradle
+47	0	fiat-sql/README.md
+56	0	fiat-sql/fiat-sql.gradle
+59	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/config/SqlConfiguration.kt
+325	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/SqlPermissionsRepository.kt
+50	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/Jooq.kt
+47	0	fiat-sql/src/main/kotlin/com/netflix/spinnaker/fiat/permissions/sql/TableDefinitions.kt
+4	0	fiat-sql/src/main/resources/db/changelog-master.yml
+69	0	fiat-sql/src/main/resources/db/changelog/20210208-initial-schema.yml
+1	0	fiat-sql/src/main/resources/db/database-mysql.sql
+488	0	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/model/SqlPermissionsRepositoryTests.kt
+104	0	fiat-sql/src/test/kotlin/com/netflix/spinnaker/fiat/model/TestDatabase.kt
+8	0	fiat-web/fiat-web.gradle
+4	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+1	1	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+46	0	fiat-web/src/test/groovy/com/netflix/spinnaker/config/MySQLContainerConfig.groovy
+1	5	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/MainSpec.java
+13	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+20	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+26	1	fiat-web/src/test/resources/fiat-test.yml
+0	6	fiat-web/src/test/resources/fiat.properties
+1	0	gradle.properties
+42	0	gradle/kotlin.gradle
+3	0	settings.gradle
+
+--44c931d--2021-03-03--Dan Everton
+12	4	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+1	1	fiat-roles/fiat-roles.gradle
+9	6	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+13	7	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+1	1	fiat-web/fiat-web.gradle
+0	49	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+52	0	fiat-web/src/test/groovy/com/netflix/spinnaker/config/RedisContainerConfig.groovy
+
+--086e192--2021-02-23--Dan Everton
+19	130	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+0	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+
+--e8a17cb--2021-02-11--Cameron Fieber
+1	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+
+--3ffc4b2--2021-02-09--Adam Jordens
+12	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--08c1659--2021-02-05--Adam Jordens
+3	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountPredicateProvider.java
+
+--5c9c60a--2021-02-05--Adam Jordens
+6	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+3	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseResourceProvider.java
+12	20	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseServiceAccountResourceProvider.java
+7	5	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationResourceProvider.java
+47	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountPredicateProvider.java
+4	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountResourceProvider.java
+2	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+32	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountPredicateProvider.java
+4	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+5	5	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/BaseResourceProviderSpec.groovy
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+10	6	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+12	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--a975d7b--2021-01-30--Alexandra Spillane
+2	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+15	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+
+--e15ef30--2021-01-19--Adam Jordens
+1	1	.github/workflows/release.yml
+
+--29c1697--2020-11-10--Cameron Fieber
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--d9023b6--2020-10-06--Chris Smalley
+2	2	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandlerSpec.groovy
+1	1	gradle.properties
+
+--911c97c--2020-10-06--Chris Smalley
+14	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+33	33	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+2	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/ControllerSupport.java
+7	7	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--fde193e--2020-09-30--Chris Smalley
+4	4	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandlerSpec.groovy
+1	1	gradle.properties
+
+--f2bc5c6--2020-09-25--Chris Smalley
+14	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+
+--ea55b70--2020-09-24--Chris Smalley
+2	0	fiat-api/fiat-api.gradle
+35	9	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandler.java
+45	3	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandlerSpec.groovy
+
+--347296f--2020-09-24--Patrik Greco
+0	1	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/config/LdapConfig.java
+0	5	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+
+--6d76e12--2020-09-14--Fabrice
+17	2	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+
+--b5e7279--2020-09-10--Michael Plump
+1	6	.github/workflows/build.yml
+1	6	.github/workflows/pr.yml
+1	6	.github/workflows/release.yml
+1	4	Dockerfile.compile
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+1	0	gradle.properties
+
+--9bfa0fd--2020-09-09--Cameron Fieber
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionRepositoryConfigProps.java
+
+--6aeed13--2020-09-08--Cameron Fieber
+19	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--2050fc5--2020-09-08--Cameron Fieber
+61	13	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+16	9	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+
+--a51a845--2020-09-08--Cameron Fieber
+36	10	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+
+--bdb09ab--2020-09-08--Patrik Greco
+1	0	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/config/LdapConfig.java
+5	0	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+
+--ca87f8b--2020-09-02--Cameron Fieber
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+
+--a505a79--2020-09-02--Cameron Fieber
+10	5	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/PermissionsRepositoryConfig.java
+10	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+18	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionReadException.java
+14	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionRepositoryException.java
+9	11	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionResolutionException.java
+50	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionRepositoryConfigProps.java
+126	34	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+6	0	fiat-roles/src/main/resources/resilience4j-defaults.properties
+110	12	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+4	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+17	5	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+0	23	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/NotFoundException.java
+1	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--46a2f47--2020-08-27--Cameron Fieber
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--b421b06--2020-08-26--Cameron Fieber
+1	0	fiat-roles/fiat-roles.gradle
+33	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/PermissionsRepositoryConfig.java
+1	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+
+--61f1e36--2020-08-25--Cameron Fieber
+1	0	fiat-roles/fiat-roles.gradle
+63	17	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+29	15	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+
+--0ac386f--2020-08-19--Cameron Fieber
+32	18	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+16	7	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+5	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--0e4b470--2020-08-18--Cameron Fieber
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+1	1	gradlew
+3	18	gradlew.bat
+
+--a6eda9c--2020-08-12--Michael Plump
+1	1	Dockerfile.compile
+0	8	Dockerfile.java8
+4	3	Dockerfile.slim
+3	3	Dockerfile.ubuntu
+0	8	Dockerfile.ubuntu-java8
+
+--e2a09da--2020-08-04--Karl
+3	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.java
+
+--9596559--2020-07-29--Michael Plump
+3	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+5	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+1	1	gradle.properties
+
+--b60d8dc--2020-07-10--Cameron Fieber
+7	40	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+6	17	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+1	1	gradle.properties
+
+--4a617eb--2020-07-09--Cameron Fieber
+4	5	fiat-web/fiat-web.gradle
+
+--6f42644--2020-07-06--Cameron Fieber
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--2574263--2020-07-02--keke
+1	0	README.md
+
+--fbd1b08--2020-06-25--Glauco Vinicius
+1	1	.github/PULL_REQUEST_TEMPLATE.md
+
+--092df3f--2020-06-24--Cameron Fieber
+1	1	fiat-web/fiat-web.gradle
+1	1	gradle/wrapper/gradle-wrapper.properties
+2	0	settings.gradle
+
+--daf58f5--2020-06-23--Daniel Peach
+39	37	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+2	2	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandlerSpec.groovy
+38	3	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+1	0	fiat-core/fiat-core.gradle
+19	13	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+2	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/BaseAccessControlled.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/BuildService.java
+41	13	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+1	0	fiat-roles/fiat-roles.gradle
+54	27	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+3	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+3	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+21	14	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+10	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--c7b9e99--2020-05-21--Sairam Rekapalli
+2	0	fiat-github/fiat-github.gradle
+8	5	fiat-github/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.java
+1	0	fiat-web/fiat-web.gradle
+14	5	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+9	23	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+3	3	fiat-web/src/test/resources/fiat.properties
+
+--9dd58e6--2020-05-21--Cameron Fieber
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+2	0	gradlew
+1	0	gradlew.bat
+
+--c722764--2020-05-20--Rob Zienert
+0	1	fiat-roles/fiat-roles.gradle
+0	26	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/DynomiteConfig.java
+2	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.java
+
+--4c9aa59--2020-05-20--Cameron Fieber
+3	3	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+0	1	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+8	7	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesProvider.java
+
+--e3c7a66--2020-05-14--Eric Zimanyi
+1	1	fiat-web/config/fiat.yml
+6	0	halconfig/README.md
+0	2	halconfig/fiat.yml
+
+--eac2cf6--2020-05-14--Cameron Fieber
+2	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+8	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+
+--8fa8bdb--2020-05-13--Sairam Rekapalli
+1	0	fiat-api/fiat-api.gradle
+9	19	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+
+--e638e6b--2020-05-07--Cameron Fieber
+0	2	build.gradle
+1	0	fiat-core/fiat-core.gradle
+1	0	fiat-web/fiat-web.gradle
+
+--a28ad96--2020-05-07--Cameron Fieber
+1	1	gradle.properties
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+15	20	gradlew
+4	1	gradlew.bat
+
+--32141f6--2020-05-05--Cameron Fieber
+13	0	gradle.properties
+8	0	settings.gradle
+
+--0d58386--2020-05-05--Cameron Fieber
+47	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseServiceAccountResourceProvider.java
+2	43	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountResourceProvider.java
+11	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--60d60bd--2020-04-28--Daniel Peach
+1	0	.gitignore
+1	0	fiat-web/fiat-web.gradle
+2	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+5	1	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/MainSpec.java
+1	0	fiat-web/src/test/resources/fiat.properties
+
+--5465523--2020-04-20--Michael Plump
+4	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--528e8c9--2020-04-18--Cameron Fieber
+1	1	gradle.properties
+
+--c485eac--2020-04-17--Cameron Fieber
+1	1	gradle.properties
+
+--d6c92c1--2020-04-17--Cameron Fieber
+4	5	.github/workflows/build.yml
+1	0	.github/workflows/bump_dependencies.yml
+3	2	.github/workflows/pr.yml
+7	12	.github/workflows/release.yml
+5	1	.github/workflows/release_info.sh
+4	24	build.gradle
+0	12	fiat-bom/fiat-bom.gradle
+1	1	fiat-web/fiat-web.gradle
+1	2	gradle.properties
+1	1	gradle/wrapper/gradle-wrapper.properties
+9	1	settings.gradle
+
+--855e8f9--2020-04-16--Chris Smalley
+0	6	build.gradle
+
+--6b8d16d--2020-04-14--Eric Zimanyi
+1	0	fiat-api/fiat-api.gradle
+
+--63633cb--2020-04-08--Michael Plump
+7	19	.github/workflows/bump_dependencies.yml
+1	0	.github/workflows/release.yml
+
+--42a30bf--2020-04-08--Michael Plump
+1	1	.mergify.yml
+
+--5529c57--2020-04-08--Michael Plump
+10	1	.mergify.yml
+
+--18b642f--2020-04-06--Cameron Fieber
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationResourceProvider.java
+
+--b9b0cbd--2020-04-03--Repon Kumar Roy
+3	0	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/config/LdapConfig.java
+46	0	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+61	0	fiat-ldap/src/test/groovy/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProviderTest.groovy
+
+--b47aef4--2020-04-03--Michael Plump
+6	1	.github/workflows/build.yml
+6	1	.github/workflows/pr.yml
+7	2	.github/workflows/release.yml
+9	3	Dockerfile.compile
+6	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+1	1	gradle.properties
+
+--27e720b--2020-04-02--Cameron Fieber
+12	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+
+--aaebd07--2020-04-01--Cameron Motevasselani
+1	1	gradle.properties
+
+--531885e--2020-03-27--Michael Plump
+2	0	.github/workflows/build.yml
+
+--9acb48a--2020-03-25--Chris Smalley
+29	0	.github/workflows/bump_dependencies.yml
+7	9	.github/workflows/release.yml
+
+--735bd15--2020-03-25--Eric Zimanyi
+32	3	.mergify.yml
+
+--000688d--2020-03-24--Cameron Fieber
+3	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ProviderCacheConfig.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultFallbackPermissionsResolver.java
+7	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseResourceProvider.java
+5	3	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/DefaultResourcePermissionConfig.java
+
+--2f2c948--2020-03-19--Cameron Fieber
+27	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProvidersHealthIndicator.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderHealthTracker.java
+57	7	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--64021e9--2020-03-16--Cameron Fieber
+2	1	fiat-roles/fiat-roles.gradle
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationResourceProvider.java
+28	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverAccountLoader.java
+27	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverApplicationLoader.java
+49	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverDataLoader.java
+10	49	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+93	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/DataLoader.java
+8	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Api.java
+27	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50ApplicationLoader.java
+49	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50DataLoader.java
+15	77	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+27	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50ServiceAccountLoader.java
+48	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/IgorBuildServiceLoader.java
+5	40	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/IgorService.java
+0	72	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/SimpleJava8HystrixCommand.java
+49	0	fiat-roles/src/main/resources/resilience4j-defaults.properties
+3	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+0	4	fiat-web/config/fiat.yml
+0	1	fiat-web/fiat-web.gradle
+44	14	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+6	1	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+0	43	fiat-web/src/test/groovy/com/netflix/spinnaker/config/ResourceConfig.groovy
+65	0	fiat-web/src/test/groovy/com/netflix/spinnaker/config/TestDataLoaderConfig.groovy
+0	7	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/MainSpec.java
+0	10	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+15	13	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--a1cb3cc--2020-03-14--Cameron Fieber
+1	1	CODEOWNERS
+
+--6b01722--2020-03-13--Chris Smalley
+1	1	.github/workflows/release.yml
+
+--b8f09de--2020-03-13--Chris Smalley
+0	32	gradle/buildViaTravis.sh
+0	20	gradle/installViaTravis.sh
+0	4	gradle/prepCaches.sh
+
+--04d4cf0--2020-03-13--Chris Smalley
+1	0	.github/workflows/release.yml
+
+--0e67816--2020-03-13--Chris Smalley
+1	1	.github/workflows/build.yml
+3	3	.mergify.yml
+
+--1f120fc--2020-03-13--Chris Smalley
+28	0	.github/workflows/build.yml
+0	26	.github/workflows/master.yml
+1	1	.github/workflows/pr.yml
+1	1	.github/workflows/release.yml
+1	1	gradle.properties
+
+--48e6a47--2020-03-12--Chris Smalley
+0	48	.github/workflows/candidate.yml
+2	2	.github/workflows/master.yml
+2	2	.github/workflows/pr.yml
+24	27	.github/workflows/release.yml
+14	0	.github/workflows/release_info.sh
+
+--68efd02--2020-03-11--Chris Smalley
+1	0	.github/workflows/release.yml
+
+--f396f37--2020-03-11--Chris Smalley
+22	3	.github/workflows/release.yml
+
+--68c04cf--2020-03-11--Chris Smalley
+1	1	.github/workflows/release_info.sh
+
+--a4d9cfb--2020-03-11--Chris Smalley
+48	0	.github/workflows/candidate.yml
+1	1	.github/workflows/master.yml
+1	1	.github/workflows/pr.yml
+24	12	.github/workflows/release.yml
+17	0	.github/workflows/release_info.sh
+
+--d647af7--2020-03-11--Chris Smalley
+2	3	.github/workflows/release.yml
+
+--b74a10c--2020-03-11--Chris Smalley
+1	0	.github/workflows/release.yml
+
+--474b2a5--2020-03-10--Chris Smalley
+1	1	.github/workflows/release.yml
+
+--4c4f132--2020-03-10--Chris Smalley
+1	1	.github/workflows/release.yml
+
+--9306b5a--2020-03-10--Chris Smalley
+2	2	.github/workflows/release.yml
+
+--738be15--2020-03-10--Cameron Fieber
+1	1	gradle.properties
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+20	15	gradlew
+1	4	gradlew.bat
+
+--a9103d1--2020-03-10--Cameron Fieber
+1	1	gradle.properties
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+15	20	gradlew
+4	1	gradlew.bat
+
+--c3828db--2020-03-10--Cameron Fieber
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+1	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+1	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+
+--3150665--2020-03-09--Chris Smalley
+1	1	.github/workflows/release.yml
+
+--26e9969--2020-03-09--Chris Smalley
+2	2	.github/workflows/release.yml
+
+--a5296ca--2020-03-09--Chris Smalley
+0	27	.github/workflows/pre-release.yml
+12	3	.github/workflows/release.yml
+
+--a96e173--2020-03-09--Chris Smalley
+1	1	.github/workflows/master.yml
+1	1	.github/workflows/pr.yml
+27	0	.github/workflows/pre-release.yml
+1	1	.github/workflows/release.yml
+
+--894ddd4--2020-03-09--Chris Smalley
+1	1	.github/workflows/master.yml
+2	2	.github/workflows/release.yml
+
+--ff9e2b7--2020-03-09--Chris Smalley
+26	0	.github/workflows/master.yml
+3	9	.github/workflows/pr.yml
+30	0	.github/workflows/release.yml
+0	19	.travis.yml
+
+--50cbc68--2020-03-06--Michael Plump
+1	1	gradle.properties
+
+--2e3501c--2020-03-06--Chris Smalley
+7	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+32	15	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+48	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--f5317aa--2020-03-04--Michael Plump
+3	3	gradle.properties
+
+--5777e9d--2020-03-02--Brandon Powell
+1	1	Dockerfile.java8
+1	1	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+1	1	Dockerfile.ubuntu-java8
+
+--2a76731--2020-03-02--Brandon Powell
+1	0	Dockerfile.java8
+1	0	Dockerfile.slim
+1	0	Dockerfile.ubuntu
+1	0	Dockerfile.ubuntu-java8
+
+--cd0c591--2020-02-28--Michael Plump
+1	8	Dockerfile.compile
+
+--3f18692--2020-02-28--Pedro Gonçalves
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationResourceProvider.java
+3	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+2	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--c58ef48--2020-02-27--Michael Plump
+7	0	.gcloudignore
+
+--b8e775a--2020-02-26--Mark Vulfson
+3	2	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+1	1	gradle.properties
+
+--366f60f--2020-02-26--Pedro Gonçalves
+--7aed69f--2020-02-26--Pedro Gonçalves
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationResourceProvider.java
+2	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Api.java
+3	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+3	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+2	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--f1fb551--2020-02-24--Michael Plump
+12	6	Dockerfile.compile
+2	2	Dockerfile.java8
+2	2	Dockerfile.slim
+3	3	Dockerfile.ubuntu
+3	3	Dockerfile.ubuntu-java8
+
+--c4513b9--2020-02-18--Sanjeev Thatiparthi
+2	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourcePrefixPermissionSource.java
+22	6	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/ResourcePrefixPermissionSourceSpec.groovy
+
+--ef1e3df--2020-02-14--Adam Jordens
+--52d41f7--2020-02-10--Chris Smalley
+10	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+64	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ChaosMonkeyApplicationResourcePermissionSource.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationResourceProvider.java
+3	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Api.java
+4	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+3	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+9	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/DefaultResourcePermissionConfig.java
+11	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+2	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--8ed1a5a--2020-02-10--Rob Zienert
+1	0	build.gradle
+
+--b400e85--2020-02-03--Travis Tomsu
+7	2	.github/workflows/pr.yml
+
+--83cddbb--2020-01-27--Pierre Delagrave
+1	1	gradle.properties
+
+--1e03ebc--2020-01-24--Pierre Delagrave
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+2	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+1	1	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+1	3	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+1	1	gradle.properties
+
+--695585e--2020-01-16--Kathryn Lewis
+1	1	gradle.properties
+
+--fd07128--2020-01-15--Michael Plump
+7	0	Dockerfile.java8
+1	1	Dockerfile.slim
+1	1	Dockerfile.ubuntu
+7	0	Dockerfile.ubuntu-java8
+
+--d372f97--2020-01-13--Adam Jordens
+1	1	.github/workflows/pr.yml
+
+--4dd258e--2020-01-07--Pierre Delagrave
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+2	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+1	1	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+3	1	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+2	2	gradle.properties
+
+--a6fc5bb--2019-12-30--Michael Plump
+1	1	Dockerfile.slim
+
+--8f307b9--2019-12-18--Adam Jordens
+23	0	.github/workflows/pr.yml
+1	6	.idea/copyright/ALS2.xml
+
+--13c4bcf--2019-12-16--Chris Smalley
+8	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+2	10	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultFallbackPermissionsResolver.java
+
+--cd2f2bd--2019-12-14--Michael Plump
+2	2	Dockerfile.slim
+
+--e3935c9--2019-12-11--Cameron Fieber
+5	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+
+--a40265e--2019-12-11--Chris Smalley
+1	0	fiat-api/fiat-api.gradle
+21	2	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--8466926--2019-12-11--Chris Smalley
+21	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandler.java
+
+--d798ec0--2019-12-10--Scott Frederick
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+2	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+1	1	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+1	3	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+1	1	gradle.properties
+
+--9950fb2--2019-12-09--Chris Smalley
+10	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandler.java
+
+--17ed589--2019-12-06--Chris Smalley
+38	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultFallbackPermissionsResolver.java
+28	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/FallbackPermissionsResolver.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/AggregatingResourcePermissionProvider.java
+0	12	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ApplicationResourcePermissionSource.java
+14	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationResourceProvider.java
+36	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultFallbackPermissionsResolverSpec.groovy
+8	5	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+2	4	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/DefaultResourcePermissionConfig.java
+12	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--e9a380f--2019-12-05--Chris Smalley
+61	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ApplicationResourcePermissionSource.java
+0	61	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/Front50ApplicationResourcePermissionSource.java
+2	2	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+39	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/AggregateResourcePermissionConfig.java
+13	33	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/DefaultResourcePermissionConfig.java
+
+--74bb3e5--2019-12-02--Travis Tomsu
+11	0	.mergify.yml
+
+--2bf1472--2019-11-22--Xavi León
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+2	2	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/ServiceAccountSpec.groovy
+
+--a8ed1e8--2019-11-15--AbdulRahmanAlHamali
+2	6	fiat-file/src/main/java/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProvider.java
+9	5	fiat-file/src/test/groovy/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProviderSpec.groovy
+
+--d61aef0--2019-11-05--AbdulRahmanAlHamali
+2	2	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+
+--157872f--2019-11-04--Cameron Fieber
+3	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+13	4	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+
+--ab3a13a--2019-11-04--Adam Jordens
+2	0	CODEOWNERS
+0	3	OWNERS.md
+
+--2807538--2019-10-29--Cameron Fieber
+1	1	.travis.yml
+
+--b2f7e67--2019-10-28--Cameron Fieber
+6	0	build.gradle
+
+--83ebd89--2019-10-28--Cameron Fieber
+2	1	.travis.yml
+37	0	autobump.sh
+2	1	gradle.properties
+9	5	gradle/buildViaTravis.sh
+3	2	gradle/installViaTravis.sh
+
+--37ac06d--2019-10-28--AbdulRahmanAlHamali
+122	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourcePrefixPermissionSource.java
+78	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/ResourcePrefixPermissionSourceSpec.groovy
+8	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/DefaultResourcePermissionConfig.java
+
+--161c7b2--2019-10-25--Cameron Fieber
+11	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+
+--6460ffd--2019-10-24--Cameron Fieber
+11	12	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+1	3	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+
+--60a8606--2019-10-23--AbdulRahmanAlHamali
+48	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+14	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+17	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/Authorization.java
+4	2	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultResourcePermissionProvider.java
+3	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/Front50ApplicationResourcePermissionSource.java
+2	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+51	14	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+86	3	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--966b739--2019-10-23--Mark Vulfson
+4	0	.mergify.yml
+
+--37654d2--2019-10-18--Mark Vulfson
+19	0	.mergify.yml
+
+--4afff61--2019-10-18--Jørgen Jervidalo
+1	0	fiat-roles/fiat-roles.gradle
+4	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+4	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+3	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/IgorService.java
+
+--b850012--2019-10-14--Cameron Fieber
+3	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/Authorization.java
+29	22	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+15	6	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+23	20	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+35	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/AccessControlledResourcePermissionSource.java
+56	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/AggregatingResourcePermissionProvider.java
+0	94	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+94	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseResourceProvider.java
+0	46	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+53	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountResourceProvider.java
+0	147	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+123	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationResourceProvider.java
+0	49	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultBuildServiceProvider.java
+57	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultBuildServiceResourceProvider.java
+43	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultResourcePermissionProvider.java
+0	86	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+86	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountResourceProvider.java
+58	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/Front50ApplicationResourcePermissionSource.java
+3	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderException.java
+45	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourcePermissionProvider.java
+45	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourcePermissionSource.java
+21	29	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+6	2	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+0	130	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/BaseProviderSpec.groovy
+130	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/BaseResourceProviderSpec.groovy
+14	13	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+2	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+109	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/DefaultResourcePermissionConfig.java
+8	5	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--6941f94--2019-10-10--German Muzquiz
+1	0	fiat-web/fiat-web.gradle
+
+--623dae5--2019-09-26--Chris Smalley
+5	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandler.java
+35	4	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandlerSpec.groovy
+
+--1b5a3d2--2019-09-26--Chris Smalley
+29	6	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandler.java
+7	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+63	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandlerSpec.groovy
+9	17	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+37	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatSharedSpecification.groovy
+
+--7e297c5--2019-09-12--Mark Vulfson
+2	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/IgorService.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+
+--8cdc9fc--2019-09-03--Mark Vulfson
+2	2	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--b233ae2--2019-08-20--Pierre Delagrave
+0	14	Dockerfile
+6	0	Dockerfile.compile
+1	7	Dockerfile.slim
+7	0	Dockerfile.ubuntu
+0	13	cloudbuild.yaml
+
+--bc580ba--2019-08-09--Eric Zimanyi
+2	2	cloudbuild.yaml
+
+--c525982--2019-07-26--Eric Zimanyi
+0	14	cloudbuild-tagged.yaml
+9	6	cloudbuild.yaml
+
+--3e20188--2019-07-25--Michael Plump
+10	0	.idea/README.md
+8	0	.idea/compiler.xml
+6	0	.idea/copyright/ALS2.xml
+3	0	.idea/copyright/profiles_settings.xml
+6	0	.idea/google-java-format.xml
+12	0	.idea/gradle.xml
+6	0	.idea/vcs.xml
+
+--a2062b2--2019-07-24--Cameron Fieber
+6	0	build.gradle
+1	1	gradle.properties
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--22a82c0--2019-07-16--Emily Burns
+1	0	fiat-web/fiat-web.gradle
+
+--61c1bbb--2019-07-07--Nastya Smirnova
+3	0	build.gradle
+0	5	fiat-bom/fiat-bom.gradle
+
+--f228238--2019-07-03--Maggie Neterval
+3	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--bd52240--2019-07-01--Maggie Neterval
+3	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--ffefe34--2019-06-18--Mark Vulfson
+35	30	build.gradle
+49	0	fiat-bom/fiat-bom.gradle
+1	0	settings.gradle
+
+--f6893a0--2019-06-17--dreynaud
+7	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/IgorService.java
+
+--4172c68--2019-06-07--Cameron Fieber
+3	3	gradle.properties
+
+--1cf3baa--2019-06-07--Cameron Fieber
+4	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+1	1	gradle.properties
+
+--1d0ef72--2019-06-06--Cameron Fieber
+10	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.java
+80	76	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--381db2c--2019-05-28--Nicolas Cohen
+7	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+3	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+4	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+2	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+3	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--ed2db48--2019-05-22--Nicolas Cohen
+7	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+3	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+4	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+2	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+3	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--737003b--2019-05-20--Cameron Fieber
+2	5	build.gradle
+2	2	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+1	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+2	0	gradle.properties
+
+--bdc3367--2019-05-13--Eric Zimanyi
+2	2	build.gradle
+
+--6d9fbd8--2019-05-10--Jammy Louie
+2	2	fiat-web/fiat-web.gradle
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+
+--6596a33--2019-05-09--Eric Zimanyi
+8	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+
+--fa5915a--2019-05-01--Adam Jordens
+10	5	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+10	7	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+
+--4e4c282--2019-05-01--Adam Jordens
+10	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--967153b--2019-05-01--Adam Jordens
+10	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--c40d36b--2019-04-30--Adam Jordens
+37	16	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--1df3824--2019-04-29--Adam Jordens
+42	12	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--87a0d24--2019-04-29--Rob Zienert
+7	7	README.md
+2	2	build.gradle
+8	10	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/EnableFiatAutoConfig.java
+15	10	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandler.java
+17	12	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+19	22	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationFilter.java
+9	9	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+130	114	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+11	9	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+17	11	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatStatus.java
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/Authorization.java
+27	24	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+1	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+2	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+0	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Authorizable.java
+23	16	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/BaseAccessControlled.java
+1	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/BuildService.java
+23	34	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+1	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Resource.java
+4	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+2	5	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+10	12	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+1	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Viewable.java
+6	5	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/YamlFileApplicationContextInitializer.java
+13	15	fiat-file/src/main/java/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProvider.java
+0	1	fiat-file/src/test/resources/fiat-test-permissions.yml
+8	14	fiat-github/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.java
+12	18	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+139	124	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+11	23	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.java
+2	2	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/model/Member.java
+56	69	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+4	5	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/config/LdapConfig.java
+30	32	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+1	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/DynomiteConfig.java
+13	13	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/FiatAdminConfig.java
+0	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/FiatRoleConfig.java
+9	11	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/LockConfig.java
+7	13	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.java
+5	7	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProvidersHealthIndicator.java
+59	68	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+1	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/ExternalUser.java
+3	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionResolutionException.java
+10	9	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+6	18	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+169	159	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+17	20	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+4	12	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+33	35	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+4	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultBuildServiceProvider.java
+14	13	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+3	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderHealthTracker.java
+0	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+1	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverApi.java
+5	12	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+1	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Api.java
+35	36	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+1	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/IgorApi.java
+4	9	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/IgorService.java
+7	12	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/SimpleJava8HystrixCommand.java
+6	5	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesProvider.java
+85	84	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+5	7	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+15	19	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+4	12	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+3	11	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+13	13	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+79	70	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+1	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/ControllerSupport.java
+1	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/NotFoundException.java
+27	32	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+3	3	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/UserPermissionModificationException.java
+7	13	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+2	4	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/MainSpec.java
+
+--0c80f7b--2019-04-29--Pere
+46	6	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+72	0	fiat-google-groups/src/test/groovy/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProviderSpec.groovy
+
+--9c66f50--2019-04-29--Dibyo Mukherjee
+0	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+41	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+58	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+2	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+3	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+
+--47ea27d--2019-04-26--Dibyo Mukherjee
+1	1	gradle.properties
+
+--4ec93db--2019-04-26--Dibyo Mukherjee
+1	1	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+
+--a912798--2019-04-26--Cameron Fieber
+1	0	fiat-web/fiat-web.gradle
+
+--bb8a3b6--2019-04-24--Cameron Fieber
+26	37	build.gradle
+15	26	fiat-api/fiat-api.gradle
+8	34	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+2	3	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+36	32	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+1	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+3	2	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatStatus.java
+11	39	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+5	18	fiat-core/fiat-core.gradle
+8	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/Authorization.java
+1	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+1	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+1	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/BuildService.java
+9	19	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+4	7	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+4	6	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+5	2	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/YamlFileApplicationContextInitializer.java
+5	2	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+1	1	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/ResourceSpec.groovy
+9	4	fiat-file/fiat-file.gradle
+2	2	fiat-file/src/main/java/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProvider.java
+7	10	fiat-github/fiat-github.gradle
+1	1	fiat-github/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.java
+3	3	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+5	19	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+6	10	fiat-google-groups/fiat-google-groups.gradle
+2	2	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+5	13	fiat-ldap/fiat-ldap.gradle
+2	3	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/config/LdapConfig.java
+2	8	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+15	13	fiat-roles/fiat-roles.gradle
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProvidersHealthIndicator.java
+1	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/UnrestrictedResourceConfig.java
+1	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+6	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+19	18	fiat-web/fiat-web.gradle
+3	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+7	19	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+5	5	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+4	4	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+5	2	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+13	4	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+2	1	fiat-web/src/test/resources/fiat-test.yml
+0	1	fiat-web/src/test/resources/fiat.properties
+3	2	gradle.properties
+3	4	gradle/buildViaTravis.sh
+0	14	gradle/init-publish.gradle
+2	3	gradle/installViaTravis.sh
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+17	1	gradlew
+17	1	gradlew.bat
+
+--57207a6--2019-04-24--Cameron Fieber
+1	1	build.gradle
+
+--d26254a--2019-04-23--Cameron Fieber
+2	2	gradle/buildViaTravis.sh
+1	1	gradle/installViaTravis.sh
+
+--fa1f056--2019-04-23--Cameron Fieber
+1	1	build.gradle
+
+--fb79831--2019-04-23--Cameron Fieber
+--d912d40--2019-04-23--Brandon Powell
+1	0	fiat-api/fiat-api.gradle
+1	0	fiat-core/fiat-core.gradle
+1	0	fiat-file/fiat-file.gradle
+1	0	fiat-github/fiat-github.gradle
+1	0	fiat-google-groups/fiat-google-groups.gradle
+1	0	fiat-ldap/fiat-ldap.gradle
+1	0	fiat-roles/fiat-roles.gradle
+1	0	fiat-web/fiat-web.gradle
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--849ab8a--2019-04-23--Rob Zienert
+3	0	OWNERS.md
+
+--df017c7--2019-04-22--Cameron Fieber
+8	2	build.gradle
+1	0	gradle.properties
+1	1	gradle/buildViaTravis.sh
+0	14	gradle/init-publish.gradle
+1	1	gradle/installViaTravis.sh
+
+--cfa2357--2019-04-22--Cameron Fieber
+--4651b4b--2019-04-22--Adam Jordens
+1	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--6afcf62--2019-04-22--Dibyo Mukherjee
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/Authorization.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+1	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+2	1	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+
+--bdbae49--2019-04-22--Cameron Fieber
+1	1	build.gradle
+
+--3f8fa98--2019-04-22--Cameron Fieber
+--29f9990--2019-04-19--Adam Jordens
+10	3	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+4	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+
+--f69e7c8--2019-04-18--Adam Jordens
+1	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+
+--4e85f1b--2019-04-18--Cameron Fieber
+13	3	build.gradle
+13	22	fiat-api/fiat-api.gradle
+8	37	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+2	3	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+36	32	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+1	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+3	2	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatStatus.java
+11	39	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+4	12	fiat-core/fiat-core.gradle
+8	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/Authorization.java
+1	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+1	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+1	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/BuildService.java
+10	20	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+4	7	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+4	6	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+4	1	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+1	1	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/ResourceSpec.groovy
+1	1	fiat-file/fiat-file.gradle
+1	1	fiat-google-groups/fiat-google-groups.gradle
+1	7	fiat-ldap/fiat-ldap.gradle
+1	1	fiat-roles/fiat-roles.gradle
+0	1	fiat-web/fiat-web.gradle
+1	17	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+0	1	gradle/buildViaTravis.sh
+1	1	gradle/init-publish.gradle
+0	1	gradle/installViaTravis.sh
+
+--69350e0--2019-04-18--Cameron Fieber
+--6b10574--2019-04-18--Dibyo Mukherjee
+43	23	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+
+--81cb1f0--2019-04-18--Adam Jordens
+39	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+10	13	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+7	1	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+
+--38a59e2--2019-04-17--Adam Jordens
+1	5	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--972c3f3--2019-04-16--Cameron Fieber
+16	50	build.gradle
+23	24	fiat-api/fiat-api.gradle
+12	16	fiat-core/fiat-core.gradle
+9	3	fiat-file/fiat-file.gradle
+7	9	fiat-github/fiat-github.gradle
+6	9	fiat-google-groups/fiat-google-groups.gradle
+10	11	fiat-ldap/fiat-ldap.gradle
+15	12	fiat-roles/fiat-roles.gradle
+20	16	fiat-web/fiat-web.gradle
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+17	1	gradlew
+17	1	gradlew.bat
+
+--61cdc5c--2019-04-12--Cameron Fieber
+--03d8217--2019-04-12--Cameron Fieber
+2	1	fiat-web/src/test/resources/fiat-test.yml
+
+--1a04e08--2019-04-12--Cameron Fieber
+--d3fafaf--2019-04-12--Cameron Fieber
+1	1	build.gradle
+
+--28db241--2019-04-11--Emily Burns
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+
+--9645925--2019-04-11--Adam Jordens
+16	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+7	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+
+--2734743--2019-04-10--Emily Burns
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+
+--c37b283--2019-04-10--Dibyo Mukherjee
+9	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+17	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+
+--c311a3d--2019-04-10--Dibyo Mukherjee
+1	5	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+25	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/MainSpec.java
+7	0	fiat-web/src/test/resources/fiat-test.yml
+
+--737cc74--2019-04-01--Rob Fletcher
+1	0	fiat-roles/fiat-roles.gradle
+
+--54aacf5--2019-04-01--Rob Fletcher
+0	36	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.java
+
+--af66546--2019-03-26--Dibyo Mukherjee
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+
+--8c4679f--2019-03-26--Dibyo Mukherjee
+1	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+6	0	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+
+--6c09171--2019-03-25--Dibyo Mukherjee
+1	3	build.gradle
+
+--b256f87--2019-03-13--Rob Zienert
+0	1	build.gradle
+
+--eb19e22--2019-03-13--Rob Zienert
+1	0	build.gradle
+
+--32b74ca--2019-03-12--Rob Zienert
+1	1	build.gradle
+
+--bdebc70--2019-03-11--Rob Zienert
+1	1	build.gradle
+
+--99268cc--2019-03-11--Rob Zienert
+1	1	build.gradle
+
+--3a8a981--2019-03-11--Rob Zienert
+1	1	build.gradle
+0	1	fiat-web/src/test/resources/fiat.properties
+
+--35738da--2019-03-14--Rob Zienert
+2	2	gradle.properties
+
+--d481c73--2019-03-13--Rob Zienert
+0	1	build.gradle
+0	1	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+
+--13d0078--2019-03-13--Rob Zienert
+1	3	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+
+--30cb454--2019-03-13--Rob Zienert
+11	0	build.gradle
+1	1	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+5	3	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--72e6321--2019-03-12--Rob Zienert
+0	1	fiat-web/fiat-web.gradle
+4	4	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+7	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--ccc04a3--2019-03-12--Rob Zienert
+1	1	build.gradle
+1	1	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--c888310--2019-03-11--Rob Zienert
+1	1	build.gradle
+
+--a4f053b--2019-03-11--Rob Zienert
+5	1	build.gradle
+
+--e0289ae--2019-03-11--Rob Zienert
+3	1	build.gradle
+2	2	fiat-core/fiat-core.gradle
+5	2	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/YamlFileApplicationContextInitializer.java
+1	1	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+2	2	fiat-file/src/main/java/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProvider.java
+1	1	fiat-github/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.java
+2	2	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+5	19	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+2	2	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+2	3	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/config/LdapConfig.java
+2	8	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProvidersHealthIndicator.java
+1	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/UnrestrictedResourceConfig.java
+6	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+3	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+2	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+5	5	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--9e5e707--2019-03-26--Chris Berry
+10	3	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--9c40dd4--2019-03-22--Jørgen Jervidalo
+2	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+8	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+59	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/BuildService.java
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+49	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultBuildServiceProvider.java
+28	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/IgorApi.java
+66	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/IgorService.java
+26	3	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+6	0	fiat-web/src/test/groovy/com/netflix/spinnaker/config/ResourceConfig.groovy
+7	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+2	1	fiat-web/src/test/resources/fiat.properties
+
+--f89e60f--2019-03-18--Xavi León
+27	9	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+59	18	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+6	15	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--241e275--2019-03-13--Rob Zienert
+0	1	build.gradle
+0	1	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+
+--6771c5d--2019-03-13--Rob Zienert
+1	3	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+
+--23cf89c--2019-03-13--Rob Zienert
+11	0	build.gradle
+1	1	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+5	3	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--9ae7c05--2019-03-13--Dibyo Mukherjee
+22	36	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+
+--4ea2d71--2019-03-13--Dibyo Mukherjee
+22	36	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+
+--94acd82--2019-03-12--Rob Zienert
+0	1	fiat-web/fiat-web.gradle
+4	4	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+7	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--01547ca--2019-03-12--Rob Zienert
+1	1	build.gradle
+1	1	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--e2efff0--2019-03-11--Rob Zienert
+1	1	build.gradle
+
+--54b8e4a--2019-03-11--Rob Zienert
+5	1	build.gradle
+
+--ef6450d--2019-03-11--Rob Zienert
+3	1	build.gradle
+2	2	fiat-core/fiat-core.gradle
+5	2	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/YamlFileApplicationContextInitializer.java
+1	1	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+2	2	fiat-file/src/main/java/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProvider.java
+1	1	fiat-github/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.java
+2	2	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+5	19	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+2	2	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+2	3	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/config/LdapConfig.java
+2	8	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProvidersHealthIndicator.java
+1	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/UnrestrictedResourceConfig.java
+6	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+3	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+2	5	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+5	5	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+3	3	fiat-web/src/test/resources/fiat.properties
+
+--521c973--2019-03-07--Brandon Powell
+1	1	build.gradle
+1	1	gradle/init-publish.gradle
+
+--b6dc1da--2019-02-21--Eric Zimanyi
+1	4	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+0	6	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+0	6	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--32220f5--2019-02-05--Adam Jordens
+2	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+6	6	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatStatus.java
+
+--3625eab--2019-01-31--Eric Zimanyi
+6	5	fiat-github/fiat-github.gradle
+5	7	fiat-google-groups/fiat-google-groups.gradle
+2	7	fiat-roles/fiat-roles.gradle
+2	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--59e1559--2019-01-31--Gard Rimestad
+30	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/FiatRoleConfig.java
+19	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+7	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+39	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+
+--cbb4443--2019-01-25--Dibyo Mukherjee
+2	2	fiat-google-groups/fiat-google-groups.gradle
+
+--226456f--2019-01-10--Guoqing Geng
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.java
+
+--4c92e21--2018-12-07--Gard Rimestad
+1	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+
+--dadc01a--2018-12-06--Gard Rimestad
+9	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+7	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+20	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+2	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+4	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Api.java
+15	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+65	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/ApplicationsController.java
+
+--6014fe2--2018-11-30--Dibyo Mukherjee
+1	1	build.gradle
+
+--62daf3f--2018-11-16--Dibyo Mukherjee
+51	15	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+45	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+
+--83a7ef2--2018-11-15--Dibyo Mukherjee
+13	24	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--d609f7e--2018-11-12--Adam Jordens
+13	24	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--8968304--2018-11-09--Dibyo Mukherjee
+24	13	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--02b6889--2018-11-09--Dibyo Mukherjee
+24	13	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--89c6612--2018-11-05--Cameron Fieber
+1	1	.travis.yml
+
+--950261b--2018-10-30--Dibyo Mukherjee
+2	2	README.md
+
+--93a8379--2018-10-25--Cameron Fieber
+1	1	build.gradle
+1	1	gradle/init-publish.gradle
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--06655eb--2018-10-25--Dibyo Mukherjee
+12	2	README.md
+8	4	fiat-web/fiat-web.gradle
+1	0	gradle.properties
+3	0	settings.gradle
+
+--e176a3b--2018-10-25--Travis Tomsu
+10	7	build.gradle
+3	5	fiat-web/fiat-web.gradle
+6	5	gradle/buildViaTravis.sh
+14	0	gradle/init-publish.gradle
+5	4	gradle/installViaTravis.sh
+
+--b1fd0b3--2018-10-11--Daniel Peach
+1	1	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+
+--142f6bb--2018-10-05--dreynaud
+0	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+
+--ede4a83--2018-10-04--Sujatha Muthuswamy
+1	1	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+
+--a214c5c--2018-10-02--Travis Tomsu
+4	1	build.gradle
+
+--9d56881--2018-10-02--Eric Zimanyi
+10	0	README.md
+6	0	build.gradle
+
+--5063d38--2018-10-02--Dibyo Mukherjee
+2	0	fiat-ldap/fiat-ldap.gradle
+10	1	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+94	0	fiat-ldap/src/test/groovy/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProviderTest.groovy
+
+--4fb1da6--2018-09-28--Adam Jordens
+4	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+5	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesProvider.java
+5	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+
+--4045c08--2018-09-06--Adam Jordens
+1	1	build.gradle
+
+--012bea7--2018-08-30--Robert Farr
+3	1	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+171	41	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+11	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.java
+26	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/model/Member.java
+
+--58c8150--2018-08-29--Adam Jordens
+1	1	build.gradle
+
+--2c8212d--2018-08-29--Dibyo Mukherjee
+1	1	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+
+--49acfd7--2018-08-29--Dibyo Mukherjee
+1	1	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+
+--3fc0363--2018-08-28--Adam Jordens
+40	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAccessDeniedExceptionHandler.java
+49	14	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--397706a--2018-08-02--Adam Jordens
+9	2	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+29	18	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+30	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+15	7	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+
+--8a72a11--2018-08-01--Cameron Fieber
+10	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+73	9	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+22	1	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+
+--ffcd505--2018-07-20--Adam Jordens
+1	1	build.gradle
+8	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+20	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+
+--ae34dd1--2018-07-16--Adam Jordens
+8	3	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatStatus.java
+
+--92bd5be--2018-07-16--Rob Zienert
+1	1	fiat-roles/fiat-roles.gradle
+28	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/DynomiteConfig.java
+10	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+5	2	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+
+--edd1fb6--2018-07-12--Adam Jordens
+10	2	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+
+--5bb1af3--2018-07-12--Adam Jordens
+1	3	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+
+--0157f72--2018-07-11--Adam Jordens
+9	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+23	4	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+1	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+4	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+17	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+11	4	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+14	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+2	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+16	31	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+
+--47697f5--2018-07-09--Adam Jordens
+1	1	build.gradle
+
+--2face82--2018-07-09--Adam Jordens
+0	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+54	47	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+15	4	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--9f364c4--2018-07-02--Adam Jordens
+0	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderHealthTracker.java
+22	39	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+
+--452bc21--2018-06-29--Adam Jordens
+1	1	build.gradle
+6	4	fiat-file/src/main/java/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProvider.java
+9	4	fiat-file/src/test/groovy/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProviderSpec.groovy
+7	4	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+9	4	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+7	5	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+2	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+5	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesProvider.java
+5	5	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+3	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+6	5	fiat-web/src/test/groovy/com/netflix/spinnaker/config/TestUserRoleProviderConfig.groovy
+
+--31deb4c--2018-06-27--Adam Jordens
+2	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatStatus.java
+
+--492eaa4--2018-06-27--Adam Jordens
+1	1	build.gradle
+2	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+50	21	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+10	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatStatus.java
+33	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+1	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+5	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+
+--c3dea1d--2018-06-27--Dibyo Mukherjee
+5	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--4ed42b2--2018-06-25--Dibyo Mukherjee
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--fa97ea7--2018-06-19--Adam Jordens
+43	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+43	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+
+--369ffd5--2018-06-18--Adam Jordens
+4	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+1	0	fiat-web/src/test/resources/fiat.properties
+
+--64bc33d--2018-06-18--Adam Jordens
+7	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/LockConfig.java
+
+--6635f01--2018-06-18--Adam Jordens
+1	1	build.gradle
+2	2	fiat-roles/fiat-roles.gradle
+0	112	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/CatsSchedulerConfig.java
+52	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/LockConfig.java
+8	11	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.java
+87	88	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+50	43	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+7	11	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+30	15	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+4	5	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+
+--c9e2fd8--2018-06-13--Adam Jordens
+6	11	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+18	4	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationFilter.java
+7	13	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+60	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatStatus.java
+6	3	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+
+--112f58a--2018-06-08--Adam Jordens
+2	0	fiat-api/fiat-api.gradle
+27	17	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+0	2	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationFilter.java
+12	4	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+5	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+21	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+8	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--92b7c94--2018-05-30--Cameron Fieber
+2	2	build.gradle
+4	5	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+4	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--6048e25--2018-06-06--Adam Jordens
+1	1	build.gradle
+2	0	fiat-api/fiat-api.gradle
+43	57	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+19	16	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+2	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+47	13	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+36	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--f5ddbc2--2018-05-24--Daniel Peach
+7	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+7	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+
+--c480983--2018-05-14--Stephen Chen
+5	2	fiat-file/src/main/java/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProvider.java
+4	0	fiat-file/src/test/resources/fiat-test-permissions.yml
+
+--6b05e17--2018-05-11--Dibyo Mukherjee
+1	1	build.gradle
+
+--3167d18--2018-05-08--Dibyo Mukherjee
+2	5	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+4	7	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+
+--109def3--2018-05-02--Eric Zimanyi
+1	1	README.md
+
+--b91ac52--2018-04-20--Jon Schneider
+1	1	build.gradle
+1	4	fiat-web/fiat-web.gradle
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	2	gradle/wrapper/gradle-wrapper.properties
+42	30	gradlew
+4	10	gradlew.bat
+
+--d4b09d3--2018-04-19--Sergey Reshetnyak
+1	1	Dockerfile.slim
+
+--bac75ed--2018-04-04--Lars Wander
+1	1	Dockerfile.slim
+
+--dfb5f38--2018-04-04--Lars Wander
+4	0	Dockerfile.slim
+
+--f8860ff--2018-03-16--Rob Zienert
+1	0	gradle.properties
+
+--475148f--2018-03-07--Brian Kruger
+1	1	fiat-web/pkg_scripts/postInstall.sh
+
+--8f4fa43--2018-02-16--Pedro Gonçalves
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+
+--2a7603f--2018-02-08--Daniel Williams
+1	1	fiat-web/etc/init/fiat.conf
+
+--b55b932--2017-11-23--Pedro Goncalves
+4	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+10	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+9	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Viewable.java
+47	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/FiatAdminConfig.java
+18	5	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+27	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+2	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+2	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+32	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+11	4	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+5	5	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/BaseProviderSpec.groovy
+15	10	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+6	6	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--80d45e0--2018-01-23--Cameron Fieber
+3	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+
+--032c78a--2018-01-19--Cameron Fieber
+14	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+
+--42cc012--2017-11-30--Cameron Fieber
+1	1	build.gradle
+
+--abe67a0--2017-11-30--Brandon Nelson
+1	1	fiat-web/lib/systemd/system/fiat.service
+
+--32c29d6--2017-11-28--Brandon Nelson
+14	0	fiat-web/lib/systemd/system/fiat.service
+
+--d8399d7--2017-11-17--Cameron Fieber
+1	1	build.gradle
+2	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+
+--8ee0c44--2017-11-15--Cameron Fieber
+3	3	build.gradle
+1	1	fiat-file/fiat-file.gradle
+1	1	fiat-ldap/fiat-ldap.gradle
+1	1	fiat-roles/fiat-roles.gradle
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--ac894ef--2017-11-15--John Engelman
+7	1	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+
+--3285f55--2017-11-13--Cameron Fieber
+2	1	fiat-web/fiat-web.gradle
+
+--55b1010--2017-11-03--Kevin Woo
+6	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/CatsSchedulerConfig.java
+
+--ac964c1--2017-10-31--John Engelman
+9	2	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+
+--75c950b--2017-10-16--Fabian Heymann
+1	1	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+
+--bcbdad1--2017-10-13--Fabian Heymann
+2	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+42	7	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+
+--2798bb5--2017-08-21--Adam Jordens
+1	1	build.gradle
+
+--f4f3d49--2017-08-21--Adam Jordens
+1	1	build.gradle
+
+--46e370e--2017-08-18--Travis Tomsu
+1	1	fiat-ldap/fiat-ldap.gradle
+1	1	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+
+--c2aa618--2017-07-24--Travis Tomsu
+3	13	build.gradle
+1	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+1	0	fiat-core/fiat-core.gradle
+40	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/YamlFileApplicationContextInitializer.java
+2	5	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+6	0	fiat-core/src/test/resources/application.yml
+0	6	fiat-core/src/test/resources/config/application.yml
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--f1be881--2017-07-24--Travis Tomsu
+3	13	build.gradle
+1	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+1	0	fiat-core/fiat-core.gradle
+40	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/YamlFileApplicationContextInitializer.java
+2	5	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+6	0	fiat-core/src/test/resources/application.yml
+0	6	fiat-core/src/test/resources/config/application.yml
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--2229a5f--2017-07-12--Travis Tomsu
+4	0	fiat-web/config/fiat.yml
+
+--ca1b038--2017-07-11--Travis Tomsu
+1	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+23	0	fiat-file/fiat-file.gradle
+110	0	fiat-file/src/main/java/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProvider.java
+50	0	fiat-file/src/test/groovy/com/netflix/spinnaker/fiat/roles/file/FileBasedUserRolesProviderSpec.groovy
+9	0	fiat-file/src/test/resources/fiat-test-permissions.yml
+1	0	fiat-web/fiat-web.gradle
+8	1	settings.gradle
+
+--c97f935--2017-07-11--Travis Tomsu
+3	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/UnrestrictedResourceConfig.java
+
+--616801b--2017-07-10--Travis Tomsu
+14	0	cloudbuild-tagged.yaml
+2	2	cloudbuild.yaml
+
+--e775f0d--2017-06-21--Travis Tomsu
+2	0	fiat-roles/fiat-roles.gradle
+107	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/CatsSchedulerConfig.java
+2	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.java
+1	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+12	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+13	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+0	33	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/redis/JedisPoolSource.java
+0	23	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/redis/JedisSource.java
+9	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+9	9	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+5	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+1	1	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+
+--2dfa632--2017-06-19--Travis Tomsu
+1	1	build.gradle
+1	0	fiat-api/fiat-api.gradle
+6	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+9	5	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+2	6	fiat-web/config/fiat.yml
+0	1	fiat-web/fiat-web.gradle
+15	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+7	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+14	0	fiat-web/src/main/resources/logback-defaults.xml
+
+--af0040c--2017-06-16--Travis Tomsu
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.java
+
+--09bb686--2017-06-16--Travis Tomsu
+1	0	fiat-roles/fiat-roles.gradle
+2	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ProviderCacheConfig.java
+4	12	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+5	5	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+1	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+3	8	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+5	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderException.java
+17	14	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderHealthTracker.java
+55	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+49	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+77	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/SimpleJava8HystrixCommand.java
+3	10	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/ProviderHealthTrackerSpec.groovy
+9	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+2	0	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+7	7	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+2	3	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--e4f1f6a--2017-06-12--Travis Tomsu
+5	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderHealthTracker.java
+
+--17b1c62--2017-06-08--Travis Tomsu
+8	1	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+3	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--50ef2ab--2017-05-31--Travis Tomsu
+1	1	.github/PULL_REQUEST_TEMPLATE.md
+
+--2f28e6f--2017-05-31--Travis Tomsu
+72	7	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+1	1	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+
+--5bd3d74--2017-04-25--Travis Tomsu
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+6	13	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderException.java
+
+--e5d9630--2017-04-24--Travis Tomsu
+1	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+7	13	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+15	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+27	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ProviderCacheConfig.java
+5	7	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProvidersHealthIndicator.java
+13	36	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+54	40	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+4	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+4	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+14	18	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+22	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/HealthTrackable.java
+55	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderHealthTracker.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+15	10	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+2	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+5	21	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/BaseProviderSpec.groovy
+16	13	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+44	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/ProviderHealthTrackerSpec.groovy
+2	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+1	1	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+2	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/FiatSystemTestSupport.groovy
+6	8	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+2	0	fiat-web/src/test/resources/fiat.properties
+
+--d12c767--2017-04-10--Travis Tomsu
+1	0	fiat-api/fiat-api.gradle
+12	5	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+0	0	fiat-api/src/test/resources/application.properties
+4	0	fiat-core/fiat-core.gradle
+19	11	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+8	20	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+9	23	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+59	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/BaseAccessControlled.java
+0	24	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/GroupAccessControlled.java
+163	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Permissions.java
+8	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Resource.java
+4	7	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+6	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+3	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Viewable.java
+1	1	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/ApplicationSpec.groovy
+170	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/PermissionsSpec.groovy
+35	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/ResourceSpec.groovy
+6	0	fiat-core/src/test/resources/config/application.yml
+1	0	fiat-roles/fiat-roles.gradle
+48	30	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+0	22	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+0	22	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ApplicationProvider.java
+29	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+1	19	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+1	23	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+3	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+0	22	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/GroupAccessControlledResourceProvider.java
+2	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+0	22	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+2	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+15	5	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+3	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+103	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/BaseProviderSpec.groovy
+0	62	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultAccountProviderSpec.groovy
+13	29	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+2	2	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+7	0	fiat-web/config/fiat.yml
+1	0	fiat-web/fiat-web.gradle
+12	12	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+6	6	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+11	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/FiatSystemTestSupport.groovy
+19	15	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--ac7915a--2017-04-10--Cameron Fieber
+5	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+7	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+31	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverApi.java
+14	5	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+31	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Api.java
+14	5	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+1	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+1	3	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultAccountProviderSpec.groovy
+1	2	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+18	6	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+
+--c41b3a9--2017-04-03--Michael Tweten
+2	0	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/config/LdapConfig.java
+18	2	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+
+--3b94a31--2017-03-30--Travis Tomsu
+5	5	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--afc0703--2017-03-29--Cameron Fieber
+8	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--15bfbbd--2017-03-28--Travis Tomsu
+1	0	fiat-api/fiat-api.gradle
+11	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+52	34	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+3	3	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+14	12	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+
+--f43f407--2017-03-28--Cameron Fieber
+1	1	build.gradle
+
+--8fb330e--2017-03-22--Jacob Kiefer
+4	0	.clog.toml
+
+--ca893aa--2017-03-15--Lars Wander
+3	1	halconfig/fiat.yml
+
+--c563782--2017-03-10--Travis Tomsu
+0	115	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+0	32	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatClientConfigurationProperties.java
+46	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/EnableFiatAutoConfig.java
+112	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationConfig.java
+30	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatClientConfigurationProperties.java
+
+--90f9260--2017-03-01--Jacob Kiefer
+14	0	.github/PULL_REQUEST_TEMPLATE.md
+
+--e548657--2017-02-22--Travis Tomsu
+0	2	cloudbuild.yaml
+
+--b38b931--2017-02-21--Matt Duftler
+--8d21b99--2017-02-21--Greg Turnquist
+3	9	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+
+--7b81ca8--2017-02-14--Jacob Kiefer
+1	1	build.gradle
+
+--aa94f4d--2017-02-13--Travis Tomsu
+2	5	Dockerfile.slim
+3	2	cloudbuild.yaml
+
+--bffdbdf--2017-02-13--Pedro Gonçalves
+11	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+22	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--1708d40--2017-02-03--Travis Tomsu
+--be56f04--2017-02-02--Travis Tomsu
+4	3	Dockerfile
+12	0	Dockerfile.slim
+5	1	cloudbuild.yaml
+
+--14e59f3--2017-02-02--Jacob Kiefer
+2	0	gradle/buildViaTravis.sh
+
+--9d5c9d8--2017-02-02--Travis Tomsu
+--66b3d9b--2017-02-02--Travis Tomsu
+2	2	cloudbuild.yaml
+
+--6113953--2017-02-02--Travis Tomsu
+--f62fe0d--2017-02-02--Travis Tomsu
+7	0	cloudbuild.yaml
+
+--04acdd6--2017-02-02--Travis Tomsu
+2	1	build.gradle
+
+--9364762--2017-01-25--Travis Tomsu
+11	19	fiat-github/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.java
+100	99	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+8	6	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.java
+0	79	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubMaster.java
+28	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/model/Team.java
+27	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/model/TeamMembership.java
+
+--8b4f152--2017-01-25--Travis Tomsu
+9	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+10	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+8	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+2	2	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+
+--461ef60--2017-01-25--Travis Tomsu
+3	1	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+
+--0d9cca9--2017-01-18--Travis Tomsu
+10	0	build.gradle
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+29	0	fiat-ldap/fiat-ldap.gradle
+61	0	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/config/LdapConfig.java
+123	0	fiat-ldap/src/main/java/com/netflix/spinnaker/fiat/roles/ldap/LdapUserRolesProvider.java
+1	0	fiat-web/fiat-web.gradle
+1	1	settings.gradle
+
+--f061290--2017-01-18--Lars Wander
+6	0	halconfig/fiat.yml
+
+--f788b0d--2017-01-12--Travis Tomsu
+36	20	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+1	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.java
+
+--a6fd53a--2017-01-11--Travis Tomsu
+17	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+1	1	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+8	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+
+--432777a--2017-01-11--Travis Tomsu
+12	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+38	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/ServiceAccountSpec.groovy
+2	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+
+--8e8beff--2017-01-10--Travis Tomsu
+1	0	fiat-core/fiat-core.gradle
+11	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+36	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/ApplicationSpec.groovy
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+
+--18588b1--2016-11-30--Travis Tomsu
+1	1	build.gradle
+1	0	fiat-web/fiat-web.gradle
+21	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--e59cfbd--2016-11-11--Travis Tomsu
+1	0	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+
+--7f83fd4--2016-11-09--Cameron Fieber
+4	4	.travis.yml
+
+--aae3efe--2016-11-01--Eric Wiseblatt
+13	2	build.gradle
+1	0	fiat-web/fiat-web.gradle
+
+--5a3b3fb--2016-11-01--Travis Tomsu
+2	2	build.gradle
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+
+--67282d6--2016-11-01--Travis Tomsu
+9	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+48	22	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+22	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+4	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/FiatSystemTestSupport.groovy
+
+--f004e6a--2016-11-01--Travis Tomsu
+2	2	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationFilter.java
+
+--f33e69a--2016-10-19--Travis Tomsu
+3	3	build.gradle
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+
+--cc33be7--2016-10-18--Travis Tomsu
+1	1	build.gradle
+
+--6295ea9--2016-10-12--Travis Tomsu
+0	1	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatClientConfigurationProperties.java
+
+--410507d--2016-10-12--Travis Tomsu
+1	0	fiat-api/fiat-api.gradle
+4	0	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+4	0	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatClientConfigurationProperties.java
+7	4	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+47	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+
+--b0df75c--2016-10-06--Travis Tomsu
+20	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.java
+21	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+
+--21de354--2016-10-06--Travis Tomsu
+--47854a2--2016-10-06--Travis Tomsu
+21	4	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+4	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+16	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+
+--8e3e49f--2016-10-05--Travis Tomsu
+--6f933e2--2016-10-05--Travis Tomsu
+11	1	build.gradle
+
+--df5c69f--2016-10-04--Travis Tomsu
+--ce0704d--2016-10-04--Travis Tomsu
+4	1	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+
+--3d17975--2016-10-04--Travis Tomsu
+--3e2fa07--2016-10-04--Travis Tomsu
+4	0	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+1	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationFilter.java
+35	11	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+
+--5723ef6--2016-10-04--Travis Tomsu
+--e2604e1--2016-10-03--Travis Tomsu
+6	6	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+3	2	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+4	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--f897190--2016-10-03--Travis Tomsu
+--edf78ce--2016-10-03--Travis Tomsu
+9	3	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+6	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--89f0d6a--2016-10-03--Travis Tomsu
+4	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+0	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+4	2	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+0	4	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--8e28138--2016-10-03--Travis Tomsu
+3	3	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+7	3	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+
+--5c8f22e--2016-10-03--Travis Tomsu
+1	0	fiat-web/fiat-web.gradle
+116	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+19	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/FiatSystemTestSupport.groovy
+
+--31c2349--2016-10-03--Travis Tomsu
+7	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+2	0	fiat-web/fiat-web.gradle
+5	9	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+9	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/ControllerSupport.java
+3	3	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/UserPermissionModificationException.java
+50	0	fiat-web/src/test/groovy/com/netflix/spinnaker/config/EmbeddedRedisConfig.groovy
+28	0	fiat-web/src/test/groovy/com/netflix/spinnaker/config/FiatSystemTest.java
+37	0	fiat-web/src/test/groovy/com/netflix/spinnaker/config/ResourceConfig.groovy
+48	0	fiat-web/src/test/groovy/com/netflix/spinnaker/config/TestUserRoleProviderConfig.groovy
+38	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/FiatSystemTestSupport.groovy
+92	16	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+2	0	fiat-web/src/test/resources/fiat.properties
+32	0	fiat-web/src/test/resources/logback-test.xml
+
+--30a4dab--2016-09-30--Travis Tomsu
+1	0	build.gradle
+0	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+
+--a13b3de--2016-09-29--Travis Tomsu
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+
+--cc375d9--2016-09-29--Travis Tomsu
+4	0	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+
+--cbd111b--2016-09-28--Travis Tomsu
+5	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.java
+
+--e8712e8--2016-09-28--Travis Tomsu
+30	10	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+34	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/ExternalUser.java
+5	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+14	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+23	2	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+7	5	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+7	4	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--f9fc633--2016-09-28--Travis Tomsu
+1	1	build.gradle
+11	0	fiat-github/fiat-github.gradle
+66	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.java
+31	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+166	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+50	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.java
+79	0	fiat-github/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubMaster.java
+30	0	fiat-google-groups/fiat-google-groups.gradle
+199	0	fiat-google-groups/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+0	1	fiat-roles/fiat-roles.gradle
+0	69	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.groovy
+0	101	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.groovy
+112	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.java
+0	31	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+0	166	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+0	50	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.java
+0	75	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubMaster.java
+0	199	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+1	8	fiat-web/config/fiat.yml
+4	2	fiat-web/fiat-web.gradle
+1	1	settings.gradle
+
+--7412fc3--2016-09-28--Travis Tomsu
+2	2	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+29	0	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatClientConfigurationProperties.java
+0	29	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatConfigurationProperties.java
+2	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProvidersHealthIndicator.java
+2	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/UnrestrictedResourceConfig.java
+4	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+2	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+50	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatServerConfigurationProperties.java
+9	6	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+2	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--344c3a2--2016-09-28--Greg BOUGEARD
+13	0	Dockerfile
+
+--a169202--2016-09-27--Cameron Fieber
+3	0	build.gradle
+
+--704929b--2016-09-27--Cameron Fieber
+--f6aaf83--2016-09-27--Cameron Fieber
+2	2	build.gradle
+1	1	gradle/wrapper/gradle-wrapper.properties
+
+--c4d8e33--2016-09-27--Travis Tomsu
+0	2	build.gradle
+14	6	fiat-api/fiat-api.gradle
+0	3	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+7	9	fiat-core/fiat-core.gradle
+5	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+6	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+2	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+2	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+3	0	fiat-roles/fiat-roles.gradle
+0	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+8	0	fiat-web/fiat-web.gradle
+-	-	gradle/wrapper/gradle-wrapper.jar
+2	2	gradle/wrapper/gradle-wrapper.properties
+
+--71501a1--2016-09-26--Travis Tomsu
+62	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProvidersHealthIndicator.java
+3	3	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/UnrestrictedResourceConfig.java
+9	19	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+38	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionResolutionException.java
+5	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+65	30	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+4	4	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+37	34	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+0	49	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProviderHealthIndicator.java
+16	8	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+18	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/UserPermissionModificationException.java
+3	2	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--6652189--2016-09-26--Travis Tomsu
+6	6	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+29	0	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatConfigurationProperties.java
+
+--934e6cc--2016-09-25--Lars Wander
+1	1	fiat-web/pkg_scripts/postUninstall.sh
+
+--ea2bb2c--2016-09-23--Greg BOUGEARD
+8	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+2	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+3	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.java
+
+--140a447--2016-09-20--Travis Tomsu
+1	0	fiat-api/fiat-api.gradle
+14	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+75	0	fiat-api/src/test/groovy/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluatorSpec.groovy
+
+--de158b3--2016-09-20--Travis Tomsu
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--cab085a--2016-09-19--Travis Tomsu
+21	1	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+12	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+12	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+68	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+11	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+64	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+24	6	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--cd342c5--2016-09-19--Travis Tomsu
+0	49	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+1	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+56	17	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+4	9	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+11	24	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+2	3	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--35dd190--2016-09-19--Travis Tomsu
+9	5	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+70	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Role.java
+13	5	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+13	16	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+2	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+23	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+4	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+4	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+6	12	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+2	1	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+4	2	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesProvider.java
+11	6	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+18	7	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+16	12	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+17	4	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+2	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultAccountProviderSpec.groovy
+2	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+2	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+5	4	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+2	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+9	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--e796da2--2016-09-19--Travis Tomsu
+0	1	fiat-roles/fiat-roles.gradle
+0	69	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/config/GitHubConfig.groovy
+0	101	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/config/RedisConfig.groovy
+0	35	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/config/UnrestrictedResourceConfig.java
+0	153	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+0	49	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+0	57	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+0	48	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+0	269	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+0	22	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+0	22	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/ApplicationProvider.java
+0	59	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+0	67	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+0	67	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+0	83	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+0	22	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/GroupAccessControlledResourceProvider.java
+0	39	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/ProviderException.java
+0	31	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+0	22	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+0	28	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+0	32	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+0	33	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/redis/JedisPoolSource.java
+0	23	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/redis/JedisSource.java
+0	37	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesProvider.groovy
+0	121	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+0	41	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.groovy
+0	140	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.groovy
+0	46	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.groovy
+0	79	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/github/client/GitHubMaster.groovy
+0	145	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.groovy
+69	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/GitHubConfig.groovy
+101	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/RedisConfig.groovy
+35	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/config/UnrestrictedResourceConfig.java
+153	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+49	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+57	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+48	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+269	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+22	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+22	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ApplicationProvider.java
+59	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+67	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+67	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+83	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+22	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/GroupAccessControlledResourceProvider.java
+39	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderException.java
+31	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+22	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+28	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+32	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+33	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/redis/JedisPoolSource.java
+23	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/redis/JedisSource.java
+41	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesProvider.java
+121	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+23	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.java
+160	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.java
+48	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.java
+75	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/github/client/GitHubMaster.java
+190	0	fiat-roles/src/main/java/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.java
+
+--c061ab1--2016-09-15--Lars Wander
+--bd640ca--2016-09-15--Travis Tomsu
+0	52	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/ServiceAccount.java
+1	7	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+0	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+49	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ServiceAccount.java
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+
+--cc5da09--2016-09-15--Travis Tomsu
+2	5	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+0	136	fiat-core/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+0	49	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+0	57	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+0	48	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+0	22	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+0	22	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ApplicationProvider.java
+0	59	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+0	67	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+0	67	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+0	83	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+0	22	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/GroupAccessControlledResourceProvider.java
+0	39	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderException.java
+0	31	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+0	22	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+0	28	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+0	32	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+0	44	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/BaseProviderSpec.groovy
+0	63	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultAccountProviderSpec.groovy
+0	62	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+0	63	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+49	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+57	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+48	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+22	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+22	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/ApplicationProvider.java
+59	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+67	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+67	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+83	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+22	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/GroupAccessControlledResourceProvider.java
+39	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/ProviderException.java
+31	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+22	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+28	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+32	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+44	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/BaseProviderSpec.groovy
+63	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultAccountProviderSpec.groovy
+62	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+63	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+136	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+
+--27cd7c2--2016-09-15--Travis Tomsu
+3	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/ServiceAccount.java
+26	8	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+3	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Authorizable.java
+5	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Resource.java
+10	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+10	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+10	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+7	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+3	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+10	8	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultAccountProviderSpec.groovy
+10	9	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+2	2	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+0	37	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/config/AnonymousUserConfig.java
+35	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/config/UnrestrictedResourceConfig.java
+14	28	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+88	94	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+3	3	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+35	51	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+29	16	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+8	8	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+
+--4fcadbb--2016-09-13--Travis Tomsu
+0	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/Authorization.java
+1	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+
+--220124f--2016-09-06--Travis Tomsu
+61	13	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+15	8	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+7	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--905eff9--2016-09-06--Travis Tomsu
+20	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+0	8	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+0	9	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/config/AnonymousUserConfig.java
+18	33	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+0	8	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+9	9	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+
+--d84333a--2016-09-06--Travis Tomsu
+7	7	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+3	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/ServiceAccount.java
+2	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+1	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Authorizable.java
+24	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/GroupAccessControlled.java
+0	21	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Named.java
+2	20	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Resource.java
+39	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/ResourceType.java
+1	10	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+1	6	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ApplicationProvider.java
+13	8	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+14	8	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+10	17	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+22	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/GroupAccessControlledResourceProvider.java
+29	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ResourceProvider.java
+1	8	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+9	9	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/ResourceSpec.groovy
+2	2	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultAccountProviderSpec.groovy
+2	2	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+2	2	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+3	3	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+14	14	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+1	2	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+1	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+2	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+
+--0e73e87--2016-09-01--Travis Tomsu
+25	21	README.md
+
+--4dc132a--2016-09-01--Travis Tomsu
+1	1	README.md
+
+--2707c5b--2016-09-01--Travis Tomsu
+25	21	README.md
+
+--3565034--2016-09-01--Travis Tomsu
+70	1	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+4	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+
+--eb2c378--2016-08-30--Travis Tomsu
+1	1	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+
+--d252a00--2016-08-30--Travis Tomsu
+7	1	README.md
+5	0	fiat-web/src/main/resources/banner.txt
+
+--12f57fa--2016-08-30--Travis Tomsu
+--d7b5984--2016-08-30--Travis Tomsu
+5	9	README.md
+
+--058e895--2016-08-26--Travis Tomsu
+1	1	build.gradle
+29	0	fiat-api/fiat-api.gradle
+97	0	fiat-api/src/main/java/com/netflix/spinnaker/config/FiatAuthenticationConfig.java
+63	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatAuthenticationFilter.java
+86	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatPermissionEvaluator.java
+30	0	fiat-api/src/main/java/com/netflix/spinnaker/fiat/shared/FiatService.java
+1	0	fiat-core/fiat-core.gradle
+136	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/config/RetrofitConfig.java
+0	1	fiat-web/fiat-web.gradle
+2	106	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+1	1	settings.gradle
+
+--96fcfe6--2016-08-26--Travis Tomsu
+62	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+
+--42d0b2f--2016-08-26--Travis Tomsu
+11	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/ServiceAccount.java
+26	21	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+11	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+10	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+25	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Authorizable.java
+6	4	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Resource.java
+25	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Viewable.java
+3	1	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/ResourceSpec.groovy
+
+--0f59dec--2016-08-25--Travis Tomsu
+--ba1d2d0--2016-08-25--Travis Tomsu
+15	3	README.md
+
+--c1c2304--2016-08-09--Travis Tomsu
+59	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/BaseProvider.java
+6	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+6	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+18	23	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+3	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+44	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/BaseProviderSpec.groovy
+0	26	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+2	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+58	2	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+30	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+7	0	fiat-web/config/fiat.yml
+49	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourceProviderHealthIndicator.java
+
+--b30d1f1--2016-07-28--Travis Tomsu
+7	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+8	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+9	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ApplicationProvider.java
+13	7	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+12	7	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+16	9	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+39	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ProviderException.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/config/AnonymousUserConfig.java
+36	25	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+9	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+0	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+4	0	fiat-web/config/fiat.yml
+54	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--c0f618e--2016-07-26--Travis Tomsu
+7	7	README.md
+
+--6c174dc--2016-07-25--Travis Tomsu
+1	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+9	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+15	19	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+26	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+37	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/config/AnonymousUserConfig.java
+38	13	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+10	2	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+51	27	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+9	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+2	0	fiat-web/config/fiat.yml
+8	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+24	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/UserPermissionModificationException.java
+51	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/RolesControllerSpec.groovy
+
+--1a09084--2016-07-21--Travis Tomsu
+3	3	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+35	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/ControllerSupport.java
+3	3	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+3	3	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--033342b--2016-07-21--Travis Tomsu
+6	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/ServiceAccount.java
+0	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+44	13	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+0	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+4	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+16	14	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+15	10	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+0	75	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ServiceAccountsConfig.java
+
+--6d418e1--2016-07-20--Travis Tomsu
+46	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultApplicationProvider.java
+55	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProvider.java
+0	172	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/FileBasedApplicationProvider.java
+6	27	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+28	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/internal/Front50Service.java
+61	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultApplicationProviderSpec.groovy
+61	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultServiceAccountProviderSpec.groovy
+0	98	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/FileBasedApplicationProviderSpec.groovy
+0	61	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/ServiceAccountProviderSpec.groovy
+2	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+0	60	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/AccountConfig.java
+0	38	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ApplicationConfig.java
+75	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ResourcesConfig.java
+3	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ServiceAccountsConfig.java
+
+--03a2c2c--2016-07-19--Travis Tomsu
+4	1	build.gradle
+1	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+6	22	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+0	29	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/CloudProviderAccounts.java
+47	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/DefaultAccountProvider.java
+28	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/internal/ClouddriverService.java
+0	60	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/AccountProviderSpec.groovy
+61	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/DefaultAccountProviderSpec.groovy
+14	14	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+2	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+4	0	fiat-web/config/fiat.yml
+29	31	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/AccountConfig.java
+46	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+24	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+
+--43bc615--2016-07-15--Travis Tomsu
+6	4	README.md
+
+--e66710a--2016-07-15--Travis Tomsu
+36	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/ServiceAccount.java
+6	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Resource.java
+1	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+50	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ServiceAccountProvider.java
+61	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/ServiceAccountProviderSpec.groovy
+13	2	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+26	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+21	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+83	58	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+73	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ServiceAccountsConfig.java
+
+--d2f3420--2016-07-15--Travis Tomsu
+3	0	fiat-core/fiat-core.gradle
+1	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/Authorization.java
+2	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+0	8	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+27	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/ApplicationProvider.java
+172	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/FileBasedApplicationProvider.java
+0	16	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/AccountProviderSpec.groovy
+98	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/FileBasedApplicationProviderSpec.groovy
+12	3	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+6	2	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+12	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+21	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+62	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/AccountConfig.java
+0	62	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/AccountConfiguration.java
+38	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/ApplicationConfig.java
+
+--7c74dc8--2016-07-15--Travis Tomsu
+15	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+6	4	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+
+--be51f5c--2016-07-15--Travis Tomsu
+6	4	fiat-core/fiat-core.gradle
+5	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+5	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+21	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Named.java
+36	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Resource.java
+7	6	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+13	3	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+50	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/model/resources/ResourceSpec.groovy
+31	31	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/AccountProviderSpec.groovy
+11	6	fiat-roles/fiat-roles.gradle
+101	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/config/RedisConfig.groovy
+224	2	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+33	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/redis/JedisPoolSource.java
+23	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/redis/JedisSource.java
+2	2	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+41	41	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+168	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepositorySpec.groovy
+22	22	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+3	0	fiat-web/config/fiat.yml
+9	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+17	18	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+2	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+28	27	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--467cd93--2016-07-07--Travis Tomsu
+12	0	README.md
+
+--09db653--2016-07-06--Cameron Fieber
+2	2	.travis.yml
+
+--0cc13b8--2016-07-06--Cameron Fieber
+7	1	.travis.yml
+
+--eb71e4d--2016-07-01--Travis Tomsu
+28	2	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+1	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+14	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+21	10	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+3	3	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--1a6e90d--2016-06-30--Travis Tomsu
+6	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+1	1	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+12	5	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+19	1	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--e5afc54--2016-06-30--Travis Tomsu
+5	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+2	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+5	8	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+65	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/RolesController.java
+
+--8fd3247--2016-06-29--Travis Tomsu
+0	36	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.groovy
+52	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.java
+66	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncerSpec.groovy
+1	0	fiat-web/fiat-web.gradle
+2	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+20	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+
+--d90e78e--2016-06-29--Travis Tomsu
+0	43	fiat-core/src/main/java/com/netflix/spinnaker/fiat/AccountProvider.java
+0	29	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/CloudAccountProvider.java
+0	43	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/InMemoryPermissionsRepository.java
+0	28	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/PermissionsRepository.java
+44	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/InMemoryPermissionsRepository.java
+30	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsRepository.java
+35	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/permissions/PermissionsResolver.java
+55	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/AccountProvider.java
+29	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/providers/CloudProviderAccounts.java
+0	40	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/AccountProviderSpec.groovy
+76	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/providers/AccountProviderSpec.groovy
+69	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolver.java
+22	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/permissions/RedisPermissionsRepository.java
+0	22	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/RedisPermissionsRepository.java
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesProvider.groovy
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.groovy
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.groovy
+1	1	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.groovy
+102	0	fiat-roles/src/test/groovy/com/netflix/spinnaker/fiat/permissions/DefaultPermissionsResolverSpec.groovy
+11	11	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/AccountConfiguration.java
+2	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+1	1	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+1	1	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--546bace--2016-06-28--Travis Tomsu
+0	36	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/DefaultPermissionsRepository.java
+43	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/InMemoryPermissionsRepository.java
+4	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/PermissionsRepository.java
+28	0	fiat-roles/fiat-roles.gradle
+69	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/config/GitHubConfig.groovy
+22	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/RedisPermissionsRepository.java
+37	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesProvider.groovy
+36	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/UserRolesSyncer.groovy
+41	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/github/GitHubProperties.groovy
+140	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/github/GithubTeamsUserRolesProvider.groovy
+46	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/github/client/GitHubClient.groovy
+79	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/github/client/GitHubMaster.groovy
+145	0	fiat-roles/src/main/groovy/com/netflix/spinnaker/fiat/roles/google/GoogleDirectoryUserRolesProvider.groovy
+2	2	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+1	1	settings.gradle
+
+--d931c07--2016-06-27--Travis Tomsu
+36	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/DefaultPermissionsRepository.java
+24	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/PermissionsRepository.java
+30	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/UserPermission.java
+1	0	fiat-web/fiat-web.gradle
+3	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+11	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+59	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/AuthorizeController.java
+24	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/controllers/NotFoundException.java
+87	0	fiat-web/src/test/groovy/com/netflix/spinnaker/fiat/controllers/AuthorizeControllerSpec.groovy
+
+--6bd828d--2016-06-22--Travis Tomsu
+1	1	.gitignore
+11	0	fiat-core/fiat-core.gradle
+43	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/AccountProvider.java
+22	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/Authorization.java
+29	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/CloudAccountProvider.java
+43	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Account.java
+28	0	fiat-core/src/main/java/com/netflix/spinnaker/fiat/model/resources/Application.java
+40	0	fiat-core/src/test/groovy/com/netflix/spinnaker/fiat/AccountProviderSpec.groovy
+2	1	fiat-web/config/fiat.yml
+1	0	fiat-web/fiat-web.gradle
+4	5	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+62	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/AccountConfiguration.java
+4	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/config/FiatConfig.java
+2	0	lombok.config
+
+--1ed0af7--2016-06-14--Cameron Fieber
+8	0	.gitignore
+12	0	.travis.yml
+11	0	AUTHORS
+203	0	LICENSE.txt
+7	0	README.md
+55	0	build.gradle
+0	0	fiat-core/fiat-core.gradle
+1	0	fiat-web/config/fiat.yml
+9	0	fiat-web/etc/init/fiat.conf
+8	0	fiat-web/etc/logrotate.d/fiat
+25	0	fiat-web/fiat-web.gradle
+14	0	fiat-web/pkg_scripts/postInstall.sh
+3	0	fiat-web/pkg_scripts/postUninstall.sh
+61	0	fiat-web/src/main/java/com/netflix/spinnaker/fiat/Main.java
+26	0	gradle/buildViaTravis.sh
+19	0	gradle/installViaTravis.sh
+4	0	gradle/prepCaches.sh
+-	-	gradle/wrapper/gradle-wrapper.jar
+6	0	gradle/wrapper/gradle-wrapper.properties
+160	0	gradlew
+90	0	gradlew.bat
+31	0	settings.gradle

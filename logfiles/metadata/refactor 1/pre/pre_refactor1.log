@@ -1,0 +1,327 @@
+
+--6357d68--2021-08-29--Sergei Visotsky
+23	2	README.md
+
+--e89e909--2021-08-29--Sergei Visotsky
+1	1	pom.xml
+
+--f6dc6e6--2021-08-29--Sergei Visotsky
+3	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/config/CacheConfigProperties.java
+
+--be5c541--2021-08-29--Sergei Visotsky
+64	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/config/CacheConfigProperties.java
+4	2	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/config/MetadataSelectorConfig.java
+9	6	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dao/impl/CacheableMetadataDao.java
+2	1	core/metadata-selector/src/main/resources/META-INF/spring.factories
+7	1	ref-impl/metadata-provider-app/src/main/resources/application.yml
+
+--5914665--2021-08-29--Sergei Visotsky
+1	0	core/metadata-deploy/src/main/resources/db/db.changelog-core-master.xml
+86	0	core/metadata-deploy/src/main/resources/db/db.changelog-schema_29-08-2021.xml
+11	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/config/MetadataSelectorConfig.java
+36	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dao/LookupMetadataDao.java
+64	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dao/impl/LookupMetadataDaoImpl.java
+62	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dto/LookupHolder.java
+60	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dto/LookupMetadata.java
+44	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/rest/LookupRestController.java
+25	0	ref-impl/metadata-provider-app/src/main/java/io/github/sergeivisotsky/metadata/app/dto/ExtendedLookupHolder.java
+25	0	ref-impl/metadata-provider-app/src/main/java/io/github/sergeivisotsky/metadata/app/dto/ExtendedLookupMetadata.java
+58	0	ref-impl/metadata-provider-app/src/main/java/io/github/sergeivisotsky/metadata/app/mapper/LookupHolderMapper.java
+60	0	ref-impl/metadata-provider-app/src/main/java/io/github/sergeivisotsky/metadata/app/mapper/LookupMetadataMapper.java
+
+--96a1fb6--2021-08-29--Sergei Visotsky
+25	2	README.md
+
+--ff3247d--2021-08-25--Sergei Visotsky
+4	0	core/metadata-selector/pom.xml
+65	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/config/DataSourceConfigProperties.java
+7	17	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/config/DatasourceConfig.java
+1	1	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/config/MetadataSelectorConfig.java
+4	1	core/metadata-selector/src/main/resources/META-INF/spring.factories
+
+--67ae73d--2021-08-25--Sergei Visotsky
+31	0	core/metadata-provider-starter/pom.xml
+1	0	core/pom.xml
+1	0	ref-impl/metadata-deployer/pom.xml
+1	0	ref-impl/metadata-provider-app/pom.xml
+3	6	ref-impl/pom.xml
+
+--6728fca--2021-08-25--Sergei Visotsky
+1	1	pom.xml
+
+--38fb062--2021-08-25--Sergei Visotsky
+11	0	pom.xml
+
+--a29693b--2021-08-24--Sergei Visotsky
+1	1	pom.xml
+
+--08b3454--2021-08-24--Sergei Visotsky
+1	1	core/metadata-deploy/pom.xml
+1	1	core/metadata-selector/pom.xml
+0	50	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/MetadataMapper.java
+0	64	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/config/DatasourceConfig.java
+0	47	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/config/MetadataSelectorConfig.java
+0	39	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dao/MetadataDao.java
+0	72	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dao/impl/CacheableMetadataDao.java
+0	64	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dao/impl/MetadataDaoImpl.java
+0	28	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dto/Area.java
+0	116	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dto/FormMetadata.java
+0	27	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dto/Language.java
+0	69	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dto/Layout.java
+0	42	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dto/ViewField.java
+0	39	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/exception/DataAccessException.java
+0	44	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/rest/MetadataRestController.java
+50	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/MetadataMapper.java
+64	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/config/DatasourceConfig.java
+47	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/config/MetadataSelectorConfig.java
+39	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dao/MetadataDao.java
+72	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dao/impl/CacheableMetadataDao.java
+64	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dao/impl/MetadataDaoImpl.java
+28	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dto/Area.java
+116	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dto/FormMetadata.java
+27	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dto/Language.java
+69	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dto/Layout.java
+42	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/dto/ViewField.java
+39	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/exception/DataAccessException.java
+44	0	core/metadata-selector/src/main/java/io/github/sergeivisotsky/metadata/selector/rest/MetadataRestController.java
+2	2	core/metadata-selector/src/main/resources/META-INF/spring.factories
+1	1	core/pom.xml
+1	1	pom.xml
+3	3	ref-impl/metadata-deployer/pom.xml
+0	31	ref-impl/metadata-deployer/src/main/java/com/github/sergeivisotsky/metadata/deployer/DeployerApp.java
+31	0	ref-impl/metadata-deployer/src/main/java/io/github/sergeivisotsky/metadata/deployer/DeployerApp.java
+3	3	ref-impl/metadata-provider-app/pom.xml
+0	34	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/MetadataApp.java
+0	37	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/config/AppConfig.java
+0	35	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/dto/ExtendedFormMetadata.java
+0	25	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/dto/ExtendedLayout.java
+0	79	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/mapper/FormMetadataMapper.java
+0	60	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/mapper/LayoutMapper.java
+34	0	ref-impl/metadata-provider-app/src/main/java/io/github/sergeivisotsky/metadata/app/MetadataApp.java
+37	0	ref-impl/metadata-provider-app/src/main/java/io/github/sergeivisotsky/metadata/app/config/AppConfig.java
+35	0	ref-impl/metadata-provider-app/src/main/java/io/github/sergeivisotsky/metadata/app/dto/ExtendedFormMetadata.java
+25	0	ref-impl/metadata-provider-app/src/main/java/io/github/sergeivisotsky/metadata/app/dto/ExtendedLayout.java
+79	0	ref-impl/metadata-provider-app/src/main/java/io/github/sergeivisotsky/metadata/app/mapper/FormMetadataMapper.java
+60	0	ref-impl/metadata-provider-app/src/main/java/io/github/sergeivisotsky/metadata/app/mapper/LayoutMapper.java
+3	3	ref-impl/pom.xml
+
+--e0cb098--2021-08-24--Sergei Visotsky
+1	1	core/metadata-deploy/pom.xml
+1	1	core/metadata-selector/pom.xml
+50	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/MetadataMapper.java
+64	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/config/DatasourceConfig.java
+47	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/config/MetadataSelectorConfig.java
+39	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dao/MetadataDao.java
+72	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dao/impl/CacheableMetadataDao.java
+64	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dao/impl/MetadataDaoImpl.java
+28	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dto/Area.java
+116	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dto/FormMetadata.java
+27	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dto/Language.java
+69	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dto/Layout.java
+42	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/dto/ViewField.java
+39	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/exception/DataAccessException.java
+44	0	core/metadata-selector/src/main/java/com/github/sergeivisotsky/metadata/selector/rest/MetadataRestController.java
+0	50	core/metadata-selector/src/main/java/org/sergei/metadata/selector/MetadataMapper.java
+0	64	core/metadata-selector/src/main/java/org/sergei/metadata/selector/config/DatasourceConfig.java
+0	47	core/metadata-selector/src/main/java/org/sergei/metadata/selector/config/MetadataSelectorConfig.java
+0	39	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/MetadataDao.java
+0	72	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/impl/CacheableMetadataDao.java
+0	64	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/impl/MetadataDaoImpl.java
+0	28	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Area.java
+0	116	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/FormMetadata.java
+0	27	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Language.java
+0	69	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Layout.java
+0	42	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/ViewField.java
+0	39	core/metadata-selector/src/main/java/org/sergei/metadata/selector/exception/DataAccessException.java
+0	44	core/metadata-selector/src/main/java/org/sergei/metadata/selector/rest/MetadataRestController.java
+2	2	core/metadata-selector/src/main/resources/META-INF/spring.factories
+1	1	core/pom.xml
+1	1	pom.xml
+3	3	ref-impl/metadata-deployer/pom.xml
+31	0	ref-impl/metadata-deployer/src/main/java/com/github/sergeivisotsky/metadata/deployer/DeployerApp.java
+0	31	ref-impl/metadata-deployer/src/main/java/org/sergei/metadata/deployer/DeployerApp.java
+3	3	ref-impl/metadata-provider-app/pom.xml
+34	0	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/MetadataApp.java
+37	0	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/config/AppConfig.java
+35	0	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/dto/ExtendedFormMetadata.java
+25	0	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/dto/ExtendedLayout.java
+79	0	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/mapper/FormMetadataMapper.java
+60	0	ref-impl/metadata-provider-app/src/main/java/com/github/sergeivisotsky/metadata/app/mapper/LayoutMapper.java
+0	34	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/MetadataApp.java
+0	37	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/config/AppConfig.java
+0	35	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/ExtendedFormMetadata.java
+0	25	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/ExtendedLayout.java
+0	79	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/mapper/FormMetadataMapper.java
+0	60	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/mapper/LayoutMapper.java
+3	3	ref-impl/pom.xml
+
+--f1c45e8--2021-08-24--Sergei Visotsky
+17	0	pom.xml
+
+--4bf2842--2021-08-24--Sergei Visotsky
+1	1	pom.xml
+
+--41ecdde--2021-08-24--Sergei Visotsky
+1	1	core/metadata-deploy/pom.xml
+1	1	core/metadata-selector/pom.xml
+1	1	core/pom.xml
+29	1	pom.xml
+1	1	ref-impl/metadata-deployer/pom.xml
+1	1	ref-impl/metadata-provider-app/pom.xml
+1	1	ref-impl/pom.xml
+
+--24fb5a4--2021-08-24--Sergei Visotsky
+13	2	README.md
+
+--22d4452--2021-08-24--Sergei Visotsky
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/MetadataMapper.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/config/DatasourceConfig.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/config/MetadataSelectorConfig.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/MetadataDao.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/impl/CacheableMetadataDao.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/impl/MetadataDaoImpl.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Area.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/FormMetadata.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Language.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Layout.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/ViewField.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/exception/DataAccessException.java
+10	12	core/metadata-selector/src/main/java/org/sergei/metadata/selector/rest/MetadataRestController.java
+10	12	ref-impl/metadata-deployer/src/main/java/org/sergei/metadata/deployer/DeployerApp.java
+10	12	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/MetadataApp.java
+10	12	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/config/AppConfig.java
+10	12	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/ExtendedFormMetadata.java
+10	12	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/ExtendedLayout.java
+10	12	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/mapper/FormMetadataMapper.java
+10	12	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/mapper/LayoutMapper.java
+
+--23eb3e7--2021-08-24--Sergei Visotsky
+--510584a--2021-08-24--Sergei Visotsky
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/MetadataMapper.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/config/DatasourceConfig.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/config/MetadataSelectorConfig.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/MetadataDao.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/impl/CacheableMetadataDao.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/impl/MetadataDaoImpl.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Area.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/FormMetadata.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Language.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Layout.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/ViewField.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/exception/DataAccessException.java
+18	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/rest/MetadataRestController.java
+18	0	ref-impl/metadata-deployer/src/main/java/org/sergei/metadata/deployer/DeployerApp.java
+18	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/MetadataApp.java
+18	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/config/AppConfig.java
+18	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/ExtendedFormMetadata.java
+18	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/ExtendedLayout.java
+18	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/mapper/FormMetadataMapper.java
+18	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/mapper/LayoutMapper.java
+
+--bf5a455--2021-08-24--Sergei Visotsky
+201	0	LICENSE
+
+--84da3ed--2021-08-24--Sergei Visotsky
+22	0	core/metadata-deploy/pom.xml
+9	0	core/metadata-deploy/src/main/resources/db/db.changelog-core-master.xml
+107	0	core/metadata-deploy/src/main/resources/db/db.changelog-schema_13-08-2021.xml
+44	0	core/metadata-selector/pom.xml
+34	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/MetadataMapper.java
+48	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/config/DatasourceConfig.java
+31	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/config/MetadataSelectorConfig.java
+23	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/MetadataDao.java
+56	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/impl/CacheableMetadataDao.java
+48	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dao/impl/MetadataDaoImpl.java
+12	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Area.java
+100	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/FormMetadata.java
+11	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Language.java
+53	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/Layout.java
+26	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/dto/ViewField.java
+23	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/exception/DataAccessException.java
+28	0	core/metadata-selector/src/main/java/org/sergei/metadata/selector/rest/MetadataRestController.java
+3	0	core/metadata-selector/src/main/resources/META-INF/spring.factories
+21	0	core/pom.xml
+0	23	docker/docker-compose.yml
+0	5	docker/startup.bat
+0	55	metadata-deployer/pom.xml
+0	12	metadata-deployer/src/main/java/org/sergei/metadata/deployer/DeployerApp.java
+0	11	metadata-deployer/src/main/resources/application.yml
+0	9	metadata-deployer/src/main/resources/db/db.changelog-master.xml
+0	107	metadata-deployer/src/main/resources/db/db.changelog-schema_13-08-2021.xml
+0	59	metadata-provider-app/pom.xml
+0	15	metadata-provider-app/src/main/java/org/sergei/metadata/app/MetadataApp.java
+0	27	metadata-provider-app/src/main/java/org/sergei/metadata/app/config/AppConfig.java
+0	45	metadata-provider-app/src/main/java/org/sergei/metadata/app/config/DatasourceConfig.java
+0	9	metadata-provider-app/src/main/java/org/sergei/metadata/app/dao/MetadataDao.java
+0	53	metadata-provider-app/src/main/java/org/sergei/metadata/app/dao/impl/CacheableMetadataDao.java
+0	80	metadata-provider-app/src/main/java/org/sergei/metadata/app/dao/impl/MetadataDaoImpl.java
+0	9	metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/Area.java
+0	144	metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/FormMetadata.java
+0	8	metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/Language.java
+0	82	metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/Layout.java
+0	46	metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/ViewField.java
+0	20	metadata-provider-app/src/main/java/org/sergei/metadata/app/exception/DataAccessException.java
+0	25	metadata-provider-app/src/main/java/org/sergei/metadata/app/rest/MetadataRestController.java
+0	8	metadata-provider-app/src/main/resources/application.yml
+2	2	pom.xml
+23	0	ref-impl/docker/docker-compose.yml
+5	0	ref-impl/docker/startup.bat
+55	0	ref-impl/metadata-deployer/pom.xml
+15	0	ref-impl/metadata-deployer/src/main/java/org/sergei/metadata/deployer/DeployerApp.java
+11	0	ref-impl/metadata-deployer/src/main/resources/application.yml
+17	0	ref-impl/metadata-deployer/src/main/resources/db/db.changelog-24-08-2021.xml
+10	0	ref-impl/metadata-deployer/src/main/resources/db/db.changelog-master.xml
+58	0	ref-impl/metadata-provider-app/pom.xml
+18	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/MetadataApp.java
+21	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/config/AppConfig.java
+19	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/ExtendedFormMetadata.java
+9	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/ExtendedLayout.java
+63	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/mapper/FormMetadataMapper.java
+44	0	ref-impl/metadata-provider-app/src/main/java/org/sergei/metadata/app/mapper/LayoutMapper.java
+8	0	ref-impl/metadata-provider-app/src/main/resources/application.yml
+36	0	ref-impl/pom.xml
+
+--7919857--2021-08-21--Sergei Visotsky
+1	1	metadata-deployer/src/main/resources/db/db.changelog-schema_13-08-2021.xml
+1	18	metadata-provider-app/pom.xml
+4	1	metadata-provider-app/src/main/java/org/sergei/metadata/app/MetadataApp.java
+3	3	metadata-provider-app/src/main/java/org/sergei/metadata/app/config/AppConfig.java
+21	34	metadata-provider-app/src/main/java/org/sergei/metadata/app/config/DatasourceConfig.java
+0	15	metadata-provider-app/src/main/java/org/sergei/metadata/app/converter/AreaConverter.java
+1	2	metadata-provider-app/src/main/java/org/sergei/metadata/app/dao/MetadataDao.java
+10	9	metadata-provider-app/src/main/java/org/sergei/metadata/app/dao/impl/CacheableMetadataDao.java
+37	44	metadata-provider-app/src/main/java/org/sergei/metadata/app/dao/impl/MetadataDaoImpl.java
+20	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/exception/DataAccessException.java
+2	3	metadata-provider-app/src/main/java/org/sergei/metadata/app/rest/MetadataRestController.java
+2	3	metadata-provider-app/src/main/resources/application.yml
+
+--702cea8--2021-08-21--Sergei Visotsky
+9	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/config/AppConfig.java
+52	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/dao/impl/CacheableMetadataDao.java
+0	2	metadata-provider-app/src/main/java/org/sergei/metadata/app/dao/impl/MetadataDaoImpl.java
+
+--3e4118b--2021-08-16--Sergei Visotsky
+83	0	.gitignore
+7	0	README.md
+23	0	docker/docker-compose.yml
+5	0	docker/startup.bat
+55	0	metadata-deployer/pom.xml
+12	0	metadata-deployer/src/main/java/org/sergei/metadata/deployer/DeployerApp.java
+11	0	metadata-deployer/src/main/resources/application.yml
+9	0	metadata-deployer/src/main/resources/db/db.changelog-master.xml
+107	0	metadata-deployer/src/main/resources/db/db.changelog-schema_13-08-2021.xml
+76	0	metadata-provider-app/pom.xml
+12	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/MetadataApp.java
+18	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/config/AppConfig.java
+58	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/config/DatasourceConfig.java
+15	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/converter/AreaConverter.java
+10	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/dao/MetadataDao.java
+89	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/dao/impl/MetadataDaoImpl.java
+9	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/Area.java
+144	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/FormMetadata.java
+8	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/Language.java
+82	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/Layout.java
+46	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/dto/ViewField.java
+26	0	metadata-provider-app/src/main/java/org/sergei/metadata/app/rest/MetadataRestController.java
+9	0	metadata-provider-app/src/main/resources/application.yml
+65	0	pom.xml

@@ -1,0 +1,8185 @@
+
+--576e6ca2--2023-03-02--Sandesh
+2	0	gate
+0	6	gate
+0	4	gate
+0	1	gate
+0	6	gate
+
+--66e030e4--2023-02-07--Kim Choy
+1	0	gate
+1	1	gate
+138	0	gate
+
+--6c7c5fcc--2023-02-07--Kim Choy
+3	10	gate
+
+--a511ed3d--2023-02-06--Kim Choy
+5	6	gate
+5	9	gate
+132	0	gate
+
+--dfb77de0--2023-02-03--Kim Choy
+8	3	gate
+0	38	gate
+60	0	gate
+30	0	gate
+89	0	gate
+224	0	gate
+
+--5daf7d5c--2023-01-23--Sandesh
+1	0	gate
+2	9	gate
+
+--3005eca1--2022-12-09--David Byron
+1	1	gate
+1	0	gate
+1	0	gate
+
+--4f1438c9--2022-12-08--Sandesh
+0	9	gate
+
+--4d90c871--2022-12-01--David Byron
+5	5	gate
+4	4	gate
+5	5	gate
+
+--763aa281--2022-08-14--Marcin Flis
+8	2	gate
+8	2	gate
+8	2	gate
+
+--d98ef197--2022-08-02--Cameron Motevasselani
+1	1	gate
+1	1	gate
+
+--f69a9014--2022-07-20--Patrik Greco
+3	3	gate
+
+--0e438e25--2022-07-12--Jalander Ramagiri
+16	0	gate
+
+--a0044b84--2022-04-27--kskewes-sf
+2	16	gate
+
+--2a07109a--2022-04-27--kskewes-sf
+15	9	gate
+
+--1b86cb89--2022-04-21--Jason
+29	0	gate
+13	18	gate
+53	0	gate
+
+--3770d149--2022-04-21--kskewes-sf
+16	0	gate
+
+--131e25f0--2022-04-01--David Byron
+1	1	gate
+
+--8c8a8397--2022-03-23--Matt Sicker
+0	3	gate
+3	10	gate
+
+--59cc4ad2--2022-03-22--kskewes-sf
+47	8	gate
+36	12	gate
+51	4	gate
+1	1	gate
+
+--e78b7fd3--2022-03-17--kskewes-sf
+3	1	gate
+5	1	gate
+2	1	gate
+
+--8341e93f--2022-03-16--David Byron
+2	1	gate
+
+--004ed674--2022-03-17--kskewes-sf
+14	13	gate
+31	32	gate
+11	12	gate
+
+--e4d271bd--2022-03-11--kskewes-sf
+41	1	gate
+26	1	gate
+47	2	gate
+1	1	gate
+
+--f99792dd--2022-03-06--gopaljayanthi
+1	0	gate
+
+--79150827--2022-02-28--Sandesh
+1	1	gate
+
+--c9eb62cc--2022-02-23--kskewes-sf
+3	7	gate
+3	7	gate
+3	1	gate
+
+--e2a108db--2022-02-15--Chris Phillips
+1	0	gate
+
+--46114ee2--2022-02-08--Matt Sicker
+9	0	gate
+
+--af53a586--2022-01-26--Matt Sicker
+1	1	gate
+2	2	gate
+
+--d3c72130--2022-01-18--Cameron Motevasselani
+15	10	gate
+
+--11d7ce62--2022-01-07--Matt Sicker
+52	0	gate
+62	0	gate
+
+--b4ac721b--2021-12-14--Cristhian Castaneda
+1	1	gate
+
+--b1337dbd--2021-12-04--Cameron Fieber
+1	1	gate
+
+--fb2ac100--2021-11-30--Thomas Swanson
+3	3	gate
+
+--8dd1c89c--2021-12-01--Emmanouil Katefidis
+1	1	gate
+
+--18236338--2021-11-30--Calvin Tse
+9	4	gate
+0	5	gate
+1	0	gate
+56	0	gate
+
+--8cee7c79--2021-11-19--Edgar Garcia
+4	4	gate
+4	4	gate
+1	1	gate
+3	3	gate
+6	6	gate
+3	3	gate
+2	2	gate
+1	1	gate
+3	3	gate
+2	2	gate
+4	4	gate
+2	2	gate
+3	3	gate
+7	7	gate
+4	4	gate
+2	2	gate
+
+--bb61efab--2021-10-19--Sanjeev Thatiparthi
+30	1	gate
+
+--26607504--2021-08-31--Sandesh
+1	1	gate
+
+--5615f0aa--2021-06-10--Rani
+29	0	gate
+5	0	gate
+10	0	gate
+
+--4deb7398--2021-04-19--Justin Field
+6	0	gate
+
+--02805635--2021-04-16--Justin Field
+10	1	gate
+
+--6ba9daa8--2021-03-26--Cat
+7	0	gate
+104	0	gate
+
+--5d7180f4--2021-03-24--Robert Blackman
+2	2	gate
+
+--651a28a6--2021-03-22--Adam Jordens
+69	15	gate
+
+--40471ca1--2021-03-18--Casey Hebebrand
+69	15	gate
+
+--37bd8184--2021-03-22--Daniel Peach
+2	2	gate
+2	2	gate
+2	2	gate
+1	1	gate
+2	2	gate
+1	1	gate
+2	2	gate
+2	2	gate
+1	1	gate
+
+--bf9d7c80--2021-03-19--Daniel Peach
+7	4	gate
+1	1	gate
+
+--d6eb07cb--2021-03-19--Daniel Peach
+3	3	gate
+4	4	gate
+1	1	gate
+1	1	gate
+4	4	gate
+1	1	gate
+2	2	gate
+1	1	gate
+2	2	gate
+2	2	gate
+2	2	gate
+2	2	gate
+2	2	gate
+5	5	gate
+2	2	gate
+1	1	gate
+
+--50f39852--2021-03-16--Daniel Reynaud
+5	7	gate
+
+--6ebbc2e0--2021-03-16--Chris Smalley
+2	0	gate
+
+--ba94d782--2021-03-10--Chris Smalley
+2	0	gate
+2	0	gate
+
+--3b0bc3ca--2021-03-10--Emily Burns
+2	1	gate
+
+--f002659b--2021-03-10--Emily Burns
+1	0	gate
+
+--8b300c63--2021-03-03--Luis Pollo
+1	1	gate
+6	4	gate
+
+--e6e09a81--2021-03-02--Luis Pollo
+1	0	gate
+
+--16f28429--2021-03-02--Luis Pollo
+3	0	gate
+8	0	gate
+
+--7ea71f99--2021-03-02--Emily Burns
+1	0	gate
+1	0	gate
+2	4	gate
+4	6	gate
+
+--cede0e61--2021-02-26--Emily Burns
+2	3	gate
+3	0	gate
+6	0	gate
+
+--8dc17afd--2021-02-25--Luis Pollo
+1	1	gate
+
+--92e66970--2021-02-24--Luis Pollo
+6	0	gate
+26	0	gate
+
+--dc67fe1e--2021-02-23--Rob Fletcher
+30	0	gate
+27	0	gate
+16	0	gate
+23	0	gate
+
+--99362e34--2021-02-15--Chris Smalley
+5	5	gate
+
+--17fef48d--2021-02-12--Gal Yardeni
+2	2	gate
+
+--5ab4d498--2021-02-09--Emily Burns
+1	1	gate
+
+--af238d94--2021-02-09--Emily Burns
+6	0	gate
+14	0	gate
+
+--bf546f21--2021-02-08--Chris Thielen
+12	12	gate
+
+--07a86de1--2021-02-08--Chris Thielen
+3	3	gate
+
+--1e14de44--2021-02-05--Gal Yardeni
+3	0	gate
+1	0	gate
+2	0	gate
+2	0	gate
+3	0	gate
+6	0	gate
+17	1	gate
+1	1	gate
+30	7	gate
+1	0	gate
+2	0	gate
+
+--b40c43a2--2021-01-19--Adam Jordens
+1	1	gate
+
+--5f697533--2021-01-06--Rob Zienert
+1	0	gate
+3	1	gate
+
+--48ba9226--2020-12-17--Parag Sanjay Bhingre
+4	0	gate
+6	0	gate
+4	0	gate
+94	0	gate
+
+--72a643c4--2020-12-07--Cameron Fieber
+22	0	gate
+0	1	gate
+4	3	gate
+32	30	gate
+49	6	gate
+6	0	gate
+53	0	gate
+0	15	gate
+16	0	gate
+0	15	gate
+
+--9f92cf5e--2020-12-03--Cameron Fieber
+0	2	gate
+
+--5c0864c9--2020-12-01--Gal Yardeni
+7	2	gate
+14	5	gate
+18	2	gate
+
+--fa2b1275--2020-11-24--Julien Duchesne
+4	0	gate
+43	0	gate
+38	0	gate
+
+--e9b3ef7b--2020-11-15--Sairam Rekapalli
+1	1	gate
+1	1	gate
+
+--9201c0e6--2020-11-10--Cameron Fieber
+1	1	gate
+
+--a3263da3--2020-10-28--Gavin Bunney
+14	3	gate
+
+--b0bb7cbf--2020-10-12--Adam Jordens
+24	0	gate
+29	4	gate
+
+--b9447504--2020-10-12--Chris Smalley
+1	1	gate
+40	1	gate
+4	0	gate
+
+--949be998--2020-10-08--Michael Plump
+1	1	gate
+
+--9a4c9a18--2020-10-07--Michael Plump
+1	6	gate
+1	6	gate
+0	5	gate
+1	4	gate
+1	1	gate
+1	0	gate
+2	2	gate
+2	2	gate
+
+--542fd900--2020-10-06--Adam Jordens
+10	2	gate
+0	1	gate
+43	0	gate
+
+--95cce5c6--2020-10-02--Adam Jordens
+6	16	gate
+24	7	gate
+0	57	gate
+
+--cc0ab94a--2020-10-02--Luis Pollo
+2	1	gate
+4	2	gate
+
+--cdd3b78f--2020-09-24--Chris Smalley
+3	0	gate
+3	7	gate
+1	1	gate
+
+--630eb1af--2020-09-24--Adam Jordens
+1	1	gate
+
+--a3dd0334--2020-09-24--Adam Jordens
+1	0	gate
+0	14	gate
+23	0	gate
+20	0	gate
+211	0	gate
+0	173	gate
+130	0	gate
+0	111	gate
+32	7	gate
+
+--7ebdcd7f--2020-09-21--Adam Jordens
+1	1	gate
+
+--edd7ad70--2020-09-18--Rob Fletcher
+37	0	gate
+
+--5fa6060a--2020-09-18--Adam Jordens
+11	0	gate
+0	2	gate
+210	0	gate
+0	205	gate
+118	0	gate
+0	111	gate
+
+--fcf86fcf--2020-09-18--Mark Vulfson
+1	3	gate
+
+--5186b909--2020-09-17--Chris Smalley
+1	1	gate
+1	1	gate
+
+--d4e66323--2020-09-16--Daniel Peach
+3	0	gate
+9	0	gate
+41	0	gate
+29	0	gate
+35	0	gate
+1	0	gate
+
+--3636b5ab--2020-09-16--Rob Fletcher
+8	0	gate
+12	0	gate
+
+--7051ee0d--2020-09-15--Rob Fletcher
+3	3	gate
+8	5	gate
+0	32	gate
+
+--c5df8478--2020-09-14--Edgar Garcia
+9	2	gate
+7	1	gate
+2	1	gate
+
+--39367258--2020-09-14--Cameron Fieber
+0	2	gate
+1	0	gate
+
+--1d652d0d--2020-09-11--Adam Jordens
+1	1	gate
+1	1	gate
+
+--0168e53f--2020-09-10--Adam Jordens
+1	1	gate
+
+--657fa353--2020-09-10--Sairam Rekapalli
+1	1	gate
+1	1	gate
+
+--711a9eaf--2020-09-10--Adam Jordens
+5	46	gate
+1	0	gate
+19	84	gate
+14	12	gate
+
+--19325ee8--2020-09-09--Adam Jordens
+1	0	gate
+35	22	gate
+
+--34a1bf7c--2020-09-09--Adam Jordens
+12	3	gate
+
+--4958c000--2020-08-17--Adam Jordens
+12	3	gate
+
+--ce931c1f--2020-09-09--Adam Jordens
+90	0	gate
+33	0	gate
+7	125	gate
+115	0	gate
+44	12	gate
+
+--8288ef4c--2020-09-08--Cameron Fieber
+2	2	gate
+3	1	gate
+
+--cc5f3a31--2020-09-08--Adam Jordens
+14	1	gate
+12	5	gate
+57	0	gate
+
+--2695d36b--2020-09-02--Chris Smalley
+1	2	gate
+2	0	gate
+
+--cba3174c--2020-09-02--Chris Smalley
+2	1	gate
+2	0	gate
+7	6	gate
+14	4	gate
+2	1	gate
+
+--c2d54d83--2020-08-28--KeisukeYamashita
+6	0	gate
+
+--7959652f--2020-08-27--Cameron Fieber
+1	1	gate
+
+--986f976e--2020-08-24--Chris Berry
+2	1	gate
+2	2	gate
+1	0	gate
+
+--ab06a31f--2020-08-24--Sairam Rekapalli
+1	1	gate
+5	6	gate
+2	1	gate
+2	2	gate
+1	1	gate
+3	5	gate
+
+--b3ede47f--2020-08-18--Chinikins
+1	1	gate
+
+--537d8c44--2020-08-18--Cameron Fieber
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gate
+1	1	gate
+3	18	gate
+
+--e8e9b8cd--2020-08-18--Kevin Woo
+3	3	gate
+
+--794159c1--2020-08-14--Sairam Rekapalli
+3	1	gate
+45	56	gate
+4	11	gate
+14	5	gate
+1	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+0	3	gate
+
+--9fc9087c--2020-08-12--Michael Plump
+1	1	gate
+0	8	gate
+4	3	gate
+3	3	gate
+0	8	gate
+
+--78e4350c--2020-08-11--Chris Thielen
+11	7	gate
+
+--0b5c9796--2020-08-11--Gal Yardeni
+1	0	gate
+
+--f7842e41--2020-08-06--Karl
+4	0	gate
+
+--e369f870--2020-08-04--Emily Burns
+1	1	gate
+
+--d953120a--2020-07-29--Michael Plump
+6	5	gate
+6	3	gate
+18	17	gate
+10	9	gate
+4	2	gate
+9	6	gate
+10	6	gate
+1	1	gate
+
+--cfe12676--2020-07-28--Daniel Reynaud
+12	7	gate
+
+--46c2cf4e--2020-07-27--Daniel Peach
+3	0	gate
+6	0	gate
+9	1	gate
+3	0	gate
+
+--363c7a17--2020-07-21--Sairam Rekapalli
+2	0	gate
+
+--aacfabd6--2020-07-21--Sairam Rekapalli
+3	0	gate
+
+--20ea9d6c--2020-07-21--Sairam Rekapalli
+6	0	gate
+
+--cf0c9162--2020-07-08--Cameron Fieber
+3	4	gate
+
+--4f1677ac--2020-07-06--Cameron Fieber
+1	1	gate
+
+--9f8669a3--2020-07-02--German Muzquiz
+45	0	gate
+
+--d02b33af--2020-06-25--Glauco Vinicius
+1	1	gate
+
+--f2ee058d--2020-06-24--Chris Smalley
+15	15	gate
+2	0	gate
+
+--07bed1d4--2020-06-24--Cameron Fieber
+1	1	gate
+1	1	gate
+2	0	gate
+
+--0cfb2228--2020-06-24--Daniel Peach
+1	0	gate
+
+--8cb76665--2020-06-19--Pere
+1	1	gate
+
+--cd5323cc--2020-06-19--Sairam Rekapalli
+9	2	gate
+2	1	gate
+4	0	gate
+4	0	gate
+
+--f51cf40f--2020-06-17--Chris Smalley
+1	0	gate
+0	392	gate
+0	28	gate
+35	0	gate
+0	149	gate
+488	0	gate
+43	0	gate
+32	0	gate
+40	38	gate
+97	0	gate
+153	0	gate
+33	30	gate
+23	0	gate
+38	0	gate
+53	0	gate
+105	0	gate
+36	0	gate
+0	48	gate
+0	35	gate
+0	100	gate
+0	35	gate
+0	38	gate
+0	49	gate
+
+--4638319c--2020-06-12--Chris Smalley
+8	3	gate
+
+--6d16867f--2020-06-12--Dan Peach
+1	0	gate
+
+--d37302b9--2020-06-08--Sairam Rekapalli
+1	1	gate
+4	1	gate
+4	4	gate
+
+--66bb2885--2020-06-08--Eric Zimanyi
+1	1	gate
+
+--1173a904--2020-06-04--Sairam Rekapalli
+1	0	gate
+16	10	gate
+15	7	gate
+1	0	gate
+2	0	gate
+
+--3ee7ea68--2020-06-04--Rob Zienert
+4	0	gate
+7	2	gate
+45	0	gate
+20	0	gate
+26	0	gate
+27	0	gate
+22	0	gate
+25	0	gate
+3	0	gate
+12	0	gate
+
+--11302fe2--2020-06-04--Rob Zienert
+3	0	gate
+30	4	gate
+
+--c3ad2e47--2020-06-04--Sairam Rekapalli
+9	5	gate
+
+--f857a882--2020-06-03--Daniel Reynaud
+1	1	gate
+0	2	gate
+5	5	gate
+30	88	gate
+
+--043e31b5--2020-06-03--Daniel Reynaud
+1	1	gate
+2	2	gate
+1	3	gate
+2	1	gate
+11	17	gate
+2	1	gate
+2	2	gate
+1	1	gate
+2	1	gate
+
+--08958236--2020-06-03--clanesf
+3	0	gate
+
+--7cedba31--2020-06-03--Rob Zienert
+0	1	gate
+2	2	gate
+38	53	gate
+0	112	gate
+0	86	gate
+0	29	gate
+0	29	gate
+0	28	gate
+9	35	gate
+0	9	gate
+0	1	gate
+0	3	gate
+0	15	gate
+3	14	gate
+2	8	gate
+1	1	gate
+24	25	gate
+10	54	gate
+2	2	gate
+45	62	gate
+30	45	gate
+2	20	gate
+1	8	gate
+25	52	gate
+2	9	gate
+20	32	gate
+4	17	gate
+1	5	gate
+1	5	gate
+1	5	gate
+1	5	gate
+1	8	gate
+2	8	gate
+2	9	gate
+2	2	gate
+3	11	gate
+15	21	gate
+11	17	gate
+25	38	gate
+24	37	gate
+13	26	gate
+2	19	gate
+2	9	gate
+4	16	gate
+1	5	gate
+1	5	gate
+21	33	gate
+19	29	gate
+1	9	gate
+50	69	gate
+1	13	gate
+6	28	gate
+0	42	gate
+0	55	gate
+0	212	gate
+0	121	gate
+0	17	gate
+0	73	gate
+
+--7f01d05a--2020-06-02--Emily Burns
+2	0	gate
+
+--94c7a5f0--2020-06-01--Sairam Rekapalli
+2	0	gate
+
+--debd28df--2020-06-01--Sairam Rekapalli
+0	2	gate
+0	2	gate
+
+--d6cfdc91--2020-06-01--Sairam Rekapalli
+7	9	gate
+4	5	gate
+2	7	gate
+
+--5c84f77f--2020-06-01--Luis Pollo
+21	7	gate
+
+--ddbfcec7--2020-06-01--Sairam Rekapalli
+1	0	gate
+9	7	gate
+5	0	gate
+41	39	gate
+5	3	gate
+7	2	gate
+1	1	gate
+1	1	gate
+1	0	gate
+5	0	gate
+
+--f83fef97--2020-05-29--Adam Jordens
+16	13	gate
+
+--2a92287f--2020-05-29--Adam Jordens
+13	21	gate
+
+--d02d773e--2020-05-28--Edgar Garcia
+29	16	gate
+2	1	gate
+4	2	gate
+41	3	gate
+
+--34f6e0bb--2020-05-21--Cameron Fieber
+1	1	gate
+
+--9c34dffa--2020-05-20--Rob Zienert
+3	7	gate
+2	0	gate
+
+--8b4de79b--2020-05-20--Luis Pollo
+3	0	gate
+5	0	gate
+32	0	gate
+
+--c1ee0153--2020-05-20--Odusanya Victor Olukayode
+12	2	gate
+152	0	gate
+
+--895b46ad--2020-05-19--Chris Smalley
+7	0	gate
+0	163	gate
+36	0	gate
+196	0	gate
+61	0	gate
+145	0	gate
+172	0	gate
+47	0	gate
+7	0	gate
+0	91	gate
+0	23	gate
+67	0	gate
+23	0	gate
+32	0	gate
+73	0	gate
+103	0	gate
+132	0	gate
+35	0	gate
+0	20	gate
+2	2	gate
+0	129	gate
+0	150	gate
+0	61	gate
+0	146	gate
+0	47	gate
+0	33	gate
+0	127	gate
+1	0	gate
+
+--f4d43a10--2020-05-19--Justin Lee
+6	0	gate
+15	12	gate
+
+--62ad7ff5--2020-05-15--Luis Pollo
+3	4	gate
+9	11	gate
+
+--1aac4b60--2020-05-14--Cristhian Castaneda
+0	1	gate
+
+--9a7aa40a--2020-05-11--Eric Zimanyi
+1	1	gate
+
+--123c9585--2020-05-08--Cameron Fieber
+9	9	gate
+
+--b95facce--2020-05-08--Eric Zimanyi
+1	1	gate
+6	0	gate
+0	3	gate
+
+--b2077e2d--2020-05-08--Maggie Neterval
+0	2	gate
+
+--a4f00c0e--2020-05-07--Erik Munson
+3	1	gate
+
+--9b874c16--2020-05-07--Cameron Fieber
+1	1	gate
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	1	gate
+17	20	gate
+5	1	gate
+
+--021496e3--2020-05-06--Chris Smalley
+2	2	gate
+
+--842854be--2020-05-05--Emily Burns
+3	0	gate
+8	0	gate
+
+--f857d386--2020-05-05--Cameron Fieber
+15	0	gate
+8	0	gate
+
+--95ab41b8--2020-04-30--Travis Tomsu
+1	1	gate
+
+--2fb71971--2020-04-29--Emily Burns
+3	0	gate
+6	0	gate
+12	0	gate
+
+--5bbe41ba--2020-04-28--Chris Smalley
+10	5	gate
+24	3	gate
+13	9	gate
+
+--f5c4ac79--2020-04-22--Emily Burns
+3	0	gate
+8	0	gate
+
+--dc2c5fb0--2020-04-19--Chris Smalley
+21	0	gate
+71	0	gate
+22	0	gate
+77	0	gate
+71	0	gate
+37	0	gate
+12	0	gate
+9	8	gate
+1	0	gate
+
+--4993c855--2020-04-19--Chris Smalley
+10	5	gate
+4	3	gate
+7	11	gate
+5	1	gate
+7	23	gate
+0	11	gate
+1	1	gate
+2	1	gate
+1	1	gate
+
+--157433e4--2020-04-16--Chris Smalley
+28	0	gate
+71	0	gate
+22	0	gate
+77	0	gate
+71	0	gate
+37	0	gate
+12	0	gate
+9	8	gate
+1	0	gate
+
+--104b3b3a--2020-04-15--Emily Burns
+1	5	gate
+23	0	gate
+11	0	gate
+18	0	gate
+
+--2f4b5d80--2020-04-14--Eric Zimanyi
+1	0	gate
+1	0	gate
+
+--fd924d7a--2020-04-14--Chris Smalley
+0	28	gate
+0	71	gate
+0	22	gate
+0	77	gate
+0	71	gate
+0	37	gate
+0	12	gate
+8	9	gate
+0	1	gate
+
+--568e4899--2020-04-14--Chris Smalley
+0	28	gate
+0	71	gate
+0	22	gate
+0	77	gate
+0	71	gate
+0	37	gate
+0	12	gate
+8	9	gate
+0	1	gate
+
+--b49f04a0--2020-04-14--Chris Smalley
+28	0	gate
+71	0	gate
+22	0	gate
+77	0	gate
+71	0	gate
+37	0	gate
+12	0	gate
+9	8	gate
+1	0	gate
+
+--d0646727--2020-04-10--Mark Vulfson
+4	8	gate
+51	0	gate
+
+--69fd0318--2020-04-09--Adam Jordens
+1	1	gate
+4	0	gate
+42	0	gate
+33	0	gate
+33	0	gate
+3	2	gate
+102	0	gate
+89	0	gate
+1	0	gate
+
+--3eed42dc--2020-04-08--Michael Plump
+1	1	gate
+
+--9c83a200--2020-04-08--Michael Plump
+10	1	gate
+
+--faaf06a3--2020-04-07--Emily Burns
+33	0	gate
+11	0	gate
+23	0	gate
+
+--6b8471e2--2020-04-06--Greg Jones
+12	7	gate
+
+--a11c6c9e--2020-04-02--Cameron Fieber
+3	0	gate
+60	0	gate
+51	0	gate
+28	0	gate
+172	0	gate
+6	0	gate
+14	2	gate
+1	1	gate
+1	1	gate
+
+--146590e1--2020-04-02--Michael Plump
+1	1	gate
+
+--6cebe19b--2020-04-01--Cameron Motevasselani
+6	3	gate
+1	1	gate
+
+--4039cf5d--2020-03-31--Mark Vulfson
+6	1	gate
+
+--4f13425d--2020-03-31--Mark Vulfson
+7	0	gate
+
+--699cdfcc--2020-03-31--Emily Burns
+4	4	gate
+6	6	gate
+
+--2f1efc10--2020-03-31--Chris Smalley
+4	2	gate
+1	1	gate
+
+--8f15de43--2020-03-31--Mark Vulfson
+0	7	gate
+
+--85df33c1--2020-03-31--Mark Vulfson
+2	2	gate
+1	1	gate
+2	2	gate
+1	1	gate
+2	2	gate
+4	4	gate
+3	3	gate
+
+--38aacde6--2020-03-27--Michael Plump
+2	0	gate
+
+--99b0bde0--2020-03-26--Michael Plump
+1	1	gate
+
+--4c59a6c0--2020-03-26--Michael Plump
+6	1	gate
+5	0	gate
+7	2	gate
+8	2	gate
+1	1	gate
+
+--d35830f8--2020-03-25--Rob Zienert
+1	3	gate
+
+--5685f798--2020-03-25--Rob Zienert
+16	1	gate
+1	8	gate
+89	0	gate
+0	96	gate
+
+--71c6f1a7--2020-03-25--Erik Munson
+4	1	gate
+
+--f8404c21--2020-03-25--Eric Zimanyi
+32	3	gate
+
+--83138e40--2020-03-24--Cameron Fieber
+13	4	gate
+9	0	gate
+
+--c70c0389--2020-03-23--Michael Plump
+1	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+
+--e8eb0980--2020-03-23--Michael Plump
+1	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+
+--5e499928--2020-03-13--Sairam Rekapalli
+2	2	gate
+6	2	gate
+
+--6f168314--2020-03-13--Chris Smalley
+22	0	gate
+2	8	gate
+54	0	gate
+31	0	gate
+3	3	gate
+0	17	gate
+0	28	gate
+0	19	gate
+0	4	gate
+
+--b870bd1f--2020-03-11--Luis Fernando Pollo
+3	0	gate
+
+--be76ae5c--2020-03-11--Luis Fernando Pollo
+1	0	gate
+
+--60a22258--2020-03-10--Luis Fernando Pollo
+3	1	gate
+5	3	gate
+
+--093866dc--2020-03-06--Michael Plump
+1	1	gate
+
+--bf912aec--2020-03-02--Gal Yardeni
+45	0	gate
+49	0	gate
+5	1	gate
+
+--f245023b--2020-03-02--Brandon Powell
+1	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+
+--2044eb82--2020-03-02--Brandon Powell
+1	0	gate
+1	1	gate
+1	1	gate
+1	1	gate
+
+--4abc675a--2020-02-27--Luis Fernando Pollo
+5	0	gate
+28	1	gate
+
+--f60e51ea--2020-02-27--Michael Plump
+7	0	gate
+
+--5c82ba63--2020-02-26--Brandon Powell
+1	0	gate
+1	0	gate
+1	0	gate
+
+--2083a9ad--2020-02-26--Rob Zienert
+3	2	gate
+
+--1870c739--2020-02-24--Michael Plump
+5	6	gate
+2	2	gate
+2	2	gate
+2	2	gate
+2	2	gate
+
+--af5dc106--2020-02-24--Rob Zienert
+0	10	gate
+2	2	gate
+52	11	gate
+
+--a5438642--2020-02-24--Repon Kumar Roy
+1	1	gate
+
+--cddc1a16--2020-02-22--Rob Zienert
+3	3	gate
+2	6	gate
+
+--c0dd7991--2020-02-20--Kaixiang-AWS
+8	0	gate
+3	0	gate
+
+--ca297c03--2020-02-19--Mark Vulfson
+16	3	gate
+3	0	gate
+
+--384e331f--2020-02-19--Rob Zienert
+0	1	gate
+21	0	gate
+10	0	gate
+0	29	gate
+0	26	gate
+0	131	gate
+0	48	gate
+0	94	gate
+0	27	gate
+0	73	gate
+0	111	gate
+30	0	gate
+26	0	gate
+131	0	gate
+48	0	gate
+100	0	gate
+27	0	gate
+71	0	gate
+53	0	gate
+23	0	gate
+111	0	gate
+1	1	gate
+3	2	gate
+3	2	gate
+
+--495e8719--2020-02-18--Matt Duftler
+1	0	gate
+2	1	gate
+
+--9846de9e--2020-02-14--Luis Fernando Pollo
+1	1	gate
+3	1	gate
+
+--c825fc80--2020-02-14--Luis Fernando Pollo
+6	7	gate
+9	8	gate
+
+--6efec438--2020-02-13--Luis Fernando Pollo
+1	0	gate
+
+--4df4af32--2020-02-12--Emily Burns
+2	3	gate
+1	0	gate
+4	1	gate
+
+--950920ef--2020-02-12--Luis Fernando Pollo
+1	0	gate
+30	0	gate
+1	11	gate
+1	0	gate
+20	0	gate
+53	0	gate
+102	0	gate
+
+--aa622508--2020-02-10--dreynaud
+1	3	gate
+
+--4fdc631f--2020-02-10--Rob Zienert
+1	0	gate
+
+--d8524e4b--2020-02-05--Chris Smalley
+1	0	gate
+
+--3fe50446--2020-02-04--dreynaud
+1	1	gate
+0	5	gate
+
+--a42dbb77--2020-02-04--Emily Burns
+3	0	gate
+6	0	gate
+
+--94cc4f86--2020-02-04--Chris Smalley
+25	2	gate
+16	3	gate
+
+--abe9bc9f--2020-02-04--dreynaud
+2	0	gate
+0	110	gate
+7	5	gate
+2	1	gate
+6	8	gate
+11	13	gate
+4	10	gate
+
+--94875715--2020-02-03--Kaixiang-AWS
+39	0	gate
+3	0	gate
+78	0	gate
+
+--3e729f8d--2020-02-03--Travis Tomsu
+7	2	gate
+
+--ba97e4d9--2020-01-30--dreynaud
+1	0	gate
+0	86	gate
+16	5	gate
+5	4	gate
+1	4	gate
+3	8	gate
+2	2	gate
+2	3	gate
+1	1	gate
+4	6	gate
+2	2	gate
+2	2	gate
+5	5	gate
+2	2	gate
+2	2	gate
+4	7	gate
+3	3	gate
+2	2	gate
+2	4	gate
+5	5	gate
+2	2	gate
+13	13	gate
+1	3	gate
+3	4	gate
+1	1	gate
+5	5	gate
+4	4	gate
+10	15	gate
+1	2	gate
+1	2	gate
+1	2	gate
+6	6	gate
+19	27	gate
+13	8	gate
+7	17	gate
+1	1	gate
+3	3	gate
+1	1	gate
+1	1	gate
+
+--f230f3c9--2020-01-28--dreynaud
+20	0	gate
+30	10	gate
+1	1	gate
+61	0	gate
+42	12	gate
+2	1	gate
+
+--4e7ab2af--2020-01-28--dreynaud
+31	21	gate
+0	1	gate
+3	5	gate
+6	11	gate
+2	2	gate
+4	3	gate
+6	5	gate
+3	5	gate
+
+--6d575c0b--2020-01-27--Chris Smalley
+1	0	gate
+8	23	gate
+1	3	gate
+1	1	gate
+3	5	gate
+1	0	gate
+4	2	gate
+1	1	gate
+1	2	gate
+1	1	gate
+3	1	gate
+1	0	gate
+4	0	gate
+2	2	gate
+
+--beae312b--2020-01-27--Sairam Rekapalli
+0	25	gate
+
+--5bd7ac79--2020-01-23--Rob Fletcher
+2	0	gate
+64	0	gate
+
+--c74ebaeb--2020-01-21--Rob Zienert
+29	0	gate
+26	0	gate
+146	0	gate
+50	0	gate
+71	0	gate
+27	0	gate
+60	0	gate
+113	0	gate
+5	3	gate
+4	0	gate
+44	0	gate
+1	0	gate
+
+--14575323--2020-01-21--Asher Feldman
+35	0	gate
+27	0	gate
+14	0	gate
+22	0	gate
+
+--d4b5531d--2020-01-21--Sairam Rekapalli
+1	1	gate
+
+--107e12e3--2020-01-17--Rob Fletcher
+1	0	gate
+
+--a2428e60--2020-01-16--Kathryn Lewis
+1	1	gate
+
+--5c681b6a--2020-01-16--sullis
+1	1	gate
+
+--c2139d10--2020-01-15--Sairam Rekapalli
+4	0	gate
+129	0	gate
+33	0	gate
+116	0	gate
+9	0	gate
+
+--cf481d65--2020-01-15--Michael Plump
+7	0	gate
+1	1	gate
+1	1	gate
+7	0	gate
+
+--4a84da6b--2020-01-07--Pierre Delagrave
+0	1	gate
+0	1	gate
+0	2	gate
+2	4	gate
+1	1	gate
+2	1	gate
+4	4	gate
+
+--c16c3a7e--2019-12-30--Michael Plump
+1	1	gate
+
+--940bc62e--2019-12-20--Louis Jimenez
+4	0	gate
+7	0	gate
+6	0	gate
+
+--25ea9d5a--2019-12-18--Adam Jordens
+23	0	gate
+
+--740e0d99--2019-12-18--Rob Fletcher
+3	0	gate
+8	0	gate
+
+--02679434--2019-12-17--Emily Burns
+0	12	gate
+
+--b962572c--2019-12-17--Emily Burns
+29	0	gate
+29	0	gate
+26	0	gate
+36	0	gate
+2	2	gate
+2	2	gate
+0	29	gate
+0	29	gate
+0	26	gate
+0	36	gate
+
+--ed9bd48f--2019-12-16--Emily Burns
+29	0	gate
+29	0	gate
+26	0	gate
+36	0	gate
+
+--de5f9260--2019-12-14--Michael Plump
+2	2	gate
+
+--91b3e55f--2019-12-13--Emily Burns
+1	1	gate
+1	1	gate
+
+--de8b1fa5--2019-12-12--Jason
+1	0	gate
+4	0	gate
+
+--2e37c72e--2019-12-11--Emily Burns
+6	0	gate
+12	0	gate
+
+--7cdea801--2019-12-11--Erik Munson
+4	4	gate
+9	9	gate
+
+--46c0678c--2019-12-10--Jammy Louie
+1	0	gate
+1	0	gate
+4	2	gate
+1	1	gate
+1	2	gate
+1	1	gate
+
+--fe9ec9df--2019-12-10--caseyhebebrand
+1	0	gate
+4	2	gate
+
+--60cce7a5--2019-12-05--Mark Vulfson
+26	0	gate
+4	0	gate
+4	0	gate
+
+--0bbd5f89--2019-12-02--Travis Tomsu
+11	0	gate
+
+--38905fe3--2019-11-21--Jason
+2	0	gate
+5	0	gate
+
+--e70dd507--2019-11-21--caseyhebebrand
+3	0	gate
+1	0	gate
+67	0	gate
+11	0	gate
+92	0	gate
+43	0	gate
+
+--8e86ac61--2019-11-13--Emily Burns
+1	1	gate
+1	1	gate
+
+--3c58ab7c--2019-11-13--Andres Castano
+15	1	gate
+28	0	gate
+18	7	gate
+28	0	gate
+35	0	gate
+5	1	gate
+103	0	gate
+
+--933b9cb1--2019-11-11--Emily Burns
+9	9	gate
+
+--b7e356c5--2019-11-06--Mark Vulfson
+4	2	gate
+18	18	gate
+
+--b9117136--2019-11-05--Mark Vulfson
+9	0	gate
+3	0	gate
+
+--11d2a236--2019-11-01--Travis Tomsu
+0	2	gate
+
+--b811e984--2019-11-01--Travis Tomsu
+2	0	gate
+
+--6d9471b2--2019-11-01--Travis Tomsu
+0	2	gate
+
+--2b5c7dbd--2019-11-01--Travis Tomsu
+2	0	gate
+
+--7e5d2e90--2019-10-31--Emily Burns
+23	15	gate
+
+--ae9a7fbb--2019-10-31--Derek Miller
+14	4	gate
+
+--e8b809f1--2019-10-29--Asher Feldman
+13	2	gate
+
+--8ab857e9--2019-10-25--Erik Munson
+1	2	gate
+
+--929917e3--2019-10-25--Cameron Fieber
+1	1	gate
+
+--2fd860b2--2019-10-24--Asher Feldman
+4	1	gate
+
+--181b4b43--2019-10-24--Cameron Fieber
+1	1	gate
+
+--8efacc73--2019-10-23--Cameron Fieber
+1	1	gate
+
+--404dba76--2019-10-23--Mark Vulfson
+4	0	gate
+
+--76590677--2019-10-22--Asher Feldman
+8	0	gate
+14	0	gate
+
+--4c9c410f--2019-10-21--Kathryn Lewis
+13	13	gate
+
+--581fc3b5--2019-10-21--Jacob Kiefer
+12	8	gate
+
+--1538a860--2019-10-18--Mark Vulfson
+19	0	gate
+
+--e3a38ba9--2019-10-17--Emily Burns
+3	5	gate
+
+--0e295891--2019-10-17--Emily Burns
+6	0	gate
+14	0	gate
+
+--84e2c632--2019-10-10--German Muzquiz
+1	0	gate
+
+--83aa1f53--2019-10-09--Jacob Kiefer
+1	1	gate
+14	0	gate
+18	0	gate
+7	0	gate
+
+--482bf0e5--2019-09-30--Emily Burns
+17	1	gate
+18	0	gate
+6	0	gate
+
+--b3ca3438--2019-09-27--Emily Burns
+1	0	gate
+
+--40af4090--2019-09-28--madhusarma
+8	0	gate
+1	0	gate
+16	0	gate
+12	0	gate
+
+--4af141cf--2019-09-26--Emily Burns
+25	0	gate
+
+--47f4cc30--2019-09-19--Louis Jimenez
+1	1	gate
+
+--cf493feb--2019-09-18--Chris Gruel
+4	2	gate
+
+--13ce30da--2019-09-18--Erik Munson
+7	0	gate
+14	0	gate
+
+--3fd09d1f--2019-09-14--Paul
+0	12	gate
+0	4	gate
+0	4	gate
+
+--fd0128a6--2019-09-13--Michael Plump
+0	46	gate
+0	3	gate
+
+--30692830--2019-09-13--Griffin Dunn
+3	0	gate
+
+--1200a1d6--2019-09-13--Clay McCoy
+46	0	gate
+3	0	gate
+
+--1543b890--2019-09-05--Clay McCoy
+46	0	gate
+3	0	gate
+
+--09b37934--2019-09-11--Mark Vulfson
+38	0	gate
+3	0	gate
+
+--084e8211--2019-09-12--Emily Burns
+6	3	gate
+
+--71ba578f--2019-09-12--Emily Burns
+3	0	gate
+6	0	gate
+
+--f474ad4c--2019-09-09--Emily Burns
+2	2	gate
+2	2	gate
+
+--803c4382--2019-09-09--Sairam Rekapalli
+1	17	gate
+82	0	gate
+84	0	gate
+71	0	gate
+20	0	gate
+
+--cb7995b9--2019-09-06--Rob Fletcher
+7	0	gate
+23	5	gate
+
+--57c0029d--2019-09-04--Rob Fletcher
+1	2	gate
+2	3	gate
+
+--159b0b5b--2019-08-28--Clare Liguori
+16	3	gate
+38	0	gate
+
+--09775772--2019-08-23--Travis CI User
+3	3	gate
+
+--d9a85180--2019-08-23--Travis CI User
+3	3	gate
+
+--a4bd17f6--2019-08-20--Pierre Delagrave
+0	14	gate
+6	0	gate
+1	7	gate
+7	0	gate
+0	13	gate
+
+--a9ee8eb4--2019-08-15--Maggie Neterval
+11	5	gate
+25	2	gate
+
+--5b13e3f2--2019-08-15--Maggie Neterval
+11	5	gate
+25	2	gate
+
+--ddad1502--2019-08-09--Eric Zimanyi
+2	2	gate
+
+--c5f81555--2019-08-08--Emily Burns
+5	0	gate
+11	0	gate
+1	1	gate
+
+--17694998--2019-08-06--Travis CI User
+3	3	gate
+
+--becac838--2019-08-01--dreynaud
+1	1	gate
+
+--7f741f79--2019-08-01--Emily Burns
+25	9	gate
+9	5	gate
+5	9	gate
+
+--7b624bd7--2019-07-26--Eric Zimanyi
+0	14	gate
+9	6	gate
+
+--1d0354c2--2019-07-25--Cameron Fieber
+1	1	gate
+1	1	gate
+1	1	gate
+
+--e4c3da33--2019-07-25--Michael Plump
+10	0	gate
+8	0	gate
+6	0	gate
+3	0	gate
+6	0	gate
+12	0	gate
+6	0	gate
+1	1	gate
+
+--f5a76adf--2019-07-19--Pieter Steyn
+9	0	gate
+
+--193c7b94--2019-07-18--Nicolas Cohen
+1	0	gate
+12	1	gate
+
+--97f6477f--2019-07-18--Nicolas Cohen
+1	0	gate
+12	1	gate
+
+--5d328b56--2019-07-02--Mark Vulfson
+9	4	gate
+14	5	gate
+52	48	gate
+
+--8ff44380--2019-07-16--Nicolas Cohen
+1	0	gate
+12	1	gate
+
+--9757c197--2019-07-09--Erik Munson
+3	0	gate
+3	0	gate
+
+--d4e97c32--2019-07-08--Eric Zimanyi
+0	14	gate
+
+--aa93ce83--2019-07-07--Travis CI User
+3	3	gate
+
+--caf0d6da--2019-07-04--Anastasiia Smirnova
+3	0	gate
+0	5	gate
+
+--85341ee3--2019-07-01--Adam Jordens
+5	0	gate
+
+--a7952d70--2019-07-01--Emily Burns
+16	7	gate
+31	0	gate
+31	0	gate
+0	29	gate
+
+--c99ffeec--2019-07-01--Emily Burns
+3	1	gate
+16	21	gate
+29	0	gate
+1	1	gate
+
+--335791e0--2019-07-01--Emily Burns
+13	0	gate
+0	41	gate
+48	0	gate
+1	1	gate
+
+--ddfae6e0--2019-06-28--Adam Jordens
+3	2	gate
+12	1	gate
+
+--5a5ae067--2019-06-27--Adam Jordens
+33	10	gate
+
+--aa0c104f--2019-06-26--Emily Burns
+6	3	gate
+3	2	gate
+2	1	gate
+
+--de6efc20--2019-06-26--Emily Burns
+1	0	gate
+1	1	gate
+31	0	gate
+1	0	gate
+7	0	gate
+40	0	gate
+1	1	gate
+
+--1257221c--2019-06-19--Cameron Fieber
+5	2	gate
+41	5	gate
+0	2	gate
+
+--2d70a501--2019-06-19--Cameron Fieber
+1	1	gate
+30	6	gate
+69	22	gate
+
+--3a94ee71--2019-06-18--Mark Vulfson
+3	2	gate
+
+--fa559e6a--2019-06-17--Mark Vulfson
+43	41	gate
+51	0	gate
+1	0	gate
+
+--ddc5a63d--2019-06-17--Cameron Fieber
+3	0	gate
+1	0	gate
+14	0	gate
+
+--8f886491--2019-06-17--Cameron Fieber
+2	0	gate
+
+--9e978916--2019-06-07--Cameron Fieber
+3	3	gate
+
+--7d55dc2c--2019-06-07--Cameron Fieber
+2	2	gate
+
+--750d8678--2019-06-04--Jammy Louie
+1	1	gate
+
+--41a9c2e7--2019-06-03--dreynaud
+10	3	gate
+11	14	gate
+
+--678cec4a--2019-06-03--Rob Zienert
+1	1	gate
+1	1	gate
+1	1	gate
+
+--dd78f0e0--2019-05-30--Rob Zienert
+1	0	gate
+9	2	gate
+
+--d82010d4--2019-05-29--Emily Burns
+5	1	gate
+
+--05eb8663--2019-05-22--Travis CI User
+3	3	gate
+
+--d31651a6--2019-05-20--Cameron Fieber
+3	5	gate
+4	0	gate
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	2	gate
+17	1	gate
+17	1	gate
+
+--e1cafc72--2019-05-17--Jeyrs Chabu
+1	1	gate
+10	0	gate
+7	8	gate
+7	9	gate
+38	0	gate
+
+--cfeaf8ab--2019-05-16--Cameron Fieber
+1	0	gate
+5	0	gate
+
+--c25fd512--2019-05-14--Chris Berry
+4	1	gate
+13	4	gate
+1	2	gate
+8	2	gate
+
+--271bfab6--2019-05-14--Cameron Fieber
+1	0	gate
+6	2	gate
+
+--000f9e62--2019-05-14--Eric Zimanyi
+0	6	gate
+25	20	gate
+24	16	gate
+
+--c421f53c--2019-05-13--Eric Zimanyi
+2	2	gate
+8	2	gate
+4	2	gate
+6	7	gate
+4	2	gate
+10	7	gate
+21	23	gate
+10	4	gate
+45	23	gate
+17	18	gate
+48	43	gate
+3	4	gate
+1	2	gate
+1	1	gate
+1	1	gate
+18	27	gate
+17	21	gate
+5	5	gate
+28	19	gate
+35	21	gate
+4	5	gate
+27	24	gate
+119	58	gate
+3	5	gate
+29	23	gate
+1	2	gate
+12	14	gate
+3	2	gate
+12	10	gate
+2	4	gate
+31	20	gate
+3	4	gate
+3	4	gate
+11	12	gate
+8	7	gate
+15	15	gate
+41	41	gate
+9	8	gate
+35	23	gate
+52	48	gate
+12	6	gate
+14	5	gate
+43	28	gate
+53	36	gate
+6	3	gate
+23	19	gate
+1	0	gate
+1	0	gate
+2	3	gate
+5	4	gate
+10	9	gate
+8	8	gate
+3	2	gate
+10	8	gate
+10	10	gate
+1	4	gate
+3	5	gate
+8	6	gate
+0	1	gate
+2	2	gate
+0	1	gate
+
+--34eebcbd--2019-05-10--Cameron Fieber
+1	1	gate
+
+--00c11ce5--2019-05-10--Michael Plump
+2	1	gate
+2	1	gate
+
+--833edc24--2019-05-10--Joris Melchior
+2	2	gate
+1	1	gate
+
+--70024a32--2019-05-09--Cameron Fieber
+33	31	gate
+2	1	gate
+5	3	gate
+0	6	gate
+17	11	gate
+8	10	gate
+40	0	gate
+11	0	gate
+2	1	gate
+0	27	gate
+1	1	gate
+0	27	gate
+2	1	gate
+6	2	gate
+0	19	gate
+10	9	gate
+6	3	gate
+1	1	gate
+4	5	gate
+1	23	gate
+4	3	gate
+4	25	gate
+0	1	gate
+2	2	gate
+6	2	gate
+7	15	gate
+11	25	gate
+2	0	gate
+29	28	gate
+10	24	gate
+5	5	gate
+4	4	gate
+2	2	gate
+3	3	gate
+45	13	gate
+2	2	gate
+6	5	gate
+1	1	gate
+2	1	gate
+1	1	gate
+5	7	gate
+2	2	gate
+1	3	gate
+16	6	gate
+26	16	gate
+8	10	gate
+1	2	gate
+21	5	gate
+5	2	gate
+0	144	gate
+0	26	gate
+116	5	gate
+0	55	gate
+0	48	gate
+39	45	gate
+0	58	gate
+58	0	gate
+0	5	gate
+2	4	gate
+2	7	gate
+0	3	gate
+8	2	gate
+5	5	gate
+8	5	gate
+19	99	gate
+1	1	gate
+1	0	gate
+3	3	gate
+2	2	gate
+0	26	gate
+1	1	gate
+
+--d355d2ed--2019-05-09--Cameron Fieber
+1	1	gate
+0	3	gate
+0	37	gate
+0	1	gate
+0	4	gate
+1	2	gate
+2	2	gate
+2	0	gate
+0	4	gate
+1	1	gate
+
+--93197b95--2019-05-09--Cameron Fieber
+--8b3f4dc5--2019-05-09--Jon Schneider
+24	11	gate
+3	0	gate
+3	0	gate
+
+--b47ad921--2019-05-08--Cameron Fieber
+1	1	gate
+
+--72a43d41--2019-05-07--Cameron Fieber
+--69c85ace--2019-05-06--Clare Liguori
+3	0	gate
+37	0	gate
+41	0	gate
+
+--460afd06--2019-05-06--Cameron Fieber
+--3245e645--2019-05-06--Cameron Fieber
+1	1	gate
+3	3	gate
+2	2	gate
+
+--196ce7f7--2019-05-06--Cameron Fieber
+3	3	gate
+2	2	gate
+
+--e33b4b99--2019-05-06--Cameron Fieber
+--91896df9--2019-05-06--Travis CI User
+1	1	gate
+
+--c939024d--2019-05-05--Cameron Fieber
+1	1	gate
+18	12	gate
+0	2	gate
+2	1	gate
+4	6	gate
+3	1	gate
+1	1	gate
+
+--ef183fd0--2019-05-02--Cameron Fieber
+2	2	gate
+2	1	gate
+5	4	gate
+2	1	gate
+2	2	gate
+
+--7e183887--2019-05-02--Mark Vulfson
+3	2	gate
+4	2	gate
+1	0	gate
+
+--8a8cd059--2019-05-02--Cameron Fieber
+--b4e2e38a--2019-05-02--Cameron Fieber
+1	1	gate
+1	1	gate
+1	7	gate
+1	1	gate
+44	12	gate
+5	8	gate
+
+--47da7d0d--2019-05-01--Mark Vulfson
+3	4	gate
+
+--a400e97e--2019-05-01--Travis CI User
+1	1	gate
+
+--c2213cdd--2019-05-01--Cameron Fieber
+--3ed8b4f6--2019-05-01--Cameron Fieber
+3	3	gate
+5	6	gate
+0	6	gate
+5	8	gate
+34	0	gate
+13	0	gate
+0	26	gate
+1	1	gate
+0	27	gate
+1	0	gate
+0	5	gate
+0	1	gate
+1	6	gate
+1	1	gate
+26	16	gate
+8	10	gate
+21	5	gate
+0	144	gate
+0	26	gate
+116	5	gate
+0	55	gate
+0	48	gate
+39	45	gate
+0	5	gate
+0	2	gate
+2	7	gate
+0	3	gate
+10	2	gate
+
+--fe1c911b--2019-05-01--Adam Jordens
+1	1	gate
+
+--008e600f--2019-04-30--Dibyo Mukherjee
+1	1	gate
+
+--0cd2e0b2--2019-04-29--Matt Jacobs
+0	5	gate
+
+--cb48a7d4--2019-04-26--Cameron Fieber
+1	0	gate
+
+--3162875e--2019-04-25--Cameron Fieber
+28	36	gate
+2	1	gate
+17	11	gate
+4	5	gate
+6	6	gate
+0	27	gate
+6	2	gate
+0	17	gate
+6	3	gate
+4	5	gate
+0	22	gate
+5	4	gate
+0	14	gate
+6	2	gate
+7	4	gate
+6	17	gate
+36	26	gate
+0	8	gate
+1	2	gate
+1	1	gate
+8	2	gate
+4	4	gate
+5	4	gate
+7	96	gate
+1	1	gate
+1	0	gate
+0	26	gate
+1	1	gate
+
+--9f2b383f--2019-04-25--Cameron Fieber
+--d2cc40f5--2019-04-23--Rob Zienert
+2	0	gate
+
+--08a0648a--2019-04-18--Adam Jordens
+23	10	gate
+28	2	gate
+38	4	gate
+6	0	gate
+
+--b5fdfee6--2019-04-17--Cameron Fieber
+1	1	gate
+17	8	gate
+
+--ad636085--2019-04-12--Cameron Fieber
+--f3efa682--2019-04-11--Michael Plump
+2	0	gate
+
+--921285f4--2019-04-03--Mark Vulfson
+0	4	gate
+0	8	gate
+0	7	gate
+
+--11febc32--2019-04-03--Mark Vulfson
+4	2	gate
+1	1	gate
+
+--78aa07a1--2019-04-10--Michael Plump
+17	16	gate
+73	0	gate
+
+--683ca523--2019-04-09--Dibyo Mukherjee
+18	0	gate
+23	0	gate
+
+--8d907aa1--2019-04-09--Dibyo Mukherjee
+9	3	gate
+
+--995a3f8d--2019-04-08--Adam Jordens
+4	0	gate
+9	0	gate
+
+--9349b81a--2019-04-05--Emily Burns
+9	1	gate
+14	1	gate
+4	0	gate
+
+--9b5939ea--2019-04-04--Joon Lim
+0	201	gate
+0	122	gate
+210	0	gate
+129	0	gate
+0	218	gate
+264	0	gate
+
+--7ff79603--2019-04-04--Joon Lim
+0	201	gate
+0	122	gate
+210	0	gate
+129	0	gate
+0	218	gate
+264	0	gate
+
+--aa017592--2019-04-04--Joon Lim
+0	201	gate
+0	122	gate
+210	0	gate
+129	0	gate
+0	218	gate
+264	0	gate
+
+--a58f835c--2019-04-04--Joon Lim
+0	201	gate
+0	122	gate
+210	0	gate
+129	0	gate
+0	218	gate
+264	0	gate
+
+--3c737a24--2019-04-04--Jacob Kiefer
+1	1	gate
+14	14	gate
+2	2	gate
+
+--96ace827--2019-03-29--Matt Jacobs
+5	0	gate
+
+--6d6965f7--2019-03-27--Eric Zimanyi
+44	0	gate
+3	0	gate
+
+--c3b34797--2019-03-25--Nicolas Cohen
+1	0	gate
+11	3	gate
+
+--2fe330ed--2019-03-19--Cameron Motevasselani
+7	3	gate
+9	5	gate
+
+--cf794c5c--2019-03-18--Jacob Kiefer
+6	6	gate
+
+--54476736--2019-03-14--Jon Schneider
+57	0	gate
+9	0	gate
+
+--5804e0a0--2019-03-12--lin-hua-cheng
+1	1	gate
+
+--2a71c403--2019-03-11--Jammy Louie
+42	0	gate
+3	0	gate
+5	0	gate
+5	0	gate
+5	0	gate
+
+--0af4409b--2019-03-08--Rob Zienert
+8	0	gate
+7	2	gate
+37	0	gate
+7	7	gate
+6	6	gate
+1	1	gate
+5	1	gate
+4	4	gate
+2	2	gate
+0	14	gate
+2	1	gate
+5	5	gate
+2	2	gate
+2	2	gate
+3	3	gate
+1	1	gate
+2	2	gate
+1	1	gate
+1	1	gate
+1	1	gate
+1	3	gate
+16	5	gate
+0	53	gate
+53	0	gate
+3	3	gate
+3	3	gate
+1	1	gate
+1	1	gate
+2	2	gate
+
+--c09156f9--2019-03-07--Rob Zienert
+3	0	gate
+26	0	gate
+4	6	gate
+5	4	gate
+4	4	gate
+1	0	gate
+2	4	gate
+9	3	gate
+4	7	gate
+9	10	gate
+2	2	gate
+1	2	gate
+5	2	gate
+3	2	gate
+
+--d81364ef--2019-03-07--Brandon Powell
+1	1	gate
+1	1	gate
+
+--24461413--2019-03-06--Rob Zienert
+4	2	gate
+1	1	gate
+2	5	gate
+5	5	gate
+
+--ee95ea3f--2019-02-27--Jacob Kiefer
+5	5	gate
+2	0	gate
+3	4	gate
+
+--65328f99--2019-02-26--Emily Burns
+9	0	gate
+42	0	gate
+
+--33b89892--2019-02-22--Jacob Kiefer
+3	3	gate
+
+--400994bd--2019-02-21--Matt Jacobs
+2	1	gate
+5	0	gate
+108	0	gate
+41	0	gate
+13	0	gate
+7	1	gate
+1	0	gate
+2	1	gate
+
+--f1f54998--2019-02-21--Stuart Pollock
+6	0	gate
+8	0	gate
+4	0	gate
+
+--0dbb80b7--2019-02-18--lin-hua-cheng
+2	1	gate
+
+--464846d0--2019-02-18--Adam Jordens
+11	0	gate
+
+--78dae001--2019-02-14--Maggie Neterval
+108	0	gate
+
+--cc5b89e7--2019-02-05--Jacob Kiefer
+3	6	gate
+
+--6b283c57--2019-01-30--Jacob Kiefer
+4	0	gate
+
+--419d9997--2019-01-29--Jacob Kiefer
+3	1	gate
+4	2	gate
+2	2	gate
+
+--a3a539ab--2019-01-28--Jacob Kiefer
+38	18	gate
+
+--d66d0144--2019-01-25--Travis Tomsu
+0	7	gate
+
+--49a16fe6--2019-01-25--Ethan Rogers
+7	0	gate
+
+--02b14cfd--2019-01-17--Justin Reynolds
+1	0	gate
+34	3	gate
+
+--359d5062--2019-01-17--Eric Wiseblatt
+4	1	gate
+
+--9cbdb1ef--2019-01-17--Gard Rimestad
+1	1	gate
+
+--de225d0d--2019-01-14--Andreas Bergmeier
+8	0	gate
+27	6	gate
+
+--83577675--2019-01-11--Michael Graff
+1	1	gate
+17	2	gate
+
+--188e2037--2019-01-08--Andreas Bergmeier
+1	1	gate
+73	0	gate
+
+--9989cb6d--2019-01-07--German Muzquiz
+3	0	gate
+62	0	gate
+70	0	gate
+1	0	gate
+139	0	gate
+26	0	gate
+26	0	gate
+5	0	gate
+5	0	gate
+1	1	gate
+1	0	gate
+
+--ba802164--2019-01-03--Andrey Mayrin
+9	0	gate
+23	5	gate
+21	5	gate
+
+--a471a85d--2018-12-30--CJ Taylor
+1	0	gate
+
+--c45cacfc--2018-12-17--Daniel Peach
+3	4	gate
+
+--aa342dac--2018-12-14--Marlon Alagoda
+1	0	gate
+
+--bc7b118c--2018-12-12--Jacob Kiefer
+6	6	gate
+3	3	gate
+4	0	gate
+
+--a3f2416a--2018-12-07--Jacob Kiefer
+1	1	gate
+1	1	gate
+4	4	gate
+2	3	gate
+2	4	gate
+1	1	gate
+2	2	gate
+1	1	gate
+1	1	gate
+2	2	gate
+1	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+1	2	gate
+4	4	gate
+
+--5733e986--2018-12-06--Tomás Lin
+0	4	gate
+2	2	gate
+9	2	gate
+4	0	gate
+
+--38eda088--2018-12-06--Tomás Lin
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+
+--eaa096da--2018-12-06--Tomás Lin
+4	0	gate
+7	0	gate
+6	0	gate
+
+--b5f3fa52--2018-11-26--Chris Berry
+2	2	gate
+
+--2bb4fca7--2018-11-26--Chris Berry
+15	7	gate
+1	1	gate
+
+--558b656d--2018-11-26--Emily Burns
+1	1	gate
+
+--f8c8c7f0--2018-11-19--Eric Zimanyi
+4	4	gate
+
+--d5731a5e--2018-11-15--Emily Burns
+14	15	gate
+9	0	gate
+9	0	gate
+
+--b870e71c--2018-11-12--Travis Tomsu
+1	1	gate
+0	1	gate
+
+--5eb7258e--2018-11-12--Emily Burns
+18	16	gate
+
+--5ecb7879--2018-11-12--Travis Tomsu
+15	0	gate
+
+--a8bb9987--2018-11-08--Stephen Chen
+2	2	gate
+6	5	gate
+
+--08f02686--2018-11-08--Stephen Chen
+2	2	gate
+6	5	gate
+
+--942bcad2--2018-11-05--Cameron Fieber
+1	1	gate
+
+--77d0ced9--2018-10-31--Joris Melchior
+1	0	gate
+2	1	gate
+2	2	gate
+
+--98dfabf8--2018-10-30--Dibyo Mukherjee
+8	0	gate
+5	5	gate
+1	0	gate
+2	0	gate
+
+--cfb444ea--2018-10-30--Emily Burns
+11	8	gate
+
+--475dee07--2018-10-30--Dibyo Mukherjee
+5	0	gate
+0	18	gate
+0	201	gate
+0	121	gate
+0	218	gate
+136	0	gate
+71	0	gate
+27	0	gate
+70	0	gate
+30	0	gate
+30	0	gate
+27	0	gate
+27	0	gate
+91	0	gate
+61	0	gate
+138	0	gate
+63	0	gate
+4	0	gate
+201	0	gate
+121	0	gate
+218	0	gate
+7	0	gate
+149	0	gate
+5	0	gate
+68	0	gate
+146	0	gate
+181	0	gate
+100	0	gate
+24	0	gate
+37	0	gate
+62	0	gate
+19	0	gate
+270	0	gate
+55	0	gate
+-	-	gate-saml/src/test/resources/saml-client.jks
+0	39	gate
+0	136	gate
+0	71	gate
+0	27	gate
+0	70	gate
+0	30	gate
+0	30	gate
+0	27	gate
+0	27	gate
+0	91	gate
+0	149	gate
+0	68	gate
+0	146	gate
+0	181	gate
+0	100	gate
+0	24	gate
+0	270	gate
+0	45	gate
+0	175	gate
+0	152	gate
+0	15	gate
+0	27	gate
+0	61	gate
+0	138	gate
+0	63	gate
+0	37	gate
+0	62	gate
+0	55	gate
+0	50	gate
+0	180	gate
+0	27	gate
+0	28	gate
+0	28	gate
+0	27	gate
+-	-	gate-security/src/test/resources/saml-client.jks
+6	2	gate
+1	1	gate
+4	0	gate
+45	0	gate
+175	0	gate
+152	0	gate
+15	0	gate
+27	0	gate
+50	0	gate
+180	0	gate
+27	0	gate
+28	0	gate
+28	0	gate
+27	0	gate
+7	4	gate
+
+--67694441--2018-10-29--Dibyo Mukherjee
+18	0	gate
+201	0	gate
+121	0	gate
+218	0	gate
+0	201	gate
+0	121	gate
+0	218	gate
+2	0	gate
+5	1	gate
+
+--5be4a19c--2018-10-29--Dibyo Mukherjee
+27	0	gate
+27	0	gate
+7	4	gate
+0	23	gate
+7	4	gate
+0	7	gate
+5	2	gate
+0	7	gate
+5	2	gate
+0	27	gate
+39	89	gate
+
+--34d3b0d8--2018-10-25--Dibyo Mukherjee
+1	0	gate
+69	0	gate
+92	0	gate
+88	0	gate
+9	0	gate
+144	0	gate
+39	0	gate
+136	0	gate
+71	0	gate
+70	0	gate
+30	0	gate
+30	0	gate
+27	0	gate
+91	0	gate
+201	0	gate
+118	0	gate
+23	0	gate
+146	0	gate
+7	0	gate
+68	0	gate
+143	0	gate
+7	0	gate
+181	0	gate
+100	0	gate
+24	0	gate
+267	0	gate
+27	0	gate
+45	0	gate
+175	0	gate
+202	0	gate
+15	0	gate
+27	0	gate
+61	0	gate
+138	0	gate
+63	0	gate
+218	0	gate
+37	0	gate
+62	0	gate
+55	0	gate
+50	0	gate
+180	0	gate
+27	0	gate
+28	0	gate
+28	0	gate
+27	0	gate
+-	-	gate-security/src/test/resources/saml-client.jks
+1	18	gate
+0	69	gate
+0	92	gate
+0	88	gate
+0	9	gate
+0	73	gate
+0	136	gate
+0	70	gate
+0	30	gate
+0	30	gate
+0	27	gate
+0	91	gate
+0	201	gate
+0	118	gate
+0	23	gate
+0	146	gate
+0	7	gate
+0	68	gate
+0	143	gate
+0	7	gate
+0	181	gate
+0	100	gate
+0	24	gate
+0	268	gate
+0	27	gate
+0	45	gate
+0	175	gate
+0	202	gate
+0	15	gate
+0	27	gate
+0	61	gate
+0	138	gate
+0	144	gate
+0	63	gate
+0	218	gate
+2	2	gate
+0	37	gate
+0	62	gate
+0	55	gate
+0	50	gate
+0	180	gate
+0	27	gate
+0	28	gate
+0	28	gate
+0	27	gate
+-	-	gate-web/src/test/resources/saml-client.jks
+1	1	gate
+
+--2bc1464c--2018-10-25--Travis Tomsu
+4	3	gate
+
+--82b96af4--2018-10-25--Travis Tomsu
+10	5	gate
+7	13	gate
+7	5	gate
+15	0	gate
+6	4	gate
+2	1	gate
+
+--9128f42b--2018-10-24--Jacob Kiefer
+1	1	gate
+9	1	gate
+13	2	gate
+3	0	gate
+
+--0c9ef65d--2018-10-24--Jacob Kiefer
+2	5	gate
+1	1	gate
+3	0	gate
+
+--ae315cac--2018-10-23--Emily Burns
+42	4	gate
+37	1	gate
+12	4	gate
+
+--4791c460--2018-10-22--Daniel Peach
+4	0	gate
+1	1	gate
+1	1	gate
+
+--2508ecd8--2018-10-19--Jacob Kiefer
+1	1	gate
+
+--1c3505db--2018-10-18--Jacob Kiefer
+40	2	gate
+
+--28ad2575--2018-10-17--Jacob Kiefer
+19	8	gate
+57	25	gate
+5	5	gate
+4	0	gate
+
+--7e5a2246--2018-10-17--Daniel Peach
+4	3	gate
+
+--ff5d1769--2018-10-16--Jacob Kiefer
+126	0	gate
+58	0	gate
+
+--31203298--2018-10-16--Adam Jordens
+4	0	gate
+12	36	gate
+2	2	gate
+4	14	gate
+
+--0b204b7b--2018-10-15--Daniel Peach
+35	11	gate
+14	4	gate
+
+--75cb6bd1--2018-10-15--Daniel Peach
+35	11	gate
+14	4	gate
+
+--22cef1d8--2018-10-12--Adam Jordens
+2	2	gate
+
+--9763f74c--2018-10-11--Adam Jordens
+28	17	gate
+
+--4308ce74--2018-10-11--Adam Jordens
+40	0	gate
+6	1	gate
+8	6	gate
+60	6	gate
+1	1	gate
+1	1	gate
+18	18	gate
+
+--43b6ef6f--2018-10-04--Adam Jordens
+5	1	gate
+3	0	gate
+
+--c800cacb--2018-10-04--Erik Munson
+18	1	gate
+22	0	gate
+9	0	gate
+
+--1cb00104--2018-10-04--Adam Jordens
+6	0	gate
+
+--dee9a657--2018-10-02--Rob Zienert
+17	3	gate
+1	1	gate
+
+--6e9b51c0--2018-10-02--Travis Tomsu
+4	1	gate
+
+--c0567519--2018-10-02--dreynaud
+1	1	gate
+1	17	gate
+
+--49913284--2018-10-01--Adam Jordens
+4	1	gate
+
+--6aa0686c--2018-10-01--Eric Zimanyi
+21	9	gate
+20	0	gate
+3	0	gate
+
+--e02b3002--2018-10-01--Clare Liguori
+3	0	gate
+21	0	gate
+24	0	gate
+
+--95b28a62--2018-09-28--Stephen Chen
+10	0	gate
+
+--5f6fe7b4--2018-09-27--Adam Jordens
+43	49	gate
+
+--a838fe4d--2018-09-27--Stephen Chen
+10	0	gate
+
+--beb38a59--2018-09-27--Adam Jordens
+11	35	gate
+4	14	gate
+
+--47440fbf--2018-09-26--Dibyo Mukherjee
+1	1	gate
+
+--bc5618d1--2018-09-14--Stu Pollock
+5	0	gate
+41	0	gate
+36	0	gate
+
+--5ed25956--2018-09-24--Scott
+6	0	gate
+1	0	gate
+18	0	gate
+15	0	gate
+
+--2204df9f--2018-09-12--Rob Zienert
+1	0	gate
+6	0	gate
+184	0	gate
+108	0	gate
+
+--dfa3560f--2018-09-12--Rob Zienert
+16	16	gate
+25	0	gate
+4	0	gate
+
+--b6d5ac8c--2018-09-09--Alan Quach
+1	1	gate
+
+--2ac9c247--2018-09-07--Adam Jordens
+28	7	gate
+
+--c0f94d75--2018-09-06--Adam Jordens
+1	1	gate
+
+--16c970fa--2018-09-04--Jacob Kiefer
+1	0	gate
+2	0	gate
+9	4	gate
+5	5	gate
+6	1	gate
+17	6	gate
+1	0	gate
+
+--182abf8c--2018-08-31--Stephen Chen
+12	31	gate
+16	5	gate
+8	14	gate
+
+--26965d59--2018-08-30--Stephen Chen
+12	31	gate
+16	5	gate
+8	14	gate
+
+--b029096b--2018-08-30--Jacob Kiefer
+37	0	gate
+
+--6c928a91--2018-08-29--Stephen Chen
+3	0	gate
+3	0	gate
+3	0	gate
+3	0	gate
+3	0	gate
+3	0	gate
+
+--cbb365d2--2018-08-27--Rob Zienert
+56	8	gate
+55	16	gate
+
+--258c959c--2018-08-28--Joel Wilsson
+1	0	gate
+
+--8cb1c552--2018-08-27--Gabriel Hartmann
+1	0	gate
+
+--d8ab71fc--2018-08-27--Eric Zimanyi
+1	1	gate
+
+--b13cbb52--2018-08-27--Travis Tomsu
+3	0	gate
+3	0	gate
+3	0	gate
+3	0	gate
+3	0	gate
+3	0	gate
+
+--34b1c606--2018-08-16--Emily Burns
+7	0	gate
+28	0	gate
+38	0	gate
+32	0	gate
+
+--cfc74db5--2018-08-15--Rob Zienert
+9	0	gate
+23	0	gate
+24	0	gate
+
+--f38b1525--2018-08-07--Justin Reynolds
+7	2	gate
+5	0	gate
+2	0	gate
+
+--70c59ec8--2018-08-02--Stephen Chen
+2	2	gate
+0	94	gate
+94	0	gate
+23	0	gate
+17	1	gate
+3	3	gate
+
+--f36f53b5--2018-08-01--Travis Tomsu
+8	0	gate
+6	0	gate
+6	0	gate
+5	0	gate
+5	0	gate
+5	0	gate
+
+--5aa53d6d--2018-07-25--shihchang
+1	0	gate
+7	3	gate
+14	0	gate
+10	0	gate
+34	0	gate
+
+--4842d08b--2018-07-20--Adam Jordens
+1	1	gate
+
+--a39d38c3--2018-07-12--Jacob Kiefer
+1	1	gate
+
+--d5e0c13b--2018-07-10--Cameron Fieber
+4	1	gate
+
+--33d423ad--2018-07-10--Cameron Fieber
+3	2	gate
+4	0	gate
+28	1	gate
+0	22	gate
+9	0	gate
+24	3	gate
+
+--5565bf4d--2018-07-03--Cameron Fieber
+0	2	gate
+12	9	gate
+
+--9e5e4880--2018-07-02--Cameron Fieber
+74	18	gate
+180	0	gate
+
+--f59ac350--2018-07-03--Adam Jordens
+28	22	gate
+
+--9c484476--2018-07-03--Adam Jordens
+2	1	gate
+27	20	gate
+
+--23704e4a--2018-07-02--Cameron Fieber
+5	5	gate
+
+--8128bcfe--2018-06-29--Eric Zimanyi
+11	0	gate
+6	0	gate
+
+--2c171585--2018-06-27--Adam Jordens
+1	1	gate
+4	1	gate
+
+--1d487a26--2018-06-27--Adam Jordens
+9	3	gate
+0	4	gate
+
+--0202e24d--2018-06-27--Adam Jordens
+1	1	gate
+8	6	gate
+7	1	gate
+
+--009124a5--2018-06-27--Adam Jordens
+1	1	gate
+7	5	gate
+29	9	gate
+9	3	gate
+8	2	gate
+8	8	gate
+11	7	gate
+22	0	gate
+9	4	gate
+28	18	gate
+11	8	gate
+
+--12ecbdaf--2018-06-25--Joon Lim
+51	4	gate
+5	5	gate
+2	2	gate
+8	9	gate
+15	0	gate
+
+--f9b22ef4--2018-06-22--Cameron Fieber
+1	1	gate
+
+--90e2ecdd--2018-06-19--Cameron Fieber
+1	1	gate
+10	2	gate
+
+--5d505caa--2018-06-18--Eric Wiseblatt
+1	1	gate
+1	1	gate
+
+--662773eb--2018-06-18--Adam Jordens
+1	1	gate
+1	1	gate
+
+--a609ffad--2018-05-10--Cameron Fieber
+9	11	gate
+47	0	gate
+1	0	gate
+6	3	gate
+10	6	gate
+4	8	gate
+8	6	gate
+3	0	gate
+6	1	gate
+
+--3593b4b9--2018-06-12--Cameron Fieber
+1	1	gate
+1	0	gate
+28	1	gate
+40	0	gate
+4	14	gate
+6	2	gate
+
+--e616224b--2018-06-10--Adam Jordens
+2	2	gate
+6	2	gate
+1	0	gate
+
+--6826e165--2018-06-08--Justin Reynolds
+31	0	gate
+38	0	gate
+26	0	gate
+23	0	gate
+
+--88e6bca5--2018-05-31--Stephen Chen
+2	2	gate
+
+--6eacf809--2018-05-29--Jacob Kiefer
+1	0	gate
+2	2	gate
+0	5686	gate
+
+--7d3156b1--2018-05-24--Daniel Peach
+2	2	gate
+
+--8e3006b3--2018-05-24--Daniel Peach
+48	13	gate
+
+--0cf51947--2018-05-22--Adam Jordens
+1	1	gate
+
+--d4a11c53--2018-05-21--Adam Jordens
+2	0	gate
+7	0	gate
+154	0	gate
+109	0	gate
+3	0	gate
+34	0	gate
+1	1	gate
+
+--18965e0f--2018-05-21--Kevin Woo
+18	7	gate
+9	1	gate
+
+--899a3766--2018-05-16--Rob Fletcher
+2	1	gate
+2	2	gate
+1	1	gate
+1	1	gate
+6	6	gate
+
+--dd2f00d2--2018-05-15--Adam Jordens
+13	6	gate
+
+--8072b42e--2018-05-10--Cameron Fieber
+26	0	gate
+
+--4da0ea84--2018-05-11--Dibyo Mukherjee
+1	1	gate
+
+--523b2361--2018-05-10--Matt Duftler
+1	0	gate
+69	0	gate
+1	0	gate
+
+--2823dedf--2018-05-09--Travis Tomsu
+18	7	gate
+9	1	gate
+
+--72622382--2018-05-08--Joon Lim
+4	4	gate
+3	3	gate
+1	1	gate
+
+--5b6251a7--2018-05-03--Rob Zienert
+0	4	gate
+
+--b9a00ca6--2018-05-03--Jacob Kiefer
+0	1	gate
+51	0	gate
+21	0	gate
+5686	0	gate
+
+--a0543f91--2018-05-02--Tomás Lin
+2	1	gate
+3	2	gate
+2	2	gate
+2	2	gate
+
+--09e63b3b--2018-04-26--Asher Feldman
+26	1	gate
+45	9	gate
+3	0	gate
+9	7	gate
+5	4	gate
+5	0	gate
+59	0	gate
+70	0	gate
+7	4	gate
+39	13	gate
+8	7	gate
+5	3	gate
+0	4	gate
+49	12	gate
+4	3	gate
+44	0	gate
+11	6	gate
+10	3	gate
+
+--70fd5da2--2018-04-26--Stephen Chen
+5	0	gate
+220	0	gate
+88	0	gate
+1	1	gate
+224	0	gate
+
+--039ce521--2018-04-24--Tomás Lin
+1	1	gate
+0	1	gate
+
+--3b018e95--2018-04-24--Tomás Lin
+6	2	gate
+
+--d7555303--2018-04-20--Jon Schneider
+1	1	gate
+-	-	gradle/wrapper/gradle-wrapper.jar
+1	2	gate
+42	30	gate
+4	10	gate
+
+--2829ff64--2018-04-20--Rob Zienert
+1	1	gate
+8	1	gate
+
+--78e3529e--2018-04-19--Jacob Kiefer
+15	9	gate
+4	4	gate
+6	0	gate
+8	1	gate
+8	7	gate
+7	7	gate
+3	0	gate
+8	4	gate
+2	2	gate
+9	9	gate
+6	9	gate
+3	6	gate
+4	4	gate
+4	5	gate
+2	6	gate
+9	7	gate
+5	0	gate
+
+--f179eebd--2018-04-19--Sergey Reshetnyak
+1	1	gate
+
+--7f719951--2018-04-04--Lars Wander
+1	1	gate
+
+--b7a3d869--2018-04-04--Lars Wander
+4	0	gate
+
+--2529e5d8--2018-03-28--Daniel Peach
+1	0	gate
+
+--2c4dbffa--2018-03-26--Adam Jordens
+4	0	gate
+
+--315b17e4--2018-03-21--Tomás Lin
+8	2	gate
+5	2	gate
+
+--4c9bf1fb--2018-03-19--Matt Duftler
+1	1	gate
+
+--1f71a6b1--2018-03-18--Adam Jordens
+19	27	gate
+
+--eb2120bb--2018-03-17--Adam Jordens
+19	20	gate
+34	0	gate
+
+--4ba994d1--2018-03-16--Scott Bloch-Wehba-Seaward
+3	2	gate
+2	2	gate
+1	1	gate
+2	2	gate
+
+--44e6f9f1--2018-03-14--Adam Jordens
+2	2	gate
+
+--52a62e27--2018-03-12--Rob Zienert
+1	0	gate
+
+--afcf2efd--2018-03-07--Justin Reynolds
+65	0	gate
+112	0	gate
+41	0	gate
+
+--ecf61b1c--2018-03-01--Eric Zimanyi
+3	2	gate
+13	8	gate
+
+--edd0ad3b--2018-02-14--Chris Thielen
+2	2	gate
+2	2	gate
+1	1	gate
+
+--454abc73--2018-02-09--Cameron Fieber
+8	2	gate
+21	4	gate
+0	9	gate
+7	16	gate
+
+--6ae50b8a--2018-02-08--Daniel Williams
+1	1	gate
+
+--b04c5ed0--2018-02-01--Matt Duftler
+12	0	gate
+10	0	gate
+6	0	gate
+
+--50448066--2018-02-01--Scott Bloch-Wehba-Seaward
+0	1	gate
+
+--4b5fea1f--2018-01-31--Chris Berry
+2	2	gate
+7	5	gate
+30	1	gate
+16	5	gate
+5	8	gate
+5	1	gate
+85	0	gate
+0	85	gate
+3	2	gate
+3	3	gate
+2	0	gate
+
+--64ffd8ef--2018-01-31--Matt Duftler
+1	0	gate
+7	0	gate
+10	0	gate
+4	0	gate
+
+--97264ced--2018-01-29--Bruno Carrier
+21	0	gate
+24	0	gate
+
+--03b24ad5--2018-01-29--Bruno Carrier
+8	0	gate
+2	2	gate
+
+--7ac149ab--2018-01-17--Adam Jordens
+5	0	gate
+49	0	gate
+
+--dfd30b1a--2018-01-11--Chris Berry
+1	1	gate
+
+--723d5149--2018-01-11--Bruno Carrier
+41	0	gate
+24	0	gate
+
+--3013861e--2018-01-11--Bruno Carrier
+21	0	gate
+24	0	gate
+
+--358046b1--2018-01-04--Cameron Fieber
+1	0	gate
+17	4	gate
+29	21	gate
+
+--63017bd9--2018-01-04--Matt Duftler
+1	1	gate
+2	2	gate
+2	3	gate
+
+--b28ad380--2017-12-21--Adam Jordens
+1	1	gate
+
+--5ea08ec3--2017-12-21--Mike Rowehl
+12	3	gate
+100	0	gate
+24	0	gate
+
+--02c230cd--2017-12-20--Cameron Fieber
+3	3	gate
+1	1	gate
+1	1	gate
+
+--4f2ae5f5--2017-12-12--Lars Wander
+4	0	gate
+42	0	gate
+1	0	gate
+47	0	gate
+1	0	gate
+
+--1bd7a6e1--2017-12-06--Travis Tomsu
+8	1	gate
+37	0	gate
+
+--8ab12cd0--2017-12-04--Will Gorman
+6	0	gate
+7	0	gate
+17	1	gate
+
+--4e98950c--2017-12-04--Daniel Peach
+16	10	gate
+25	16	gate
+5	5	gate
+44	21	gate
+78	0	gate
+18	9	gate
+
+--c251f480--2017-11-30--Brandon Nelson
+1	1	gate
+
+--236569ab--2017-11-28--Brandon Nelson
+14	0	gate
+
+--a848608e--2017-11-16--Lars Wander
+5	0	gate
+39	0	gate
+66	0	gate
+
+--a093df17--2017-11-14--Chris Thielen
+1	0	gate
+1	1	gate
+18	10	gate
+7	1	gate
+
+--7b8c36c3--2017-11-13--Chris Berry
+12	1	gate
+34	0	gate
+
+--645302a6--2017-11-10--Daniel Peach
+3	0	gate
+45	0	gate
+38	0	gate
+
+--27ba75ce--2017-11-09--Joel Vasallo
+4	1	gate
+
+--85c56f9c--2017-11-08--Lars Wander
+1	0	gate
+1	0	gate
+
+--b33909b2--2017-11-06--Jørgen Jervidalo
+2	3	gate
+2	2	gate
+1	1	gate
+
+--7bcb07ff--2017-11-02--Matt Duftler
+2	2	gate
+2	2	gate
+4	6	gate
+2	2	gate
+
+--6da98e15--2017-10-27--Rob Zienert
+1	1	gate
+
+--041abb33--2017-10-27--Daniel Peach
+3	2	gate
+1	1	gate
+2	2	gate
+1	1	gate
+
+--c43ebf57--2017-10-27--Rob Zienert
+2	3	gate
+
+--8da704a5--2017-10-23--Jacob Kiefer
+39	0	gate
+40	0	gate
+3	1	gate
+
+--a56e8563--2017-10-18--Jacob Kiefer
+3	0	gate
+41	0	gate
+47	0	gate
+
+--9301325c--2017-10-17--Rob Zienert
+17	0	gate
+13	1	gate
+
+--5b59d273--2017-10-12--Asher Feldman
+1	0	gate
+2	2	gate
+
+--fd8e4503--2017-10-12--Rob Zienert
+5	2	gate
+
+--3e2d25f9--2017-10-06--Daniel Peach
+13	0	gate
+6	0	gate
+
+--14ddb9c8--2017-09-25--Will Gorman
+7	0	gate
+7	0	gate
+15	0	gate
+
+--b0a225b3--2017-10-03--Asher Feldman
+1	1	gate
+
+--0d15d000--2017-10-03--Lars Wander
+1	0	gate
+
+--a6398504--2017-10-03--Asher Feldman
+1	1	gate
+
+--82919714--2017-09-28--Chris Berry
+1	1	gate
+
+--e9fff3d8--2017-09-22--Cameron Fieber
+1	1	gate
+
+--0b69e0ac--2017-09-21--Asher Feldman
+4	1	gate
+40	0	gate
+
+--a3152ec0--2017-09-20--Asher Feldman
+1	1	gate
+7	3	gate
+1	1	gate
+3	1	gate
+3	1	gate
+4	1	gate
+4	2	gate
+10	9	gate
+10	3	gate
+10	4	gate
+3	1	gate
+
+--23697327--2017-09-20--Travis Tomsu
+2	0	gate
+0	1	gate
+1	0	gate
+1	2	gate
+27	0	gate
+152	0	gate
+32	0	gate
+40	0	gate
+55	0	gate
+48	0	gate
+129	0	gate
+49	0	gate
+3	0	gate
+14	0	gate
+26	0	gate
+
+--c17dba1e--2017-09-20--Omar White
+45	0	gate
+11	2	gate
+3	0	gate
+50	0	gate
+27	0	gate
+28	0	gate
+28	0	gate
+27	0	gate
+
+--9fcdc901--2017-09-18--Daniel Peach
+6	0	gate
+3	0	gate
+
+--869ac735--2017-09-18--Emily Burns
+1	1	gate
+1	1	gate
+
+--3fc9ec5d--2017-09-08--Travis Tomsu
+1	1	gate
+
+--da511b8b--2017-09-01--Cameron Fieber
+3	0	gate
+
+--1e480e04--2017-08-31--Adam Jordens
+12	0	gate
+65	0	gate
+53	0	gate
+
+--a94e7d68--2017-08-30--Emily Burns
+1	1	gate
+1	1	gate
+
+--14107c71--2017-08-29--Emily Burns
+1	1	gate
+2	2	gate
+1	1	gate
+1	1	gate
+1	1	gate
+
+--20a9e119--2017-07-27--Travis Tomsu
+3	13	gate
+1	1	gate
+8	0	gate
+12	8	gate
+2	2	gate
+1	1	gate
+0	75	gate
+0	50	gate
+1	9	gate
+8	4	gate
+1	23	gate
+2	2	gate
+2	2	gate
+3	5	gate
+31	49	gate
+3	7	gate
+0	37	gate
+0	109	gate
+0	137	gate
+0	51	gate
+0	80	gate
+0	145	gate
+5	9	gate
+1	5	gate
+2	22	gate
+1	0	gate
+1	1	gate
+1	1	gate
+0	77	gate
+0	194	gate
+
+--4e7b32ea--2017-08-24--Daniel Peach
+11	2	gate
+2	2	gate
+
+--7c0a50ab--2017-08-24--Rob Zienert
+22	12	gate
+
+--1c799d1f--2017-08-23--Adam Gordon
+2	1	gate
+11	4	gate
+2	2	gate
+1	1	gate
+
+--38282620--2017-08-09--Rob Zienert
+4	2	gate
+4	0	gate
+2	1	gate
+4	2	gate
+
+--62cb7bf2--2017-08-08--Daniel Peach
+38	0	gate
+3	0	gate
+
+--2eca1da9--2017-08-07--Chris Berry
+5	1	gate
+10	3	gate
+
+--ae60d44c--2017-08-04--Rob Zienert
+1	1	gate
+3	1	gate
+
+--5501a696--2017-08-02--Chris Berry
+7	0	gate
+
+--65f29269--2017-08-01--Rob Zienert
+4	0	gate
+49	2	gate
+21	0	gate
+27	7	gate
+
+--f1e9b879--2017-07-31--Rob Zienert
+22	3	gate
+44	0	gate
+
+--f72af826--2017-07-31--Rob Zienert
+0	4	gate
+3	53	gate
+0	21	gate
+4	26	gate
+
+--acd93565--2017-07-31--Rob Zienert
+0	4	gate
+3	53	gate
+0	21	gate
+4	26	gate
+
+--a9eeca3c--2017-07-31--Rob Zienert
+--609bdad5--2017-07-31--Rob Zienert
+--28159eeb--2017-07-31--Rob Zienert
+--c82496e5--2017-07-27--Jeyrs Chabu
+32	8	gate
+29	0	gate
+29	0	gate
+34	3	gate
+
+--a8d373b6--2017-07-25--Daniel Peach
+66	0	gate
+0	52	gate
+3	0	gate
+22	0	gate
+11	2	gate
+
+--616f6e97--2017-07-21--Daniel Peach
+18	0	gate
+26	0	gate
+
+--597355cc--2017-07-21--Rob Zienert
+4	0	gate
+53	3	gate
+21	0	gate
+26	4	gate
+
+--aa015e8f--2017-07-18--Rob Fletcher
+2	13	gate
+0	6	gate
+0	4	gate
+
+--f3c17627--2017-07-16--Adam Jordens
+1	1	gate
+
+--f8bbe9eb--2017-07-13--Jeyrs Chabu
+5	0	gate
+9	0	gate
+6	0	gate
+
+--f0dba294--2017-07-11--Adam Jordens
+1	1	gate
+1	1	gate
+0	60	gate
+0	63	gate
+1	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+0	26	gate
+0	26	gate
+1	1	gate
+1	0	gate
+
+--d58f39c5--2017-07-10--Adam Jordens
+2	7	gate
+60	0	gate
+63	0	gate
+5	10	gate
+2	16	gate
+2	7	gate
+2	8	gate
+2	8	gate
+26	0	gate
+26	0	gate
+2	8	gate
+0	4	gate
+29	0	gate
+
+--636c72ce--2017-07-10--Travis Tomsu
+0	2	gate
+
+--22bb4d5e--2017-07-10--Travis Tomsu
+16	0	gate
+2	2	gate
+
+--18f17cf9--2017-07-09--Daniel Peach
+5	0	gate
+7	0	gate
+58	0	gate
+22	0	gate
+49	0	gate
+28	0	gate
+
+--935d23f2--2017-07-05--Travis Tomsu
+8	1	gate
+
+--ee212650--2017-06-27--Travis Tomsu
+1	1	gate
+9	3	gate
+4	0	gate
+
+--51e740ac--2017-06-27--Travis Tomsu
+1	0	gate
+19	2	gate
+4	0	gate
+
+--4be8aafa--2017-06-21--Justin Reynolds
+6	0	gate
+48	0	gate
+56	0	gate
+
+--0fc870cb--2017-06-15--Chris Berry
+1	1	gate
+
+--95a70137--2017-06-08--Chris Berry
+13	2	gate
+
+--5c509fd6--2017-06-08--Rob Zienert
+10	7	gate
+
+--92b145bc--2017-06-07--Rob Zienert
+6	8	gate
+4	2	gate
+6	4	gate
+6	10	gate
+5	5	gate
+6	5	gate
+4	4	gate
+7	7	gate
+8	3	gate
+
+--01dc8a87--2017-06-07--Travis Tomsu
+1	1	gate
+1	0	gate
+7	6	gate
+
+--b34bc852--2017-06-07--Rob Zienert
+30	4	gate
+4	2	gate
+7	4	gate
+28	18	gate
+4	2	gate
+9	5	gate
+9	6	gate
+7	4	gate
+7	6	gate
+12	8	gate
+6	4	gate
+4	2	gate
+10	7	gate
+7	4	gate
+5	2	gate
+3	0	gate
+6	6	gate
+11	7	gate
+4	3	gate
+6	6	gate
+3	3	gate
+2	2	gate
+2	2	gate
+5	5	gate
+8	7	gate
+4	4	gate
+4	4	gate
+11	11	gate
+6	6	gate
+4	4	gate
+12	11	gate
+38	0	gate
+8	0	gate
+5	1	gate
+1	1	gate
+1	1	gate
+8	3	gate
+
+--6e259157--2017-06-06--Justin Reynolds
+7	1	gate
+
+--40a6c004--2017-06-02--Rob Zienert
+2	2	gate
+
+--1a72b0dc--2017-06-01--Travis Tomsu
+1	1	gate
+
+--b4e49473--2017-05-31--Rob Zienert
+14	0	gate
+2	4	gate
+
+--0de92f35--2017-05-30--Rob Zienert
+34	15	gate
+1	1	gate
+
+--c27f7052--2017-05-30--Rob Zienert
+1	1	gate
+6	0	gate
+17	0	gate
+
+--0f0b0162--2017-05-26--Chris Berry
+2	4	gate
+2	2	gate
+
+--381b6bad--2017-05-26--Rob Zienert
+6	0	gate
+9	1	gate
+5	1	gate
+
+--0d4dee6a--2017-05-23--Jørgen Jervidalo
+0	44	gate
+55	0	gate
+0	40	gate
+44	0	gate
+0	1	gate
+4	0	gate
+
+--0d5c7f76--2017-05-22--Travis Tomsu
+1	1	gate
+
+--af718c3a--2017-05-18--Rob Zienert
+3	2	gate
+17	6	gate
+36	3	gate
+35	0	gate
+47	0	gate
+21	0	gate
+1	1	gate
+13	16	gate
+140	0	gate
+11	46	gate
+37	0	gate
+1	1	gate
+94	0	gate
+20	49	gate
+
+--cb47c620--2017-05-17--Rob Zienert
+17	2	gate
+
+--e11382b1--2017-05-15--simonlord
+1	0	gate
+
+--15c07365--2017-05-12--Travis Tomsu
+14	21	gate
+
+--64d68ad0--2017-05-11--Daniel Peach
+13	0	gate
+4	0	gate
+4	0	gate
+
+--250f422f--2017-05-10--Albert Manyà
+1	1	gate
+81	0	gate
+
+--d701fbb7--2017-05-09--Travis Tomsu
+40	0	gate
+
+--452c6aba--2017-05-08--Daniel Peach
+9	0	gate
+
+--ebb622de--2017-05-08--Daniel Peach
+10	0	gate
+3	0	gate
+3	0	gate
+3	0	gate
+5	0	gate
+4	0	gate
+3	0	gate
+
+--7e34e8e8--2017-05-08--Matt Duftler
+4	0	gate
+3	0	gate
+3	0	gate
+2	0	gate
+
+--5864ac20--2017-04-19--Cameron Fieber
+1	1	gate
+0	1	gate
+45	4	gate
+
+--3525e484--2017-05-04--Matt Duftler
+15	0	gate
+
+--a5d3a735--2017-05-03--Rob Fletcher
+12	7	gate
+4	0	gate
+4	0	gate
+
+--ae721e50--2017-04-26--Rob Zienert
+126	0	gate
+45	0	gate
+9	0	gate
+76	0	gate
+
+--b39864b1--2017-04-25--Cameron Fieber
+1	1	gate
+
+--27ce25be--2017-04-25--Rob Fletcher
+1	1	gate
+7	8	gate
+17	16	gate
+5	4	gate
+3	2	gate
+
+--0683619f--2017-04-25--Chris Berry
+13	1	gate
+4	0	gate
+
+--3bfdf8d4--2017-04-12--Rob Zienert
+8	0	gate
+67	0	gate
+
+--d43e56a2--2017-04-07--Tomás Lin
+--32f5d758--2017-04-07--Tomas Lin
+6	0	gate
+7	0	gate
+6	0	gate
+
+--d7cc3247--2017-04-07--Travis Tomsu
+1	1	gate
+
+--4ea14f74--2017-04-06--Chris Berry
+--6975e2de--2017-04-06--anotherchrisberry
+2	1	gate
+3	2	gate
+2	2	gate
+
+--b3c7e4c0--2017-04-05--Tomás Lin
+--aac208d0--2017-04-05--Tomas Lin
+6	1	gate
+
+--cc126506--2017-04-05--Travis Tomsu
+1	1	gate
+2	1	gate
+
+--78b1dab6--2017-04-05--Tomás Lin
+--ff4d6062--2017-04-04--Tomas Lin
+2	2	gate
+10	7	gate
+28	5	gate
+2	2	gate
+
+--f4f058ed--2017-04-03--Travis Tomsu
+0	4	gate
+
+--03a8b2e6--2017-04-03--Michael Tweten
+10	0	gate
+
+--93052614--2017-03-30--Travis Tomsu
+1	0	gate
+74	0	gate
+13	0	gate
+
+--4050f7bd--2017-03-29--Travis Tomsu
+1	1	gate
+1	0	gate
+1	1	gate
+1	1	gate
+8	5	gate
+
+--19c46685--2017-03-28--Rob Zienert
+4	1	gate
+29	0	gate
+10	3	gate
+96	0	gate
+
+--43e4cffa--2017-03-28--Rob Zienert
+11	3	gate
+4	0	gate
+17	0	gate
+
+--76d2545a--2017-03-27--Cameron Fieber
+1	1	gate
+0	4	gate
+
+--319d93d5--2017-03-27--Rob Zienert
+6	4	gate
+17	3	gate
+
+--6ed2b990--2017-03-24--Chris Berry
+--5aa1588f--2017-03-24--Daniel Peach
+2	2	gate
+
+--ca41245a--2017-03-23--Travis Tomsu
+1	1	gate
+4	4	gate
+28	21	gate
+
+--92e00d5a--2017-03-22--Jacob Kiefer
+4	0	gate
+
+--263e63ba--2017-03-18--Zan Thrash
+--6381b58e--2017-03-18--Zan Thrash
+--b8244fbc--2017-03-17--Travis Tomsu
+5	0	gate
+
+--72398e8d--2017-03-17--Zan Thrash
+--90dc7e94--2017-03-17--Zan Thrash
+4	2	gate
+
+--323cc779--2017-03-09--Travis Tomsu
+1	2	gate
+1	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+7	7	gate
+1	1	gate
+
+--4525aef0--2017-03-10--Cameron Fieber
+1	0	gate
+
+--08e46651--2017-03-10--Cameron Fieber
+1	1	gate
+4	0	gate
+
+--ad7691f8--2017-03-07--Rob Zienert
+4	1	gate
+
+--a69acb58--2017-03-07--Rob Zienert
+--27e8230b--2017-03-07--Rob Zienert
+1	0	gate
+9	2	gate
+2	0	gate
+
+--0b26517b--2017-03-02--Tomás Lin
+--6a893985--2017-03-02--Tomas Lin
+0	1	gate
+0	57	gate
+0	52	gate
+0	85	gate
+0	11	gate
+0	12	gate
+0	20	gate
+0	68	gate
+0	22	gate
+0	62	gate
+0	43	gate
+0	36	gate
+0	41	gate
+0	41	gate
+0	196	gate
+0	42	gate
+0	43	gate
+0	38	gate
+0	42	gate
+0	38	gate
+0	42	gate
+0	271	gate
+0	36	gate
+0	53	gate
+0	36	gate
+0	38	gate
+0	42	gate
+0	44	gate
+0	38	gate
+0	38	gate
+0	43	gate
+0	58	gate
+0	59	gate
+0	55	gate
+0	34	gate
+0	1	gate
+1	1	gate
+
+--16accbd4--2017-03-02--Chris Berry
+--afc3816f--2017-03-02--Adam Gordon
+2	1	gate
+3	2	gate
+
+--05b7b74f--2017-03-01--Jacob Kiefer
+14	0	gate
+
+--71a2c085--2017-03-01--Chris Berry
+--89f0787c--2017-02-28--anotherchrisberry
+11	3	gate
+
+--f7293689--2017-02-28--Chris Berry
+--9e870ec5--2017-02-20--Jørgen Jervidalo
+3	2	gate
+2	2	gate
+1	1	gate
+1	1	gate
+
+--29ec6ef0--2017-02-24--Travis Tomsu
+2	0	gate
+
+--65658d85--2017-02-22--Travis Tomsu
+0	2	gate
+
+--36ff3e14--2017-02-21--Rob Zienert
+--c94ea3ac--2017-02-14--Rob Zienert
+13	0	gate
+43	0	gate
+52	0	gate
+40	0	gate
+21	0	gate
+87	0	gate
+158	0	gate
+131	0	gate
+
+--df162375--2017-02-20--Tomás Lin
+--727367d1--2017-02-20--Rob Umberger
+5	3	gate
+2	2	gate
+2	1	gate
+
+--527f5372--2017-02-17--Lars Wander
+0	4	gate
+
+--d665a157--2017-02-15--Matt Duftler
+1	0	gate
+
+--b909263c--2017-02-14--Chris Berry
+--9bf82369--2017-02-14--anotherchrisberry
+1	1	gate
+
+--0b9b37ac--2017-02-14--Chris Berry
+--b4cdb3ac--2017-02-14--anotherchrisberry
+55	0	gate
+
+--dd546272--2017-02-14--Lars Wander
+1	1	gate
+
+--20f67e39--2017-02-14--Jacob Kiefer
+1	1	gate
+
+--c94814ed--2017-02-14--Travis Tomsu
+9	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+8	0	gate
+
+--7e1e80b6--2017-02-13--Daniel Peach
+7	2	gate
+5	3	gate
+
+--0ef800df--2017-02-13--Travis Tomsu
+1	1	gate
+2	1	gate
+
+--279cc4a7--2017-02-13--Greg Turnquist
+1	0	gate
+
+--ac78d9d4--2017-02-10--Rob Zienert
+--cd4a3bf9--2017-02-07--Rob Zienert
+41	0	gate
+0	1	gate
+6	0	gate
+4	0	gate
+
+--292da771--2017-02-07--Travis Tomsu
+4	3	gate
+9	0	gate
+2	1	gate
+11	0	gate
+
+--f85984e6--2017-02-03--Jacob Kiefer
+2	0	gate
+
+--da64f46c--2017-01-26--Travis Tomsu
+1	1	gate
+
+--0b016de8--2017-01-25--Travis Tomsu
+9	2	gate
+4	1	gate
+4	0	gate
+11	1	gate
+
+--b92c3e4c--2017-01-24--Adam Jordens
+--27b43bf4--2017-01-24--Adam Jordens
+16	1	gate
+
+--0f51454b--2017-01-18--Lars Wander
+8	0	gate
+
+--3ef571c2--2017-01-12--Rob Zienert
+--0cb1e166--2017-01-12--Rob Zienert
+0	2	gate
+11	1	gate
+27	0	gate
+
+--1259aeff--2017-01-11--Travis Tomsu
+1	0	gate
+119	0	gate
+1	0	gate
+
+--6511147e--2017-01-09--Adam Jordens
+--f4232f9a--2017-01-08--Adam Jordens
+9	0	gate
+104	0	gate
+
+--98cd05d1--2017-01-04--Cameron Fieber
+14	25	gate
+62	0	gate
+61	0	gate
+22	0	gate
+79	0	gate
+
+--89b3e1c9--2017-01-05--Travis Tomsu
+2	2	gate
+18	0	gate
+
+--15e5c897--2016-12-29--Rob Zienert
+--f1fd2c93--2016-12-29--Rob Zienert
+1	1	gate
+
+--7fba5bd8--2016-12-28--Rob Zienert
+--ebebf11b--2016-12-28--Rob Zienert
+25	2	gate
+10	0	gate
+
+--22372d96--2016-12-21--Adam Jordens
+--5d3f3205--2016-12-21--Adam Jordens
+4	4	gate
+
+--3299b610--2016-12-16--Cameron Fieber
+1	1	gate
+2	70	gate
+
+--99bfd851--2016-12-16--Chris Berry
+--ec814a7c--2016-12-15--anotherchrisberry
+60	2	gate
+
+--93b5b438--2016-12-15--Adam Jordens
+--fbc10fea--2016-12-14--Adam Jordens
+45	15	gate
+55	0	gate
+-	-	gate-web/src/test/resources/saml-client.jks
+
+--931ec22e--2016-12-15--Matt Duftler
+3	2	gate
+4	2	gate
+2	2	gate
+2	2	gate
+1	1	gate
+
+--2219e141--2016-12-07--Chris Berry
+--5d3cd224--2016-12-07--anotherchrisberry
+14	1	gate
+
+--f6b0ed49--2016-12-01--Chris Berry
+--f7bf17bd--2016-12-01--anotherchrisberry
+1	1	gate
+
+--0a8c84ac--2016-12-01--Chris Berry
+--85aa41a6--2016-11-24--anotherchrisberry
+4	0	gate
+1	1	gate
+11	2	gate
+
+--5d6c82af--2016-11-22--Adam Jordens
+--f682aa22--2016-11-22--Adam Jordens
+1	1	gate
+
+--982e42aa--2016-11-22--Adam Jordens
+--741bed84--2016-11-22--Adam Jordens
+1	1	gate
+
+--cc8dee6d--2016-11-22--Jeyrs Chabu
+--26b2a96b--2016-11-22--jeyrs
+6	0	gate
+6	0	gate
+4	0	gate
+
+--4ed3d7ab--2016-11-17--Cameron Fieber
+23	0	gate
+7	2	gate
+4	1	gate
+8	0	gate
+2	2	gate
+
+--03641aa6--2016-11-17--Steven Kim
+--992db66a--2016-11-17--Travis Tomsu
+1	1	gate
+
+--7a08633d--2016-11-17--Travis Tomsu
+1	2	gate
+5	1	gate
+
+--f34cc272--2016-11-17--Travis Tomsu
+64	0	gate
+27	14	gate
+
+--da457c6c--2016-11-12--Adam Jordens
+--b822ce46--2016-11-12--Adam Jordens
+0	1	gate
+4	1	gate
+2	2	gate
+
+--fc7677e3--2016-11-11--Adam Jordens
+--e674628c--2016-11-11--Adam Jordens
+25	6	gate
+41	0	gate
+
+--467e1336--2016-11-09--Cameron Fieber
+4	4	gate
+
+--52fffbe6--2016-11-08--Jeyrs Chabu
+--790abec3--2016-11-04--jeyrs
+5	1	gate
+5	0	gate
+7	1	gate
+9	0	gate
+7	1	gate
+56	0	gate
+57	0	gate
+
+--009f8a76--2016-11-04--Adam Jordens
+--5b388276--2016-11-03--Adam Jordens
+6	0	gate
+55	0	gate
+46	0	gate
+
+--0c538f95--2016-11-01--Travis Tomsu
+1	1	gate
+5	0	gate
+28	0	gate
+
+--f45067e8--2016-10-26--Eric Wiseblatt
+--a42ebb00--2016-08-12--Eric Wiseblatt
+1	1	gate
+1	0	gate
+
+--377c2fe9--2016-10-24--Adam Jordens
+--81e126ae--2016-10-24--Adam Jordens
+7	3	gate
+
+--8a7eea47--2016-10-19--Rob Zienert
+--51967a59--2016-10-19--Rob Zienert
+8	1	gate
+15	0	gate
+
+--b97102da--2016-10-18--Travis Tomsu
+1	1	gate
+
+--9e9cf301--2016-10-13--Cameron Fieber
+--84c5e979--2016-10-13--Cameron Fieber
+2	2	gate
+
+--b86e5cc5--2016-10-13--Matt Duftler
+1	1	gate
+
+--131e65d0--2016-10-13--Matt Duftler
+1	0	gate
+10	1	gate
+14	0	gate
+5	0	gate
+
+--855b311b--2016-10-12--Cameron Fieber
+--c2d3dc15--2016-10-12--Cameron Fieber
+13	7	gate
+3	1	gate
+7	3	gate
+12	11	gate
+20	19	gate
+1	1	gate
+
+--b8a615bd--2016-10-12--Travis Tomsu
+1	1	gate
+3	0	gate
+
+--1fc576e8--2016-10-12--Travis Tomsu
+3	0	gate
+2	0	gate
+21	5	gate
+4	0	gate
+0	1	gate
+27	0	gate
+8	0	gate
+18	6	gate
+0	45	gate
+6	0	gate
+6	1	gate
+
+--2c9b4839--2016-10-10--Jeyrs Chabu
+--96d3765a--2016-10-06--jeyrs
+1	9	gate
+0	10	gate
+
+--ce3edaf9--2016-10-10--Adam Jordens
+--716684e4--2016-10-10--Adam Jordens
+5	1	gate
+15	0	gate
+
+--4f8575fa--2016-10-10--Travis Tomsu
+2	3	gate
+2	2	gate
+
+--0ce80311--2016-10-09--Adam Jordens
+--76ccad0d--2016-10-09--Adam Jordens
+9	1	gate
+6	1	gate
+
+--3a920f2f--2016-10-07--Adam Jordens
+--954552ff--2016-10-06--Adam Jordens
+12	0	gate
+112	0	gate
+27	0	gate
+124	0	gate
+
+--903b16cd--2016-10-05--Travis Tomsu
+11	1	gate
+
+--20092a12--2016-09-29--Travis Tomsu
+2	8	gate
+38	25	gate
+
+--e9b78465--2016-09-28--Jeyrs Chabu
+--73e9496e--2016-09-28--jeyrs
+1	1	gate
+
+--7b763193--2016-09-27--Jeyrs Chabu
+--ffa01172--2016-09-26--jeyrs
+9	1	gate
+4	1	gate
+
+--092c3973--2016-09-23--Chris Berry
+--0d8e4ec4--2016-09-22--Adam Jordens
+3	1	gate
+4	2	gate
+2	2	gate
+
+--0b45ce0d--2016-09-22--Cameron Fieber
+--77697835--2016-09-22--Cameron Fieber
+5	3	gate
+
+--e44ff184--2016-09-14--Jeyrs Chabu
+--0edb7111--2016-09-12--jeyrs
+4	4	gate
+
+--a6529887--2016-09-12--Greg BOUGEARD
+6	1	gate
+3	2	gate
+
+--214c0ad1--2016-09-12--Joel Vasallo
+0	1	gate
+
+--20a563be--2016-08-31--Adam Jordens
+--7ae4697c--2016-08-24--Joel Vasallo
+1	1	gate
+
+--6ce2318f--2016-08-24--Joel Vasallo
+2	0	gate
+1	1	gate
+3	2	gate
+
+--a46162fd--2016-08-17--danielpeach
+--6c26eff5--2016-08-15--Noah Webb
+51	0	gate
+39	0	gate
+9	0	gate
+
+--c65b1808--2016-08-14--Chris Berry
+--96eeae6d--2016-08-14--anotherchrisberry
+1	0	gate
+
+--ba62e3e8--2016-08-11--Chris Berry
+--9d97c2b4--2016-08-11--anotherchrisberry
+9	1	gate
+2	2	gate
+
+--ccdd7a2a--2016-08-05--Adam Jordens
+--1c96cc6c--2016-08-05--Adam Jordens
+1	0	gate
+
+--a33ab71f--2016-08-04--Adam Jordens
+--c367cd8b--2016-08-04--Adam Jordens
+10	1	gate
+
+--773ae412--2016-07-28--Travis Tomsu
+7	0	gate
+8	1	gate
+6	0	gate
+4	0	gate
+10	0	gate
+
+--1af67001--2016-07-27--Travis Tomsu
+6	0	gate
+12	3	gate
+46	2	gate
+5	1	gate
+6	0	gate
+3	0	gate
+4	1	gate
+4	1	gate
+40	0	gate
+35	0	gate
+
+--160b4eda--2016-07-21--Rob Fletcher
+--fd805578--2016-07-21--anotherchrisberry
+1	1	gate
+74	0	gate
+
+--f0831686--2016-07-21--Rob Fletcher
+--14c3cb14--2016-07-21--Rob Fletcher
+3	3	gate
+
+--0a39cf4f--2016-07-20--Chris Berry
+--71cc36af--2016-07-18--anotherchrisberry
+1	0	gate
+7	0	gate
+
+--1f6b96b4--2016-07-15--Greg BOUGEARD
+8	8	gate
+
+--a5d3fef4--2016-07-12--Rob Fletcher
+--1ecfb45a--2016-07-12--Rob Fletcher
+6	4	gate
+
+--1287e81f--2016-07-11--Chris Berry
+--a061d2f4--2016-07-11--anotherchrisberry
+4	4	gate
+2	2	gate
+2	2	gate
+30	0	gate
+
+--5e22b13b--2016-07-11--Adam Jordens
+--6589dc52--2016-07-09--Adam Jordens
+2	1	gate
+9	4	gate
+2	2	gate
+
+--17e641cb--2016-07-06--Cameron Fieber
+--16a18e6d--2016-07-06--robertsigler
+1	0	gate
+
+--a432bff2--2016-07-01--Greg BOUGEARD
+1	1	gate
+
+--e59baa84--2016-06-30--Cameron Fieber
+--43f12802--2016-06-27--Cameron Fieber
+6	3	gate
+
+--9dc3125d--2016-06-28--Rob Fletcher
+--d8bd2de7--2016-06-28--Rob Fletcher
+9	2	gate
+
+--afcb3d21--2016-06-27--Travis Tomsu
+1	1	gate
+7	69	gate
+113	0	gate
+52	0	gate
+
+--fc8f7eb8--2016-06-24--Cameron Fieber
+19	1	gate
+
+--0808521d--2016-06-22--Jacob Kiefer
+15	0	gate
+2	2	gate
+3	3	gate
+
+--eb95f4bb--2016-06-08--Chris Berry
+--5904aa50--2016-06-08--anotherchrisberry
+3	1	gate
+
+--d8015bd5--2016-06-08--Chris Berry
+--ba7fbad7--2016-06-08--anotherchrisberry
+6	3	gate
+
+--cb34c562--2016-06-08--Travis Tomsu
+5	3	gate
+
+--0732238f--2016-06-07--Greg BOUGEARD
+1	0	gate
+75	0	gate
+44	0	gate
+138	0	gate
+49	0	gate
+80	0	gate
+
+--67be92db--2016-06-06--Travis Tomsu
+1	1	gate
+8	3	gate
+3	3	gate
+3	3	gate
+3	3	gate
+3	3	gate
+0	44	gate
+26	15	gate
+4	5	gate
+0	57	gate
+27	30	gate
+
+--7c0ed2cf--2016-06-06--Travis Tomsu
+--52c01a35--2016-06-03--Travis Tomsu
+1	1	gate
+34	8	gate
+1	1	gate
+1	1	gate
+1	1	gate
+54	0	gate
+
+--c763d217--2016-06-06--Lars Wander
+--6cf55cf2--2016-06-06--Lars Wander
+2	1	gate
+3	2	gate
+2	2	gate
+
+--66a854fc--2016-06-03--Adam Jordens
+--db26e943--2016-06-03--Adam Jordens
+1	2	gate
+
+--40a4bc85--2016-06-02--Travis Tomsu
+--9d08fc6b--2016-06-02--Travis Tomsu
+1	5	gate
+2	1	gate
+57	0	gate
+2	2	gate
+
+--35e35786--2016-06-02--Travis Tomsu
+--864166d9--2016-06-02--Travis Tomsu
+2	0	gate
+
+--f0af0464--2016-06-02--Travis Tomsu
+35	0	gate
+
+--9cada32a--2016-06-01--Jacob Kiefer
+22	15	gate
+
+--9fbe3ff0--2016-06-01--Travis Tomsu
+--1fd9486c--2016-06-01--Travis Tomsu
+3	8	gate
+
+--89910549--2016-05-31--Travis Tomsu
+2	0	gate
+
+--ab99773d--2016-05-31--Greg BOUGEARD
+4	4	gate
+4	4	gate
+
+--3e60002d--2016-05-31--Travis Tomsu
+1	1	gate
+0	106	gate
+64	0	gate
+17	0	gate
+31	10	gate
+82	0	gate
+2	2	gate
+0	36	gate
+63	0	gate
+0	66	gate
+30	0	gate
+30	0	gate
+0	27	gate
+51	0	gate
+0	61	gate
+0	46	gate
+0	120	gate
+152	0	gate
+37	0	gate
+84	0	gate
+138	0	gate
+0	101	gate
+0	185	gate
+0	179	gate
+189	0	gate
+27	0	gate
+0	68	gate
+86	0	gate
+102	0	gate
+0	52	gate
+48	0	gate
+77	0	gate
+194	0	gate
+0	125	gate
+
+--ed569f86--2016-05-26--Cameron Fieber
+--13cf36fd--2016-05-23--Cameron Fieber
+6	0	gate
+91	0	gate
+98	0	gate
+59	0	gate
+
+--d1b4a0b2--2016-05-18--Cameron Fieber
+--63723f43--2016-05-17--Cameron Fieber
+65	0	gate
+21	0	gate
+7	4	gate
+5	2	gate
+5	2	gate
+4	1	gate
+4	4	gate
+1	1	gate
+2	2	gate
+4	1	gate
+3	0	gate
+3	0	gate
+
+--75f403dd--2016-05-17--Adam Jordens
+--291f20b1--2016-05-15--Adam Jordens
+1	0	gate
+
+--75d42af1--2016-05-15--Adam Jordens
+--1dbdc039--2016-05-15--Adam Jordens
+9	46	gate
+5	5	gate
+18	60	gate
+
+--38fb4cef--2016-05-15--Adam Jordens
+27	21	gate
+55	0	gate
+55	0	gate
+16	21	gate
+1	1	gate
+39	17	gate
+14	14	gate
+3	3	gate
+
+--bd6d60f5--2016-05-12--Cameron Fieber
+--3a0e0d68--2016-05-12--Cameron Fieber
+6	1	gate
+1	1	gate
+10	3	gate
+1	1	gate
+1	1	gate
+6	5	gate
+1	1	gate
+0	48	gate
+1	1	gate
+2	2	gate
+
+--597c2d15--2016-05-12--Cameron Fieber
+--28ee723d--2016-05-12--Cameron Fieber
+7	3	gate
+0	9	gate
+52	0	gate
+
+--cbdd298e--2016-05-04--Lars Wander
+7	0	gate
+1	0	gate
+8	0	gate
+21	0	gate
+
+--23970b8c--2016-04-27--Tomás Lin
+--a0fe357e--2016-04-26--anotherchrisberry
+1	1	gate
+
+--acb3e586--2016-04-25--Lars Wander
+--3a7e2c11--2016-04-23--Lars Wander
+4	0	gate
+37	0	gate
+44	0	gate
+
+--cac1d08d--2016-04-14--Greg Turnquist
+2	1	gate
+
+--59ac427c--2016-03-23--Chris Berry
+--311f77bc--2016-03-22--chrisb
+16	0	gate
+56	0	gate
+46	0	gate
+
+--73808b03--2016-03-10--Eric Wiseblatt
+--f064df78--2016-03-09--Peter Dai
+2	0	gate
+
+--06b34280--2016-02-21--Adam Jordens
+--965fc7c9--2016-02-21--Adam Jordens
+4	0	gate
+
+--294a5b17--2016-02-17--Adam Jordens
+--baa6244c--2016-02-17--Adam Jordens
+1	1	gate
+
+--e477234e--2016-02-15--Matt Duftler
+--bfa7932c--2016-02-15--duftler
+3	0	gate
+37	0	gate
+2	1	gate
+
+--c8782449--2016-02-10--Chris Berry
+--c2c7e447--2016-02-10--tomaslin
+2	1	gate
+
+--731298c4--2016-02-07--Adam Jordens
+--2897cab2--2016-02-06--Adam Jordens
+4	2	gate
+
+--4666f5e9--2016-02-01--Tomás Lin
+--a03c1294--2016-02-01--tomaslin
+3	16	gate
+2	16	gate
+2	49	gate
+
+--76553c0c--2016-01-29--Rob Fletcher
+--8d06db7c--2016-01-29--Rob Fletcher
+1	1	gate
+
+--593dca2a--2016-01-29--Rob Fletcher
+1	1	gate
+1	1	gate
+5	7	gate
+
+--37a2dc47--2016-01-15--Rob Fletcher
+--ac1579b1--2016-01-15--Rob Fletcher
+1	1	gate
+1	1	gate
+6	10	gate
+3	3	gate
+2	2	gate
+4	4	gate
+
+--4f8a4ad8--2016-01-13--Rob Fletcher
+--f6a93bbe--2016-01-13--Rob Fletcher
+1	1	gate
+1	1	gate
+3	1	gate
+
+--4192a87c--2016-01-13--Adam Jordens
+--a46cd936--2016-01-12--Adam Jordens
+4	6	gate
+
+--2f6e6e6a--2016-01-12--Rob Fletcher
+--7b889cfc--2016-01-12--Rob Fletcher
+1	1	gate
+1	1	gate
+
+--bc218558--2016-01-12--Tomás Lin
+--6f8e480a--2015-12-29--AMeng
+0	26	gate
+0	61	gate
+
+--c4ca24eb--2016-01-11--Adam Jordens
+--f6fe8b6e--2016-01-07--Adam Jordens
+10	0	gate
+8	0	gate
+8	0	gate
+
+--6364f1d1--2016-01-06--Adam Jordens
+--a07e1d1f--2016-01-06--chrisb
+2	2	gate
+15	1	gate
+
+--ca157dac--2015-12-30--Cameron Fieber
+--7ab10a9c--2015-12-30--Cameron Fieber
+4	4	gate
+
+--7bc12753--2015-12-30--Cameron Fieber
+--abcd2806--2015-12-16--Travis Tomsu
+14	14	gate
+6	4	gate
+
+--283942a1--2015-12-14--Travis Tomsu
+23	1	gate
+7	0	gate
+51	0	gate
+60	0	gate
+30	0	gate
+
+--bea874ef--2015-12-23--Cameron Fieber
+--9f90e044--2015-12-23--Cameron Fieber
+1	1	gate
+
+--3568d4a9--2015-12-23--Tomás Lin
+--a85fdf76--2015-12-21--AMeng
+32	6	gate
+63	0	gate
+
+--d4b917fc--2015-12-17--AMeng
+2	0	gate
+16	7	gate
+8	3	gate
+11	6	gate
+114	0	gate
+
+--90851f04--2015-12-17--Chris Berry
+--cd39e856--2015-12-16--chrisb
+4	0	gate
+10	0	gate
+10	0	gate
+
+--18b63f5b--2015-12-17--Adam Jordens
+--8ae350f6--2015-12-16--Adam Jordens
+42	19	gate
+18	2	gate
+
+--70221271--2015-12-07--Adam Jordens
+--e08eecc7--2015-12-07--Adam Jordens
+9	0	gate
+9	1	gate
+43	0	gate
+
+--45fd7aa4--2015-12-07--Cameron Fieber
+--8679d818--2015-12-03--Cameron Fieber
+11	0	gate
+12	0	gate
+22	0	gate
+
+--d0695479--2015-12-04--Tomás Lin
+--b71707f4--2015-12-04--AMeng
+2	0	gate
+
+--df6f09fe--2015-12-03--Tomás Lin
+--df5ceb8f--2015-12-03--Tomás Lin
+1	1	gate
+
+--f95a7bbf--2015-12-01--Cameron Fieber
+--350b744a--2015-11-30--Cameron Fieber
+2	2	gate
+10	0	gate
+0	5	gate
+0	5	gate
+1	1	gate
+
+--e623c604--2015-11-24--Cameron Fieber
+--3bc18dff--2015-11-24--Cameron Fieber
+3	1	gate
+192	0	gate
+0	40	gate
+0	146	gate
+1	1	gate
+3	3	gate
+2	2	gate
+1	1	gate
+2	2	gate
+1	1	gate
+2	2	gate
+2	2	gate
+2	2	gate
+2	2	gate
+2	2	gate
+2	2	gate
+2	2	gate
+7	7	gate
+3	3	gate
+1	1	gate
+2	2	gate
+2	2	gate
+1	1	gate
+4	4	gate
+2	2	gate
+1	1	gate
+3	3	gate
+2	6	gate
+2	12	gate
+1	1	gate
+2	2	gate
+5	5	gate
+6	6	gate
+20	20	gate
+6	6	gate
+5	5	gate
+4	4	gate
+4	4	gate
+7	7	gate
+4	4	gate
+3	9	gate
+7	7	gate
+4	4	gate
+3	3	gate
+6	6	gate
+0	62	gate
+25	29	gate
+5	21	gate
+4	4	gate
+8	9	gate
+2	3	gate
+2	2	gate
+
+--f9b6e752--2015-11-24--Cameron Fieber
+--3cf8ca27--2015-11-24--Cameron Fieber
+7	1	gate
+
+--673e6b83--2015-11-24--Cameron Fieber
+--77345740--2015-11-24--Cameron Fieber
+2	1	gate
+6	0	gate
+2	2	gate
+4	0	gate
+
+--d2b09daa--2015-11-23--Cameron Fieber
+--1e02a1eb--2015-11-23--Cameron Fieber
+5	1	gate
+
+--4dea3631--2015-11-21--Cameron Fieber
+--a947c20e--2015-11-21--Cameron Fieber
+1	0	gate
+
+--a0d9cd3b--2015-11-20--Cameron Fieber
+16	0	gate
+24	0	gate
+17	0	gate
+
+--34e8dbf7--2015-11-18--Adam Jordens
+--11739721--2015-11-18--Adam Jordens
+1	1	gate
+11	7	gate
+1	3	gate
+
+--cdb51846--2015-11-17--Adam Jordens
+--01c7f78d--2015-11-17--Adam Jordens
+2	2	gate
+2	3	gate
+5	0	gate
+4	0	gate
+6	0	gate
+113	102	gate
+
+--1b917a65--2015-11-17--Cameron Fieber
+--316da0da--2015-11-17--David Peterka
+1	1	gate
+
+--872fc7d8--2015-11-17--Cameron Fieber
+--e7a951b3--2015-11-17--Cameron Fieber
+--6985dc8b--2015-11-17--Cameron Fieber
+16	9	gate
+
+--7f6e8b7e--2015-11-15--Cameron Fieber
+1	1	gate
+
+--ea1d8d3c--2015-11-15--Cameron Fieber
+1	1	gate
+
+--7582b9fb--2015-11-15--Cameron Fieber
+1	1	gate
+
+--00b53aba--2015-11-15--Cameron Fieber
+1	1	gate
+
+--5298695f--2015-11-15--Cameron Fieber
+1	1	gate
+
+--dfe4b73d--2015-11-15--Cameron Fieber
+2	1	gate
+1	1	gate
+
+--8a43e258--2015-11-15--Andrew Glover
+4	0	gate
+
+--60a1a7a7--2015-11-15--Cameron Fieber
+1	1	gate
+
+--cac2cf1c--2015-11-15--Matt Duftler
+--4149a09d--2015-11-15--David Stenglein
+1	2	gate
+
+--e576d094--2015-11-14--Eric Wiseblatt
+--668c4f6b--2015-11-14--David Peterka
+1	1	gate
+
+--b6c2f61e--2015-11-14--Matt Duftler
+--143ec000--2015-11-14--Adam Jordens
+--ee1056e0--2015-11-14--Adam Jordens
+23	8	gate
+
+--d97a85f4--2015-11-14--David Peterka
+2	1	gate
+
+--cef4c174--2015-11-14--Cameron Fieber
+1	1	gate
+
+--4267e0b6--2015-11-14--Cameron Fieber
+2	6	gate
+0	2	gate
+
+--ef88d207--2015-11-13--Cameron Fieber
+1	1	gate
+
+--5eb407ea--2015-11-13--Cameron Fieber
+2	6	gate
+1	3	gate
+
+--2f24db3a--2015-11-13--Cameron Fieber
+--e2e69cbd--2015-11-13--Tomás Lin
+1	2	gate
+
+--0834910c--2015-11-13--Cameron Fieber
+1	1	gate
+
+--58d39761--2015-11-13--Cameron Fieber
+1	1	gate
+
+--287e3421--2015-11-13--Cameron Fieber
+1	1	gate
+
+--cce0a51a--2015-11-13--Tomás Lin
+1	10	gate
+
+--1bf0f9b1--2015-11-13--Cameron Fieber
+1	1	gate
+
+--921890ed--2015-11-13--Cameron Fieber
+1	2	gate
+
+--1fe76553--2015-11-13--Cameron Fieber
+--0837efdd--2015-11-13--Cameron Fieber
+49	0	gate
+1	0	gate
+0	49	gate
+
+--05bb9ebb--2015-11-13--David Peterka
+11	0	gate
+8	0	gate
+28	2	gate
+15	0	gate
+3	0	gate
+
+--4cef6152--2015-11-13--Cameron Fieber
+1	1	gate
+67	0	gate
+0	44	gate
+1	1	gate
+
+--3c68366b--2015-11-13--Cameron Fieber
+2	1	gate
+
+--f69c2471--2015-11-13--Cameron Fieber
+9	1	gate
+
+--4486caf0--2015-11-12--Adam Jordens
+7	0	gate
+4	4	gate
+15	13	gate
+
+--99f17e47--2015-11-12--Adam Jordens
+--20105496--2015-11-11--Adam Jordens
+0	26	gate
+0	236	gate
+0	26	gate
+0	88	gate
+0	48	gate
+0	45	gate
+0	97	gate
+0	38	gate
+0	21	gate
+0	90	gate
+0	56	gate
+0	119	gate
+0	38	gate
+0	42	gate
+0	29	gate
+0	40	gate
+0	62	gate
+0	54	gate
+0	10	gate
+1	1	gate
+1	1	gate
+
+--97d9c223--2015-11-12--Matt Duftler
+--c7f2a07e--2015-11-12--Cameron Fieber
+6	2	gate
+2	24	gate
+0	1	gate
+-	-	gradle/wrapper/gradle-wrapper.jar
+2	2	gate
+3	7	gate
+
+--8fae52ad--2015-11-12--duftler
+1	0	gate
+
+--bcc977ca--2015-11-12--Bob T Builder
+1	1	gate
+
+--5308b781--2015-11-11--Rob Fletcher
+--f10d20e0--2015-11-11--Rob Fletcher
+15	0	gate
+28	4	gate
+
+--8e74a13b--2015-11-11--Bob T Builder
+1	1	gate
+
+--245e118f--2015-11-11--Tomas Lin
+15	4	gate
+
+--e4314337--2015-11-11--Bob T Builder
+1	1	gate
+
+--6e34552a--2015-11-11--Rob Fletcher
+51	0	gate
+19	6	gate
+4	13	gate
+14	1	gate
+
+--9800a069--2015-11-05--Bob T Builder
+1	1	gate
+
+--c8c1a41d--2015-11-04--Rob Fletcher
+1	1	gate
+
+--26444f5d--2015-11-03--Bob T Builder
+1	1	gate
+
+--8ded100a--2015-11-02--Adam Jordens
+--83a99b5b--2015-11-02--Adam Jordens
+7	4	gate
+3	2	gate
+4	5	gate
+2	2	gate
+3	3	gate
+2	2	gate
+8	8	gate
+
+--9aedd1ba--2015-11-02--Bob T Builder
+1	1	gate
+
+--3c6a44c3--2015-11-02--Zan Thrash
+--4b292f01--2015-11-02--Zan Thrash
+22	103	gate
+0	28	gate
+
+--cbdcd3e6--2015-11-02--Zan Thrash
+--0a3e9c7a--2015-11-02--Bob T Builder
+1	1	gate
+
+--db92cf64--2015-10-30--Zan Thrash
+14	0	gate
+128	18	gate
+28	0	gate
+
+--b1dc5b3a--2015-11-02--Zan Thrash
+--74c1b84b--2015-11-02--Bob T Builder
+1	1	gate
+
+--e9d762c4--2015-11-02--Cameron Fieber
+--6f21afb1--2015-11-02--Cameron Fieber
+5	3	gate
+
+--fd60cfc2--2015-10-30--Zan Thrash
+14	0	gate
+128	18	gate
+28	0	gate
+
+--4a19e62d--2015-10-29--Zan Thrash
+5	0	gate
+5	0	gate
+3	0	gate
+
+--585eb28a--2015-10-29--Bob T Builder
+1	1	gate
+
+--8d9efe93--2015-10-28--Adam Jordens
+--9074044b--2015-10-28--Adam Jordens
+24	5	gate
+0	4	gate
+2	0	gate
+
+--2e8f709b--2015-10-27--Bob T Builder
+1	1	gate
+
+--66c3e390--2015-10-27--Cameron Fieber
+1	1	gate
+
+--14acb295--2015-10-27--Bob T Builder
+1	1	gate
+
+--f6ee2ae5--2015-10-27--Cameron Fieber
+--fa2a2c73--2015-10-27--Cameron Fieber
+7	6	gate
+
+--83523b10--2015-10-27--Greg Turnquist
+2	14	gate
+
+--f1462692--2015-10-22--Bob T Builder
+1	1	gate
+
+--ec907c1b--2015-10-22--Bob T Builder
+1	1	gate
+
+--16d52a34--2015-10-22--Tomas Lin
+--02550711--2015-10-22--tomaslin
+1	1	gate
+
+--c0685c8c--2015-10-22--tomaslin
+13	0	gate
+52	0	gate
+19	0	gate
+54	0	gate
+12	0	gate
+
+--6897213d--2015-10-21--Bob T Builder
+1	1	gate
+
+--c1d30165--2015-10-21--Cameron Fieber
+--f113701c--2015-10-21--Bob T Builder
+1	1	gate
+
+--9d777394--2015-10-20--Adam Jordens
+--b634a288--2015-10-20--Adam Jordens
+1	1	gate
+3	3	gate
+3	3	gate
+3	3	gate
+3	3	gate
+3	3	gate
+6	6	gate
+3	2	gate
+3	3	gate
+
+--660ef53d--2015-10-20--Eric Wiseblatt
+9	0	gate
+
+--7fea90b3--2015-10-20--Bob T Builder
+1	1	gate
+
+--8cf9670b--2015-10-20--Travis Tomsu
+--012f1570--2015-10-20--Travis Tomsu
+0	26	gate
+
+--6801b2b4--2015-10-20--Bob T Builder
+1	1	gate
+
+--eac2a4cd--2015-10-20--Travis Tomsu
+--2e012079--2015-10-20--Travis Tomsu
+26	0	gate
+
+--ef4dd5ff--2015-10-15--Bob T Builder
+1	1	gate
+
+--8ca3f4cb--2015-10-14--Adam Jordens
+1	0	gate
+1	1	gate
+1	1	gate
+1	1	gate
+1	1	gate
+
+--26e44371--2015-10-14--Bob T Builder
+1	1	gate
+
+--129b2023--2015-10-13--Adam Jordens
+--6720a201--2015-10-13--Adam Jordens
+19	17	gate
+6	22	gate
+28	0	gate
+1	1	gate
+4	4	gate
+6	6	gate
+1	1	gate
+1	1	gate
+5	5	gate
+5	5	gate
+4	4	gate
+2	2	gate
+2	2	gate
+5	19	gate
+2	2	gate
+2	2	gate
+5	5	gate
+1	1	gate
+3	3	gate
+1	1	gate
+4	4	gate
+2	2	gate
+5	5	gate
+0	28	gate
+1	1	gate
+1	1	gate
+
+--4cdbab21--2015-10-13--Bob T Builder
+1	1	gate
+
+--6e2c0173--2015-10-13--Cameron Fieber
+--4f74ad1e--2015-10-13--Cameron Fieber
+1	1	gate
+3	2	gate
+4	3	gate
+
+--2f9412d7--2015-10-13--Bob T Builder
+1	1	gate
+
+--241883b5--2015-10-13--Adam Jordens
+45	4	gate
+
+--639b6ba1--2015-10-12--Bob T Builder
+1	1	gate
+
+--9aefd44a--2015-10-11--Zan Thrash
+--28f8d112--2015-10-11--Zan Thrash
+1	2	gate
+
+--d6a908c8--2015-10-12--Bob T Builder
+1	1	gate
+
+--47230d1e--2015-10-11--Zan Thrash
+--4f364ae4--2015-10-11--Zan Thrash
+9	2	gate
+
+--38d8f222--2015-10-06--Bob T Builder
+1	1	gate
+
+--7789f72f--2015-10-05--Adam Jordens
+--195f161a--2015-10-05--Adam Jordens
+3	20	gate
+12	14	gate
+0	4	gate
+22	4	gate
+28	0	gate
+40	4	gate
+
+--8cc38506--2015-09-29--Bob T Builder
+1	1	gate
+
+--97c798e7--2015-09-29--Adam Jordens
+--cb484f03--2015-09-29--Adam Jordens
+3	2	gate
+2	2	gate
+4	0	gate
+0	50	gate
+
+--f00a21c7--2015-09-28--Bob T Builder
+1	1	gate
+
+--e79b5910--2015-09-27--Adam Jordens
+--ce84875c--2015-09-25--Bob T Builder
+1	1	gate
+
+--9e4ff119--2015-09-24--Adam Jordens
+8	3	gate
+4	0	gate
+4	0	gate
+
+--97a56845--2015-09-24--Bob T Builder
+1	1	gate
+
+--66bddd35--2015-09-24--Adam Jordens
+--c649c620--2015-09-24--Adam Jordens
+1	1	gate
+27	27	gate
+2	4	gate
+
+--2e584609--2015-09-24--duftler
+5	0	gate
+6	0	gate
+3	0	gate
+
+--e0e316af--2015-09-24--duftler
+37	0	gate
+1	0	gate
+44	0	gate
+2	1	gate
+2	2	gate
+
+--8f0dd303--2015-09-22--Bob T Builder
+1	1	gate
+
+--15f4b8b1--2015-09-22--Bob T Builder
+1	1	gate
+
+--5a9f0ad4--2015-09-22--Clay McCoy
+--da45da9e--2015-09-22--Clay McCoy
+19	0	gate
+26	0	gate
+21	0	gate
+10	0	gate
+
+--9bfc9288--2015-09-22--Bob T Builder
+1	1	gate
+
+--bd93594c--2015-09-21--Adam Jordens
+11	1	gate
+24	24	gate
+120	0	gate
+
+--8d523345--2015-09-22--Bob T Builder
+1	1	gate
+
+--87cdf4ef--2015-09-21--Adam Jordens
+--1eb390c4--2015-09-21--Adam Jordens
+15	3	gate
+26	14	gate
+6	2	gate
+21	49	gate
+50	0	gate
+82	150	gate
+50	0	gate
+9	1	gate
+
+--feb1602e--2015-09-21--Bob T Builder
+1	1	gate
+
+--a50be9e7--2015-09-21--Adam Jordens
+--bfe6453c--2015-09-21--Adam Jordens
+3	0	gate
+41	0	gate
+45	0	gate
+210	0	gate
+
+--4c65dbfc--2015-09-21--Bob T Builder
+1	1	gate
+
+--78ccc2ae--2015-09-20--Adam Jordens
+--7db64b07--2015-09-20--Adam Jordens
+7	0	gate
+10	0	gate
+4	0	gate
+
+--17d4f2c5--2015-09-16--Bob T Builder
+1	1	gate
+
+--a448b0c9--2015-09-16--Adam Jordens
+--c3dc706d--2015-09-16--Adam Jordens
+0	21	gate
+56	0	gate
+0	16	gate
+47	0	gate
+13	0	gate
+
+--1e09ed3e--2015-09-09--Bob T Builder
+1	1	gate
+
+--83cec04c--2015-09-09--Adam Jordens
+13	1	gate
+11	3	gate
+
+--1c658681--2015-09-08--Bob T Builder
+1	1	gate
+
+--21ee5695--2015-09-08--Adam Jordens
+2	3	gate
+
+--9005709c--2015-08-31--Bob T Builder
+1	1	gate
+
+--b8f3fcf5--2015-08-31--chrisb
+8	3	gate
+
+--333b9e8b--2015-08-28--Bob T Builder
+1	1	gate
+
+--8b1b43fe--2015-08-28--Chris Berry
+--39cea4a0--2015-08-26--Bob T Builder
+1	1	gate
+
+--f9319b28--2015-08-26--Cameron Fieber
+--475bd93d--2015-08-26--Bob T Builder
+1	1	gate
+
+--e19b5ccb--2015-08-26--Rob Fletcher
+1	1	gate
+
+--a9b92e72--2015-08-26--Steven Kim
+10	0	gate
+
+--bb41d145--2015-08-24--chrisb
+8	0	gate
+
+--50f9dbd0--2015-08-24--Bob T Builder
+1	1	gate
+
+--4478a2f3--2015-08-24--Adam Jordens
+1	1	gate
+
+--57636daf--2015-08-24--Adam Jordens
+12	10	gate
+
+--b53075e6--2015-08-24--Bob T Builder
+1	1	gate
+
+--7d84693f--2015-08-24--Adam Jordens
+10	12	gate
+
+--126da902--2015-08-23--Bob T Builder
+1	1	gate
+
+--9db87154--2015-08-22--Adam Jordens
+10	1	gate
+
+--f36c7e2b--2015-08-21--Bob T Builder
+1	1	gate
+
+--f51b798d--2015-08-21--Adam Jordens
+3	0	gate
+10	5	gate
+
+--9b5a5617--2015-08-21--Bob T Builder
+1	1	gate
+
+--ecc8900d--2015-08-20--Adam Jordens
+0	7	gate
+6	6	gate
+3	0	gate
+0	27	gate
+4	5	gate
+
+--760bdfe7--2015-08-19--Bob T Builder
+1	1	gate
+
+--2992181d--2015-08-19--Chris Berry
+--75d57d95--2015-08-19--chrisb
+8	1	gate
+9	0	gate
+6	0	gate
+
+--05bc3225--2015-08-11--Adam Jordens
+--0222ff39--2015-08-11--Adam Jordens
+0	36	gate
+0	67	gate
+0	27	gate
+0	61	gate
+0	46	gate
+0	126	gate
+0	99	gate
+0	184	gate
+0	183	gate
+0	68	gate
+0	52	gate
+0	125	gate
+36	0	gate
+66	0	gate
+27	0	gate
+61	0	gate
+46	0	gate
+118	0	gate
+99	0	gate
+184	0	gate
+183	0	gate
+68	0	gate
+52	0	gate
+125	0	gate
+
+--eba82781--2015-08-11--Adam Jordens
+16	0	gate
+1	1	gate
+1	1	gate
+16	1	gate
+23	0	gate
+0	51	gate
+70	0	gate
+48	0	gate
+45	0	gate
+106	0	gate
+38	0	gate
+67	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+16	0	gate
+56	0	gate
+16	0	gate
+42	0	gate
+16	0	gate
+16	0	gate
+0	12	gate
+16	0	gate
+1	14	gate
+0	70	gate
+0	24	gate
+0	28	gate
+0	106	gate
+0	22	gate
+0	13	gate
+0	40	gate
+0	42	gate
+1	1	gate
+1	15	gate
+16	0	gate
+17	1	gate
+1	1	gate
+1	1	gate
+
+--8d97f6ba--2015-08-10--Adam Jordens
+51	0	gate
+0	61	gate
+0	99	gate
+30	0	gate
+110	0	gate
+99	0	gate
+0	1	gate
+4	0	gate
+0	1	gate
+0	51	gate
+
+--694f5970--2015-08-10--Adam Jordens
+27	0	gate
+5	0	gate
+32	0	gate
+38	0	gate
+26	0	gate
+37	0	gate
+42	0	gate
+28	0	gate
+86	0	gate
+34	0	gate
+110	0	gate
+38	0	gate
+91	0	gate
+109	0	gate
+57	0	gate
+61	0	gate
+33	0	gate
+40	0	gate
+139	0	gate
+26	0	gate
+194	0	gate
+61	0	gate
+99	0	gate
+36	0	gate
+11	0	gate
+45	0	gate
+169	0	gate
+167	0	gate
+48	0	gate
+36	0	gate
+48	0	gate
+90	0	gate
+22	0	gate
+29	0	gate
+24	0	gate
+62	0	gate
+51	0	gate
+110	0	gate
+2	7	gate
+5	128	gate
+1	1	gate
+0	99	gate
+0	32	gate
+0	38	gate
+5	2	gate
+1	1	gate
+1	1	gate
+1	1	gate
+0	26	gate
+0	37	gate
+0	42	gate
+0	28	gate
+0	86	gate
+0	34	gate
+0	111	gate
+0	38	gate
+0	36	gate
+0	11	gate
+0	46	gate
+0	169	gate
+0	167	gate
+0	48	gate
+0	37	gate
+0	48	gate
+0	2	gate
+1	1	gate
+0	109	gate
+0	90	gate
+0	22	gate
+1	1	gate
+1	1	gate
+0	57	gate
+0	61	gate
+0	33	gate
+0	29	gate
+0	24	gate
+0	40	gate
+0	64	gate
+0	51	gate
+0	139	gate
+1	1	gate
+5	2	gate
+2	1	gate
+0	110	gate
+2	1	gate
+2	1	gate
+2	1	gate
+1	1	gate
+
+--0e482d22--2015-08-10--Bob T Builder
+1	1	gate
+
+--424380b9--2015-08-09--tomaslin
+11	0	gate
+
+--28540c11--2015-08-04--Bob T Builder
+1	1	gate
+
+--caaa1f17--2015-08-04--Cameron Fieber
+3	0	gate
+
+--d02366b2--2015-08-03--Bob T Builder
+1	1	gate
+
+--f7807757--2015-08-03--Cameron Fieber
+1	1	gate
+
+--5597b016--2015-08-03--Bob T Builder
+1	1	gate
+
+--8138258d--2015-08-03--Cameron Fieber
+1	1	gate
+4	7	gate
+
+--c6074999--2015-07-31--Bob T Builder
+1	1	gate
+
+--c13c0e54--2015-07-30--Adam Jordens
+1	5	gate
+6	4	gate
+
+--2e4d4e82--2015-07-31--Bob T Builder
+1	1	gate
+
+--520b0e6a--2015-07-30--Adam Jordens
+0	2	gate
+3	0	gate
+
+--36f2aff2--2015-07-31--Bob T Builder
+1	1	gate
+
+--38319f9e--2015-07-30--Adam Jordens
+1	1	gate
+
+--211b9e3a--2015-07-30--Bob T Builder
+1	1	gate
+
+--1f8d7ffb--2015-07-30--Adam Jordens
+1	1	gate
+23	34	gate
+
+--d471d5af--2015-07-30--Bob T Builder
+1	1	gate
+
+--157f32ad--2015-07-30--Adam Jordens
+14	1	gate
+
+--d298e33c--2015-07-30--Bob T Builder
+1	1	gate
+
+--19056d89--2015-07-29--Adam Jordens
+31	26	gate
+
+--28d5e277--2015-07-28--Bob T Builder
+1	1	gate
+
+--9703c733--2015-07-27--Cameron Fieber
+--f0835610--2015-07-27--Cameron Fieber
+--bfec7375--2015-07-27--Cameron Fieber
+--4f5e28bd--2015-07-27--Cameron Fieber
+6	2	gate
+2	0	gate
+
+--dfecddfc--2015-07-28--Bob T Builder
+1	1	gate
+
+--45775c1b--2015-07-27--chrisb
+11	1	gate
+84	0	gate
+
+--f76ee353--2015-07-28--Bob T Builder
+1	1	gate
+
+--4a4f7ff3--2015-07-27--chrisb
+1	1	gate
+
+--5b601fa5--2015-07-28--Bob T Builder
+1	1	gate
+
+--b12eab25--2015-07-27--chrisb
+34	0	gate
+0	34	gate
+
+--ae81adeb--2015-07-27--chrisb
+4	0	gate
+
+--b09abd9c--2015-07-27--Bob T Builder
+1	1	gate
+
+--05dc031b--2015-07-27--chrisb
+7	0	gate
+41	0	gate
+30	0	gate
+27	0	gate
+
+--ae03a128--2015-07-27--Bob T Builder
+1	1	gate
+
+--8f2410c8--2015-07-27--Tomas Lin
+--7fd01539--2015-07-27--Bob T Builder
+1	1	gate
+
+--f5496c48--2015-07-27--Cameron Fieber
+--62576067--2015-07-27--Cameron Fieber
+0	22	gate
+0	59	gate
+
+--ff39ecae--2015-07-24--Tomas Lin
+0	2	gate
+0	6	gate
+14	16	gate
+5	5	gate
+6	6	gate
+26	0	gate
+0	51	gate
+0	8	gate
+
+--bcc84e30--2015-07-20--duftler
+22	0	gate
+
+--513b961d--2015-07-20--Cameron Fieber
+7	2	gate
+36	0	gate
+5	6	gate
+7	0	gate
+7	1	gate
+5	5	gate
+4	2	gate
+
+--c9f89a67--2015-07-16--Bob T Builder
+1	1	gate
+
+--22807fcb--2015-07-15--Adam Jordens
+1	1	gate
+
+--d218a1f8--2015-07-16--Bob T Builder
+1	1	gate
+
+--a4b1d35a--2015-07-15--Adam Jordens
+1	1	gate
+14	7	gate
+17	11	gate
+
+--4365170d--2015-07-16--Bob T Builder
+1	1	gate
+
+--5e3c93fe--2015-07-15--Adam Jordens
+1	1	gate
+15	31	gate
+12	16	gate
+
+--e523b4bb--2015-07-15--Bob T Builder
+1	1	gate
+
+--0781b545--2015-07-15--Adam Jordens
+1	1	gate
+15	1	gate
+
+--e71cfd99--2015-07-15--Bob T Builder
+1	1	gate
+
+--41aae71a--2015-07-15--Adam Jordens
+1	1	gate
+
+--c7a0b6b6--2015-07-15--Bob T Builder
+1	1	gate
+
+--cc4fce04--2015-07-15--Adam Jordens
+1	1	gate
+2	1	gate
+
+--10edc346--2015-07-15--Bob T Builder
+1	1	gate
+
+--d541e9cf--2015-07-14--Adam Jordens
+--8a853c41--2015-07-14--Adam Jordens
+1	2	gate
+1	1	gate
+0	241	gate
+99	0	gate
+0	22	gate
+0	22	gate
+0	52	gate
+0	104	gate
+0	44	gate
+0	230	gate
+52	0	gate
+172	0	gate
+153	0	gate
+2	0	gate
+1	1	gate
+0	72	gate
+107	0	gate
+
+--bbc206f8--2015-07-11--Bob T Builder
+1	1	gate
+
+--d4b04d2e--2015-07-10--Adam Jordens
+1	3	gate
+
+--0e42f64c--2015-07-11--Bob T Builder
+1	1	gate
+
+--eb4c58fe--2015-07-10--Adam Jordens
+16	8	gate
+9	5	gate
+
+--e32aec79--2015-07-11--Bob T Builder
+1	1	gate
+
+--0692f442--2015-07-10--Adam Jordens
+1	1	gate
+11	3	gate
+1	1	gate
+4	3	gate
+3	0	gate
+7	2	gate
+
+--9f79921a--2015-07-10--Bob T Builder
+1	1	gate
+
+--12157a40--2015-07-09--Adam Jordens
+1	1	gate
+11	1	gate
+
+--88626c30--2015-07-10--Bob T Builder
+1	1	gate
+
+--737fccfe--2015-07-09--Adam Jordens
+1	1	gate
+3	0	gate
+16	0	gate
+
+--b3533666--2015-07-08--Bob T Builder
+1	1	gate
+
+--a8193d70--2015-07-07--Adam Jordens
+--2a72e790--2015-07-07--Adam Jordens
+2	1	gate
+13	2	gate
+7	2	gate
+5	4	gate
+43	0	gate
+
+--3c8631f8--2015-07-07--Bob T Builder
+1	1	gate
+
+--66d96c72--2015-07-06--Adam Jordens
+16	9	gate
+2	1	gate
+9	7	gate
+
+--f395ba7e--2015-07-07--Bob T Builder
+1	1	gate
+
+--8aeebdd4--2015-07-06--Adam Jordens
+18	6	gate
+22	0	gate
+
+--6a2e9c2c--2015-07-06--Bob T Builder
+1	1	gate
+
+--f4b4c042--2015-07-06--Cameron Fieber
+25	15	gate
+
+--71ab53da--2015-07-06--Bob T Builder
+1	1	gate
+
+--8bc9bcbc--2015-07-06--Adam Jordens
+--5edcdb6a--2015-07-06--Adam Jordens
+2	0	gate
+9	4	gate
+38	0	gate
+8	1	gate
+6	3	gate
+12	4	gate
+
+--91b89f27--2015-07-03--Bob T Builder
+1	1	gate
+
+--0c79d2b7--2015-07-03--Cameron Fieber
+--0a229e68--2015-07-02--Bob T Builder
+1	1	gate
+
+--844f01ed--2015-07-01--Adam Jordens
+12	6	gate
+
+--a596ea04--2015-07-01--Bob T Builder
+1	1	gate
+
+--83e9ebda--2015-06-30--Adam Jordens
+1	1	gate
+4	4	gate
+4	4	gate
+
+--672cdfcd--2015-06-26--duftler
+2	0	gate
+
+--233029e4--2015-06-26--Bob T Builder
+1	1	gate
+
+--112aae44--2015-06-25--Adam Jordens
+1	1	gate
+
+--10ed151f--2015-06-26--Bob T Builder
+1	1	gate
+
+--73e9e546--2015-06-25--Adam Jordens
+1	1	gate
+
+--66ab23bc--2015-06-25--Bob T Builder
+1	1	gate
+
+--a167fc7c--2015-06-25--Adam Jordens
+1	1	gate
+
+--b1c5bb4e--2015-06-25--Bob T Builder
+1	1	gate
+
+--139dc741--2015-06-24--Adam Jordens
+1	1	gate
+
+--ab71f836--2015-06-25--Bob T Builder
+1	1	gate
+
+--edeb3e4b--2015-06-24--Adam Jordens
+1	1	gate
+2	6	gate
+
+--0986709b--2015-06-23--Bob T Builder
+1	1	gate
+
+--573267dc--2015-06-21--Bob T Builder
+1	1	gate
+
+--10c32b48--2015-06-19--Bob T Builder
+1	1	gate
+
+--b051e29f--2015-06-19--Adam Jordens
+--204a910c--2015-06-19--Adam Jordens
+1	1	gate
+19	14	gate
+29	12	gate
+2	3	gate
+0	89	gate
+0	21	gate
+14	12	gate
+62	42	gate
+4	4	gate
+1	1	gate
+31	0	gate
+
+--1ee7731b--2015-06-16--Bob T Builder
+1	1	gate
+
+--8daa11af--2015-06-16--Adam Jordens
+15	6	gate
+34	0	gate
+1	1	gate
+1	1	gate
+
+--239bab76--2015-06-16--Bob T Builder
+1	1	gate
+
+--657a7e5a--2015-06-02--Bob T Builder
+1	1	gate
+
+--c42e24f2--2015-06-01--Adam Jordens
+--114eb969--2015-06-01--Adam Jordens
+1	1	gate
+5	0	gate
+4	0	gate
+4	0	gate
+
+--1a7bfa0f--2015-05-28--Rob Fletcher
+25	0	gate
+
+--798efed6--2015-05-28--Rob Fletcher
+6	2	gate
+
+--95fc8070--2015-05-28--Bob T Builder
+1	1	gate
+
+--a63a284f--2015-05-27--Bob T Builder
+1	1	gate
+
+--27d93084--2015-05-26--Tomas Lin
+1	1	gate
+
+--f454c1f4--2015-05-27--Bob T Builder
+1	1	gate
+
+--a33375f3--2015-05-26--Tomas Lin
+--81df90f7--2015-05-26--Tomas Lin
+9	1	gate
+1	1	gate
+4	0	gate
+
+--b99accfe--2015-05-20--Bob T Builder
+1	1	gate
+
+--24f9c475--2015-05-19--Satyajit Thadeshwar
+1	4	gate
+1	2	gate
+
+--05de0fa0--2015-05-19--Bob T Builder
+1	1	gate
+
+--16983fe4--2015-05-19--Bob T Builder
+1	1	gate
+
+--8c48a875--2015-05-19--Satyajit Thadeshwar
+--79f40f37--2015-05-19--Satyajit Thadeshwar
+--92aaf4be--2015-05-19--Satyajit Thadeshwar
+3	3	gate
+2	2	gate
+6	0	gate
+
+--bf7ed110--2015-05-19--Bob T Builder
+1	1	gate
+
+--fded21c9--2015-05-19--Cameron Fieber
+--bb842fc8--2015-05-19--Bob T Builder
+1	1	gate
+
+--0ce885bd--2015-05-19--Adam Jordens
+--6b32314c--2015-05-19--Adam Jordens
+22	0	gate
+22	0	gate
+4	0	gate
+
+--ced476ab--2015-05-19--duftler
+1	0	gate
+
+--392757e0--2015-05-16--Bob T Builder
+1	1	gate
+
+--070ee529--2015-05-16--Zan Thrash
+--8039ff45--2015-05-16--Zan Thrash
+79	5	gate
+
+--8754603c--2015-05-15--Bob T Builder
+1	1	gate
+
+--9158b5f3--2015-05-15--Zan Thrash
+--c2be7714--2015-03-27--Zan Thrash
+4	1	gate
+6	0	gate
+106	0	gate
+90	0	gate
+64	0	gate
+
+--17879478--2015-05-12--Bob T Builder
+1	1	gate
+
+--53d1fb7c--2015-05-11--Cameron Fieber
+--9e8ef5f5--2015-05-11--Cameron Fieber
+1	1	gate
+59	33	gate
+98	3	gate
+
+--0e4ae1cb--2015-05-09--Bob T Builder
+1	1	gate
+
+--e31ad07c--2015-05-09--chrisb
+8	4	gate
+7	0	gate
+4	0	gate
+
+--23fb3f0f--2015-05-06--Bob T Builder
+1	1	gate
+
+--30b41d05--2015-05-06--Adam Jordens
+2	0	gate
+1	2	gate
+4	0	gate
+
+--80ca82f9--2015-05-05--Bob T Builder
+1	1	gate
+
+--96647be6--2015-05-04--Adam Jordens
+19	0	gate
+5	4	gate
+
+--93010f4f--2015-05-05--Bob T Builder
+1	1	gate
+
+--d15d5fa7--2015-05-04--Chris Berry
+--14841e1f--2015-05-04--chrisb
+17	5	gate
+
+--5aed4d1c--2015-05-05--Bob T Builder
+1	1	gate
+
+--294536e1--2015-05-04--Adam Jordens
+--7511eb28--2015-05-04--Adam Jordens
+1	1	gate
+4	3	gate
+33	0	gate
+0	73	gate
+30	23	gate
+0	62	gate
+0	61	gate
+70	0	gate
+11	0	gate
+39	0	gate
+28	0	gate
+
+--8e6e4bc4--2015-05-05--Bob T Builder
+1	1	gate
+
+--374deb2e--2015-05-04--Satyajit Thadeshwar
+--de149d56--2015-05-04--Satyajit Thadeshwar
+1	1	gate
+
+--3909fcd6--2015-05-04--Bob T Builder
+1	1	gate
+
+--478da667--2015-05-04--Cameron Fieber
+--fd3c7659--2015-05-04--Satyajit Thadeshwar
+17	3	gate
+13	3	gate
+14	5	gate
+
+--3997e267--2015-05-04--Satyajit Thadeshwar
+1	0	gate
+8	2	gate
+6	4	gate
+5	2	gate
+
+--0829a9c6--2015-05-04--Satyajit Thadeshwar
+2	4	gate
+
+--5ddeefac--2015-05-04--Satyajit Thadeshwar
+6	5	gate
+
+--f6f93795--2015-04-24--Zan Thrash
+--2138794e--2015-04-24--Zan Thrash
+1	1	gate
+
+--ab4c0939--2015-04-24--Zan Thrash
+7	9	gate
+36	0	gate
+
+--2e47c439--2015-04-14--Bob T Builder
+1	1	gate
+
+--41b38d85--2015-04-14--Tomas Lin
+--44436fad--2015-04-14--Tomas Lin
+3	2	gate
+2	2	gate
+2	2	gate
+
+--1c5f3716--2015-04-14--Bob T Builder
+1	1	gate
+
+--71ceee98--2015-04-14--Tomas Lin
+--503081e0--2015-04-14--Tomas Lin
+50	0	gate
+44	0	gate
+10	1	gate
+
+--7285340c--2015-04-14--Satyajit Thadeshwar
+5	0	gate
+43	0	gate
+36	0	gate
+34	0	gate
+
+--87d61f0b--2015-04-03--Bob T Builder
+1	1	gate
+
+--5a181c4d--2015-04-02--Chris Berry
+--d3f4b7f4--2015-04-02--chrisb
+5	0	gate
+4	0	gate
+4	0	gate
+
+--821ddb98--2015-04-02--Bob T Builder
+1	1	gate
+
+--db1074f1--2015-04-02--Chris Berry
+--5b348890--2015-04-02--chrisb
+5	0	gate
+5	0	gate
+4	0	gate
+6	0	gate
+9	1	gate
+
+--bf7a177d--2015-03-31--Bob T Builder
+1	1	gate
+
+--5f651fe5--2015-03-31--Chris Berry
+--016639e2--2015-03-31--chrisb
+1	1	gate
+2	2	gate
+1	1	gate
+1	1	gate
+2	2	gate
+1	1	gate
+1	1	gate
+
+--ea15349e--2015-03-30--Bob T Builder
+1	1	gate
+
+--2b0426a5--2015-03-30--Bob T Builder
+1	1	gate
+
+--80b153c7--2015-03-29--Adam Jordens
+2	12	gate
+
+--839cd824--2015-03-27--Bob T Builder
+1	1	gate
+
+--252c5111--2015-03-27--Bob T Builder
+1	1	gate
+
+--466e8664--2015-03-20--Bob T Builder
+1	1	gate
+
+--9be5b5ef--2015-03-20--Bob T Builder
+1	1	gate
+
+--b821c72b--2015-03-20--Cameron Fieber
+--edca6178--2015-03-20--Cameron Fieber
+13	3	gate
+14	3	gate
+3	2	gate
+
+--36c58a70--2015-03-19--Adam Jordens
+0	1	gate
+
+--00af7f84--2015-03-19--Bob T Builder
+1	1	gate
+
+--7124e1fd--2015-03-19--Bob T Builder
+1	1	gate
+
+--caab1238--2015-03-19--chrisb
+3	3	gate
+
+--a2e82586--2015-03-19--Bob T Builder
+1	1	gate
+
+--a5835b2d--2015-03-19--Bob T Builder
+1	1	gate
+
+--ffc10cbb--2015-03-19--Bob T Builder
+1	1	gate
+
+--f802d55f--2015-03-19--Bob T Builder
+1	1	gate
+
+--c853ecc8--2015-03-18--Adam Jordens
+24	1	gate
+1	0	gate
+3	1	gate
+
+--0aefaf14--2015-03-19--Bob T Builder
+1	1	gate
+
+--aee2c34e--2015-03-19--Bob T Builder
+1	1	gate
+
+--5c37d957--2015-03-18--Adam Jordens
+2	1	gate
+
+--fd08e933--2015-03-18--Bob T Builder
+1	1	gate
+
+--59af4894--2015-03-18--Bob T Builder
+1	1	gate
+
+--2719b967--2015-03-18--Adam Jordens
+--0f0bdf05--2015-03-18--Adam Jordens
+30	46	gate
+
+--e35f44f4--2015-03-17--Adam Jordens
+10	1	gate
+60	0	gate
+77	0	gate
+59	0	gate
+3	1	gate
+12	0	gate
+
+--5d4183d1--2015-03-18--Bob T Builder
+1	1	gate
+
+--7bcb26de--2015-03-18--Bob T Builder
+1	1	gate
+
+--67db8921--2015-03-17--Tomas Lin
+10	0	gate
+18	0	gate
+6	0	gate
+
+--6689c17d--2015-03-10--Bob T Builder
+1	1	gate
+
+--2bbf0e45--2015-03-10--Bob T Builder
+1	1	gate
+
+--93f03ae2--2015-03-10--Tomas Lin
+1	1	gate
+
+--23d5306d--2015-03-10--Bob T Builder
+1	1	gate
+
+--0afdf83e--2015-03-10--Bob T Builder
+1	1	gate
+
+--3d11ace5--2015-03-10--Tomas Lin
+1	1	gate
+
+--ca46ba0d--2015-03-10--Bob T Builder
+1	1	gate
+
+--39572aa1--2015-03-10--Bob T Builder
+1	1	gate
+
+--30bb4e3b--2015-03-10--Tomas Lin
+--2e3e9a76--2015-03-10--Tomas Lin
+5	0	gate
+9	0	gate
+4	0	gate
+
+--eadaffff--2015-02-26--Bob T Builder
+1	1	gate
+
+--5115d225--2015-02-26--Bob T Builder
+1	1	gate
+
+--f172d6c6--2015-02-26--Bob T Builder
+1	1	gate
+
+--edf77b28--2015-02-26--Bob T Builder
+1	1	gate
+
+--32165d72--2015-02-25--Adam Jordens
+9	6	gate
+
+--7546ab4e--2015-02-26--Bob T Builder
+1	1	gate
+
+--9c0181d6--2015-02-26--Bob T Builder
+1	1	gate
+
+--9aaaff16--2015-02-25--Adam Jordens
+--db90d819--2015-02-25--Adam Jordens
+1	1	gate
+2	0	gate
+1	1	gate
+25	0	gate
+2	2	gate
+5	4	gate
+
+--90b4db3a--2015-02-19--Bob T Builder
+1	1	gate
+
+--393fb2dd--2015-02-19--Bob T Builder
+1	1	gate
+
+--cc6e25d1--2015-02-18--Adam Jordens
+8	0	gate
+8	0	gate
+6	0	gate
+6	0	gate
+
+--c9312ae8--2015-02-16--Bob T Builder
+1	1	gate
+
+--fba41d77--2015-02-16--Bob T Builder
+1	1	gate
+
+--9acfb012--2015-02-15--Cameron Fieber
+--3e5883d6--2015-02-15--Cameron Fieber
+2	2	gate
+
+--3b86cd19--2015-02-06--Cameron Fieber
+9	0	gate
+4	1	gate
+1	2	gate
+45	45	gate
+63	17	gate
+0	57	gate
+
+--0136760b--2015-02-14--Bob T Builder
+1	1	gate
+
+--3f144aa3--2015-02-14--Bob T Builder
+1	1	gate
+
+--f7aa725c--2015-02-14--Adam Jordens
+7	2	gate
+3	3	gate
+
+--abd05ab3--2015-02-08--Bob T Builder
+1	1	gate
+
+--a4a34a21--2015-02-08--Bob T Builder
+1	1	gate
+
+--1403f392--2015-02-08--Clay McCoy
+--4c061440--2015-02-08--Clay McCoy
+24	0	gate
+22	0	gate
+55	0	gate
+4	0	gate
+8	0	gate
+
+--418db66d--2015-02-07--Bob T Builder
+1	1	gate
+
+--9c2cc365--2015-02-07--Bob T Builder
+1	1	gate
+
+--18b5a6f5--2015-02-06--Chris Berry
+--c2f2b4bb--2015-02-06--chrisb
+2	2	gate
+1	1	gate
+
+--c17e32ba--2015-02-05--Bob T Builder
+1	1	gate
+
+--a6ed271c--2015-02-05--Bob T Builder
+1	1	gate
+
+--752f6f4d--2015-02-04--Clay McCoy
+--312630b6--2015-02-04--Clay McCoy
+--28ac29a7--2015-02-04--Clay McCoy
+1	2	gate
+
+--2f9a1800--2015-02-03--Bob T Builder
+1	1	gate
+
+--0f3b5ad7--2015-02-03--Bob T Builder
+1	1	gate
+
+--7036ab22--2015-02-03--Adam Jordens
+--515bc046--2015-02-03--Adam Jordens
+33	0	gate
+11	0	gate
+28	0	gate
+34	0	gate
+18	0	gate
+
+--c6f3f45e--2015-02-03--Clay McCoy
+4	3	gate
+2	2	gate
+2	2	gate
+
+--d6c9f2cd--2015-02-02--Bob T Builder
+1	1	gate
+
+--17f98eb8--2015-02-02--Bob T Builder
+1	1	gate
+
+--9b26867b--2015-02-02--Cameron Fieber
+--731575df--2015-02-02--Cameron Fieber
+13	2	gate
+
+--f003ade1--2015-01-27--Bob T Builder
+1	1	gate
+
+--3cf49824--2015-01-27--Bob T Builder
+1	1	gate
+
+--da26c2d0--2015-01-26--Dan Woods
+--3ae08ba0--2015-01-26--Bob T Builder
+1	1	gate
+
+--af2bb7c9--2015-01-26--Bob T Builder
+1	1	gate
+
+--12ffc019--2015-01-26--Cameron Fieber
+23	2	gate
+
+--27830d68--2015-01-25--Daniel Woods
+3	3	gate
+48	0	gate
+
+--74cd3228--2015-01-25--Daniel Woods
+2	0	gate
+8	7	gate
+17	0	gate
+22	0	gate
+1	1	gate
+
+--0645427a--2015-01-21--Bob T Builder
+1	1	gate
+
+--790cf081--2015-01-21--Bob T Builder
+1	1	gate
+
+--be1532ca--2015-01-20--Daniel Woods
+1	1	gate
+
+--7308463a--2015-01-20--Daniel Woods
+1	1	gate
+
+--d998920f--2015-01-20--Daniel Woods
+2	2	gate
+5	0	gate
+
+--7f565c2b--2015-01-20--Bob T Builder
+1	1	gate
+
+--d592b38c--2015-01-20--Bob T Builder
+1	1	gate
+
+--a432400e--2015-01-20--Cameron Fieber
+1	1	gate
+
+--bab1456b--2015-01-19--Adam Jordens
+4	4	gate
+
+--f7bdb032--2015-01-19--Adam Jordens
+42	0	gate
+42	0	gate
+42	0	gate
+10	0	gate
+38	0	gate
+42	0	gate
+
+--00af842e--2015-01-19--Bob T Builder
+1	1	gate
+
+--8450e741--2015-01-19--Bob T Builder
+1	1	gate
+
+--3996385e--2015-01-18--Daniel Woods
+2	2	gate
+1	1	gate
+20	3	gate
+4	0	gate
+
+--833ee458--2015-01-18--Dan Woods
+1	0	gate
+
+--9c09abeb--2015-01-17--Daniel Woods
+1	0	gate
+
+--33d5d3f9--2015-01-18--Bob T Builder
+1	1	gate
+
+--3c219947--2015-01-18--Bob T Builder
+1	1	gate
+
+--ecbd3ad8--2015-01-17--Daniel Woods
+2	0	gate
+52	0	gate
+
+--139153e8--2015-01-16--Bob T Builder
+1	1	gate
+
+--7759739e--2015-01-16--Bob T Builder
+1	1	gate
+
+--5ae0606a--2015-01-16--chrisb
+1	1	gate
+
+--304d3962--2015-01-16--Bob T Builder
+1	1	gate
+
+--91f22b68--2015-01-16--Bob T Builder
+1	1	gate
+
+--977b5cf5--2015-01-16--Daniel Woods
+10	0	gate
+12	0	gate
+8	0	gate
+
+--5df0ed17--2015-01-16--Bob T Builder
+1	1	gate
+
+--cba279bc--2015-01-16--Bob T Builder
+1	1	gate
+
+--4f5a9401--2015-01-16--Daniel Woods
+2	0	gate
+36	0	gate
+
+--f72759e9--2015-01-16--Bob T Builder
+1	1	gate
+
+--d86d9209--2015-01-16--Bob T Builder
+1	1	gate
+
+--aa6aa165--2015-01-15--Cameron Fieber
+3	3	gate
+2	2	gate
+4	4	gate
+2	2	gate
+2	2	gate
+1	1	gate
+4	4	gate
+1	1	gate
+4	4	gate
+2	2	gate
+1	1	gate
+2	2	gate
+2	2	gate
+
+--ea8a6954--2015-01-12--Clay McCoy
+--3d89b635--2015-01-12--Clay McCoy
+4	4	gate
+
+--1a22fa49--2015-01-09--Daniel Woods
+3	1	gate
+34	0	gate
+
+--6c8c21ca--2015-01-09--Bob T Builder
+1	1	gate
+
+--17746104--2015-01-09--Bob T Builder
+1	1	gate
+
+--cc2edbf7--2015-01-08--Matt Duftler
+--201f0c95--2015-01-08--duftler
+10	4	gate
+
+--21d0d48e--2015-01-08--duftler
+2	2	gate
+4	4	gate
+3	3	gate
+1	1	gate
+6	4	gate
+
+--bc22569b--2015-01-07--Bob T Builder
+1	1	gate
+
+--6b560356--2015-01-07--Bob T Builder
+1	1	gate
+
+--108868b4--2015-01-07--Bob T Builder
+1	1	gate
+
+--64e70e4e--2015-01-07--Bob T Builder
+1	1	gate
+
+--62cc87be--2015-01-07--Adam Jordens
+--d9f639ca--2015-01-06--Adam Jordens
+0	1	gate
+45	0	gate
+12	1	gate
+13	2	gate
+48	0	gate
+48	0	gate
+
+--1982ddd5--2014-12-27--Dan Woods
+--7e655bf3--2014-12-27--Daniel Woods
+3	3	gate
+
+--2de04c76--2014-12-27--duftler
+2	0	gate
+41	0	gate
+2	0	gate
+
+--357fd721--2014-12-24--Bob T Builder
+1	1	gate
+
+--e499ca1d--2014-12-24--Bob T Builder
+1	1	gate
+
+--0b09f149--2014-12-24--Daniel Woods
+3	0	gate
+
+--92b5aae8--2014-12-23--Bob T Builder
+1	1	gate
+
+--7029aa94--2014-12-23--Bob T Builder
+1	1	gate
+
+--169565a5--2014-12-23--Daniel Woods
+1	1	gate
+
+--b4813ae2--2014-12-23--Bob T Builder
+1	1	gate
+
+--7f96210b--2014-12-23--Bob T Builder
+1	1	gate
+
+--0dbd3c31--2014-12-23--Daniel Woods
+0	2	gate
+2	1	gate
+2	1	gate
+
+--42d0f70d--2014-12-23--Daniel Woods
+1	1	gate
+1	2	gate
+
+--e91ec944--2014-12-22--Clay McCoy
+--03979ca9--2014-12-22--Clay McCoy
+--602d3d51--2014-12-22--Clay McCoy
+4	2	gate
+
+--f32f2db5--2014-12-22--Clay McCoy
+--8787608d--2014-12-22--Clay McCoy
+3	3	gate
+
+--c4c317e0--2014-12-22--Dan Woods
+--6b43c695--2014-12-22--Clay McCoy
+43	0	gate
+
+--c314ee46--2014-12-22--Clay McCoy
+2	2	gate
+
+--3cae8877--2014-12-18--Bob T Builder
+1	1	gate
+
+--cd7fff81--2014-12-18--Bob T Builder
+1	1	gate
+
+--f5f33105--2014-12-18--Cameron Fieber
+1	0	gate
+8	0	gate
+
+--792c1c3d--2014-12-18--Bob T Builder
+1	1	gate
+
+--11a21a6d--2014-12-18--Bob T Builder
+1	1	gate
+
+--d541c037--2014-12-18--Daniel Woods
+2	2	gate
+21	1	gate
+9	0	gate
+39	0	gate
+
+--841e97e1--2014-12-17--Daniel Woods
+1	0	gate
+4	4	gate
+
+--07bfb8ec--2014-12-17--Daniel Woods
+2	0	gate
+3	2	gate
+
+--8e8720ce--2014-12-17--Bob T Builder
+1	1	gate
+
+--9e1edf92--2014-12-17--Bob T Builder
+1	1	gate
+
+--e006d29a--2014-12-16--Daniel Woods
+50	46	gate
+13	6	gate
+57	0	gate
+1	1	gate
+
+--28f1cb1f--2014-12-16--Bob T Builder
+1	1	gate
+
+--a46444af--2014-12-16--Bob T Builder
+1	1	gate
+
+--0259231c--2014-12-15--Adam Jordens
+4	3	gate
+50	0	gate
+3	3	gate
+44	0	gate
+13	0	gate
+2	1	gate
+
+--c9e57d87--2014-12-15--Chris Berry
+--d218d1b1--2014-12-15--duftler
+1	1	gate
+
+--05c47a8e--2014-12-15--Bob T Builder
+1	1	gate
+
+--62a21558--2014-12-15--Bob T Builder
+1	1	gate
+
+--27ced7b5--2014-12-14--Cameron Fieber
+0	12	gate
+17	40	gate
+38	0	gate
+3	1	gate
+4	0	gate
+
+--54f5d941--2014-12-14--Bob T Builder
+1	1	gate
+
+--80a211a3--2014-12-14--Bob T Builder
+1	1	gate
+
+--8a9b2a0b--2014-12-14--Cameron Fieber
+--386e95ae--2014-12-14--Cameron Fieber
+--30211300--2014-12-14--Cameron Fieber
+1	1	gate
+4	4	gate
+34	0	gate
+1	1	gate
+3	0	gate
+
+--7b61a361--2014-12-14--Bob T Builder
+1	1	gate
+
+--78a8c76d--2014-12-14--Bob T Builder
+1	1	gate
+
+--7cd347c9--2014-12-14--Adam Jordens
+1	1	gate
+
+--0be27c6a--2014-12-14--Bob T Builder
+1	1	gate
+
+--dcad0909--2014-12-14--Bob T Builder
+1	1	gate
+
+--4d4dfb56--2014-12-14--Adam Jordens
+--27322d1e--2014-12-14--Adam Jordens
+7	0	gate
+44	0	gate
+45	0	gate
+29	0	gate
+5	1	gate
+
+--710a287b--2014-12-13--Cameron Fieber
+5	0	gate
+10	21	gate
+28	0	gate
+6	0	gate
+6	9	gate
+10	10	gate
+11	5	gate
+
+--e0008280--2014-12-12--Cameron Fieber
+1	1	gate
+26	0	gate
+13	9	gate
+15	18	gate
+47	19	gate
+11	4	gate
+2	2	gate
+2	2	gate
+6	2	gate
+8	1	gate
+6	11	gate
+7	1	gate
+6	2	gate
+0	47	gate
+10	2	gate
+
+--315ad209--2014-12-12--Bob T Builder
+1	1	gate
+
+--ce24347c--2014-12-12--Bob T Builder
+1	1	gate
+
+--b155470c--2014-12-11--Adam Jordens
+3	3	gate
+
+--1055fc44--2014-12-11--Adam Jordens
+5	0	gate
+5	1	gate
+15	4	gate
+3	0	gate
+
+--98421dc7--2014-12-11--Bob T Builder
+1	1	gate
+
+--33dd39ce--2014-12-11--Bob T Builder
+1	1	gate
+
+--c06efe0e--2014-12-10--Adam Jordens
+2	6	gate
+
+--b316eac3--2014-12-10--Cameron Fieber
+2	2	gate
+
+--a8b14187--2014-12-10--Cameron Fieber
+--a89f4188--2014-12-10--Cameron Fieber
+4	3	gate
+5	7	gate
+
+--709725bf--2014-12-10--Cameron Fieber
+--659c47f0--2014-12-11--Bob T Builder
+1	1	gate
+
+--37956376--2014-12-11--Bob T Builder
+1	1	gate
+
+--e2247f54--2014-12-10--Adam Jordens
+0	2	gate
+
+--d0548ebc--2014-12-10--Adam Jordens
+--60fbfe89--2014-12-09--Adam Jordens
+1	1	gate
+17	0	gate
+50	0	gate
+41	0	gate
+9	8	gate
+42	0	gate
+46	0	gate
+0	3	gate
+6	0	gate
+45	0	gate
+39	0	gate
+11	13	gate
+45	0	gate
+1	1	gate
+45	0	gate
+5	1	gate
+46	0	gate
+1	1	gate
+7	16	gate
+
+--dd969ac5--2014-12-10--Daniel Woods
+13	4	gate
+
+--7411c22e--2014-12-10--Daniel Woods
+35	26	gate
+44	3	gate
+
+--9a3a253a--2014-12-10--Daniel Woods
+1	1	gate
+
+--e5070306--2014-12-10--Daniel Woods
+1	1	gate
+
+--013f8810--2014-12-09--Daniel Woods
+24	3	gate
+36	0	gate
+
+--bb65389d--2014-12-09--Daniel Woods
+18	4	gate
+
+--baed6042--2014-12-09--Daniel Woods
+5	1	gate
+
+--2c5bc6d0--2014-12-09--Daniel Woods
+1	1	gate
+
+--90167bf0--2014-12-09--Daniel Woods
+2	1	gate
+
+--c82ecf9f--2014-12-09--Daniel Woods
+2	1	gate
+3	0	gate
+3	0	gate
+
+--87cb5533--2014-12-09--Daniel Woods
+11	4	gate
+16	8	gate
+
+--cc9ae96a--2014-12-08--Adam Jordens
+0	54	gate
+1	3	gate
+0	54	gate
+59	0	gate
+
+--24eeea29--2014-12-08--Bob T Builder
+1	1	gate
+
+--96982e9a--2014-12-08--Bob T Builder
+1	1	gate
+
+--2025a73b--2014-12-06--Adam Jordens
+1	1	gate
+
+--c920ee00--2014-12-06--Tomas Lin
+4	1	gate
+
+--3e672e7e--2014-12-04--chrisb
+5	5	gate
+
+--b8efd6b0--2014-12-03--Bob T Builder
+1	1	gate
+
+--17bd110f--2014-12-03--Bob T Builder
+1	1	gate
+
+--18762c83--2014-12-03--Bob T Builder
+1	1	gate
+
+--fd168fbe--2014-12-03--Bob T Builder
+1	1	gate
+
+--b10a3003--2014-12-02--Bob T Builder
+1	1	gate
+
+--e3ae8c78--2014-12-02--Bob T Builder
+1	1	gate
+
+--9b702b96--2014-12-01--Bob T Builder
+1	1	gate
+
+--b49381d6--2014-12-01--Bob T Builder
+1	1	gate
+
+--8e930705--2014-12-01--Adam Jordens
+16	9	gate
+3	0	gate
+0	2	gate
+
+--3b4ef946--2014-12-01--Bob T Builder
+1	1	gate
+
+--9392ec69--2014-12-01--Bob T Builder
+1	1	gate
+
+--cc7ba212--2014-11-29--Adam Jordens
+1	1	gate
+2	1	gate
+29	0	gate
+17	1	gate
+
+--6437a262--2014-11-26--Adam Jordens
+21	13	gate
+8	7	gate
+
+--c6eea91b--2014-11-25--Bob T Builder
+1	1	gate
+
+--08961056--2014-11-25--Bob T Builder
+1	1	gate
+
+--5d34a9ec--2014-11-25--Adam Jordens
+2	7	gate
+
+--375e26fb--2014-11-24--Cameron Fieber
+--264ffebf--2014-11-24--Bob T Builder
+1	1	gate
+
+--a1cccd0b--2014-11-24--Bob T Builder
+1	1	gate
+
+--5139782d--2014-11-24--Adam Jordens
+--82697d12--2014-11-24--Adam Jordens
+2	0	gate
+
+--e7a23017--2014-11-24--Tomas Lin
+2	0	gate
+
+--aaefa866--2014-11-24--Tomas Lin
+38	0	gate
+
+--6d025732--2014-11-24--duftler
+3	0	gate
+
+--688ffd59--2014-11-23--Adam Jordens
+5	3	gate
+1	1	gate
+
+--46aca034--2014-11-20--Adam Jordens
+2	0	gate
+34	6	gate
+42	2	gate
+8	0	gate
+
+--1bfa3bc1--2014-11-22--Bob T Builder
+1	1	gate
+
+--5afc3999--2014-11-22--Bob T Builder
+1	1	gate
+
+--7815920c--2014-11-21--Daniel Woods
+14	1	gate
+
+--25112f17--2014-11-20--Bob T Builder
+1	1	gate
+
+--ee4f63a8--2014-11-20--Bob T Builder
+1	1	gate
+
+--39c2a79b--2014-11-20--Daniel Woods
+2	0	gate
+
+--d1e69c86--2014-11-20--Bob T Builder
+1	1	gate
+
+--85102d4d--2014-11-20--Bob T Builder
+1	1	gate
+
+--5f601577--2014-11-20--Daniel Woods
+5	5	gate
+1	1	gate
+1	1	gate
+
+--47f96194--2014-11-20--Daniel Woods
+2	2	gate
+
+--8604fd82--2014-11-20--Bob T Builder
+1	1	gate
+
+--fecf1e54--2014-11-20--Bob T Builder
+1	1	gate
+
+--3b298b69--2014-11-20--Daniel Woods
+85	0	gate
+11	0	gate
+12	0	gate
+20	0	gate
+68	0	gate
+22	0	gate
+15	5	gate
+
+--3a72dd81--2014-11-20--Bob T Builder
+1	1	gate
+
+--b067746b--2014-11-20--Bob T Builder
+1	1	gate
+
+--e7af9673--2014-11-20--Daniel Woods
+17	2	gate
+26	0	gate
+3	0	gate
+
+--3dc04fb3--2014-11-20--Bob T Builder
+1	1	gate
+
+--f7cfa973--2014-11-20--Bob T Builder
+1	1	gate
+
+--f73c6f75--2014-11-20--Daniel Woods
+--ac07ce04--2014-11-20--Daniel Woods
+8	1	gate
+51	0	gate
+49	0	gate
+4	0	gate
+2	0	gate
+1	0	gate
+0	35	gate
+1	0	gate
+0	27	gate
+1	0	gate
+0	26	gate
+0	33	gate
+0	29	gate
+1	0	gate
+0	29	gate
+0	29	gate
+0	84	gate
+0	42	gate
+68	0	gate
+1	0	gate
+1	0	gate
+62	0	gate
+35	0	gate
+27	0	gate
+29	0	gate
+33	0	gate
+29	0	gate
+29	0	gate
+52	0	gate
+84	0	gate
+42	0	gate
+2	0	gate
+7	1	gate
+
+--344dbf68--2014-11-20--Bob T Builder
+1	1	gate
+
+--047bd7fe--2014-11-20--Bob T Builder
+1	1	gate
+
+--7831cf25--2014-11-19--Daniel Woods
+6	6	gate
+0	4	gate
+1	1	gate
+0	37	gate
+21	32	gate
+4	8	gate
+10	18	gate
+13	23	gate
+4	7	gate
+23	89	gate
+10	42	gate
+1	1	gate
+21	59	gate
+9	5	gate
+12	4	gate
+1	1	gate
+
+--793b5f76--2014-11-19--Daniel Woods
+6	19	gate
+34	38	gate
+116	146	gate
+10	42	gate
+3	3	gate
+2	2	gate
+1	1	gate
+5	6	gate
+6	23	gate
+3	6	gate
+57	0	gate
+60	0	gate
+
+--1795fbd0--2014-11-20--Bob T Builder
+1	1	gate
+
+--0df1dbc6--2014-11-20--Bob T Builder
+1	1	gate
+
+--c385a3de--2014-11-19--Cameron Fieber
+4	0	gate
+3	4	gate
+
+--5eaf7861--2014-11-20--Bob T Builder
+1	1	gate
+
+--a2d3fa31--2014-11-20--Bob T Builder
+1	1	gate
+
+--54e25856--2014-11-19--Cameron Fieber
+6	4	gate
+
+--69a447f9--2014-11-20--Bob T Builder
+1	1	gate
+
+--4917c788--2014-11-20--Bob T Builder
+1	1	gate
+
+--f16ffe76--2014-11-19--Cameron Fieber
+3	3	gate
+64	46	gate
+5	5	gate
+1	1	gate
+
+--0c2439a5--2014-11-19--Bob T Builder
+1	1	gate
+
+--90771e8a--2014-11-19--Bob T Builder
+1	1	gate
+
+--a86dae87--2014-11-19--Bob T Builder
+1	1	gate
+
+--4310c031--2014-11-19--Bob T Builder
+1	1	gate
+
+--667d16cc--2014-11-19--Bob T Builder
+1	1	gate
+
+--c0817616--2014-11-19--Bob T Builder
+1	1	gate
+
+--ce7982d0--2014-11-19--chrisb
+3	3	gate
+1	1	gate
+
+--302d0bab--2014-11-19--Bob T Builder
+1	1	gate
+
+--53b77e8f--2014-11-19--Bob T Builder
+1	1	gate
+
+--a7fa2386--2014-11-18--chrisb
+7	2	gate
+
+--b2862579--2014-11-19--Bob T Builder
+1	1	gate
+
+--baa9e4ef--2014-11-19--Bob T Builder
+1	1	gate
+
+--8b45cff6--2014-11-18--Cameron Fieber
+--237f59aa--2014-11-18--Cameron Fieber
+14	5	gate
+22	17	gate
+2	2	gate
+
+--65b671f9--2014-11-18--Bob T Builder
+1	1	gate
+
+--221c7682--2014-11-18--Bob T Builder
+1	1	gate
+
+--c78be02c--2014-11-18--chrisb
+1	1	gate
+
+--cf18934a--2014-11-18--Bob T Builder
+1	1	gate
+
+--0fad5f49--2014-11-18--Bob T Builder
+1	1	gate
+
+--af42f190--2014-11-18--chrisb
+3	0	gate
+1	2	gate
+
+--50f708bf--2014-11-18--Bob T Builder
+1	1	gate
+
+--fb2c1dab--2014-11-18--Bob T Builder
+1	1	gate
+
+--3cec175d--2014-11-18--chrisb
+1	3	gate
+
+--21e7b73d--2014-11-18--Bob T Builder
+1	1	gate
+
+--e1a97dcf--2014-11-18--Bob T Builder
+1	1	gate
+
+--11d71b83--2014-11-18--chrisb
+7	1	gate
+
+--11566320--2014-11-18--Daniel Woods
+6	0	gate
+3	3	gate
+29	0	gate
+3	0	gate
+7	0	gate
+
+--7e632085--2014-11-18--Bob T Builder
+1	1	gate
+
+--e96cbee5--2014-11-18--Bob T Builder
+1	1	gate
+
+--94733127--2014-11-18--Daniel Woods
+--a6993d4a--2014-11-18--Daniel Woods
+7	7	gate
+
+--2defa7fe--2014-11-18--Bob T Builder
+1	1	gate
+
+--7ab8550a--2014-11-18--Bob T Builder
+1	1	gate
+
+--b16d5de0--2014-11-17--Daniel Woods
+--119ba443--2014-11-17--Daniel Woods
+5	4	gate
+
+--ca37fc5e--2014-11-17--Bob T Builder
+1	1	gate
+
+--e4d33093--2014-11-17--Bob T Builder
+1	1	gate
+
+--e7a13cf6--2014-11-17--Daniel Woods
+--b6bcf619--2014-11-17--Daniel Woods
+0	21	gate
+11	2	gate
+
+--4820fc02--2014-11-17--Bob T Builder
+1	1	gate
+
+--cc07f384--2014-11-17--Bob T Builder
+1	1	gate
+
+--c4d50d46--2014-11-17--Bob T Builder
+1	1	gate
+
+--c35bb78f--2014-11-17--Bob T Builder
+1	1	gate
+
+--ac07e521--2014-11-17--Bob T Builder
+1	1	gate
+
+--c27ba473--2014-11-17--Bob T Builder
+1	1	gate
+
+--4a8dbabd--2014-11-17--Daniel Woods
+--4d48734e--2014-11-17--Daniel Woods
+2	0	gate
+
+--12445030--2014-11-17--Bob T Builder
+1	1	gate
+
+--d5b4d655--2014-11-17--Bob T Builder
+1	1	gate
+
+--207309ac--2014-11-17--Bob T Builder
+1	1	gate
+
+--845a226d--2014-11-17--Bob T Builder
+1	1	gate
+
+--1bf6e047--2014-11-17--Bob T Builder
+1	1	gate
+
+--efd947e1--2014-11-17--Bob T Builder
+1	1	gate
+
+--e5ab1ddd--2014-11-17--Bob T Builder
+1	1	gate
+
+--9326b032--2014-11-17--Bob T Builder
+1	1	gate
+
+--13a6a9e3--2014-11-17--Bob T Builder
+1	1	gate
+
+--c8397774--2014-11-17--Bob T Builder
+1	1	gate
+
+--49c0ab7e--2014-11-16--Daniel Woods
+--09f1ee2b--2014-11-16--Daniel Woods
+4	0	gate
+
+--783c0c4e--2014-11-15--Bob T Builder
+1	1	gate
+
+--614b2483--2014-11-15--Bob T Builder
+1	1	gate
+
+--8cac7bbd--2014-11-15--Daniel Woods
+--cd79c3cd--2014-11-15--Daniel Woods
+9	0	gate
+4	3	gate
+4	4	gate
+1	1	gate
+
+--178d3f6b--2014-11-15--Bob T Builder
+1	1	gate
+
+--8a9b1d6e--2014-11-15--Bob T Builder
+1	1	gate
+
+--cce1f5f5--2014-11-14--Daniel Woods
+1	1	gate
+
+--664b1e8f--2014-11-14--Dan Woods
+--4cd68aa8--2014-11-14--Daniel Woods
+1	0	gate
+16	0	gate
+21	0	gate
+132	0	gate
+21	0	gate
+22	0	gate
+22	0	gate
+52	0	gate
+104	0	gate
+47	0	gate
+220	0	gate
+4	0	gate
+
+--cf406c04--2014-11-14--Bob T Builder
+1	1	gate
+
+--213a74c3--2014-11-14--Bob T Builder
+1	1	gate
+
+--141080bc--2014-11-14--Daniel Woods
+--57853bc9--2014-11-14--Daniel Woods
+3	3	gate
+
+--fc8825d5--2014-11-14--Bob T Builder
+1	1	gate
+
+--d80b10f7--2014-11-14--Bob T Builder
+1	1	gate
+
+--34d801a2--2014-11-14--Daniel Woods
+1	1	gate
+
+--269e4c4b--2014-11-14--Daniel Woods
+--8c7bc876--2014-11-14--Daniel Woods
+2	2	gate
+
+--4d3ce4ff--2014-11-14--Bob T Builder
+1	1	gate
+
+--a2bc214d--2014-11-14--Bob T Builder
+0	544	gate
+0	604	gate
+0	564	gate
+0	520	gate
+0	501	gate
+0	863	gate
+0	532	gate
+0	508	gate
+0	508	gate
+0	2720	gate
+0	519	gate
+0	508	gate
+0	564	gate
+0	528	gate
+0	573	gate
+0	545	gate
+1	1	gate
+
+--291ee311--2014-11-14--Daniel Woods
+5	41	gate
+57	0	gate
+49	0	gate
+55	0	gate
+54	0	gate
+41	0	gate
+36	0	gate
+194	0	gate
+43	0	gate
+38	0	gate
+38	0	gate
+238	0	gate
+44	0	gate
+38	0	gate
+54	0	gate
+43	0	gate
+58	0	gate
+55	0	gate
+544	0	gate
+604	0	gate
+564	0	gate
+520	0	gate
+501	0	gate
+863	0	gate
+532	0	gate
+508	0	gate
+508	0	gate
+2720	0	gate
+519	0	gate
+508	0	gate
+564	0	gate
+528	0	gate
+573	0	gate
+545	0	gate
+50	0	gate
+46	0	gate
+164	0	gate
+30	0	gate
+38	0	gate
+116	0	gate
+33	0	gate
+88	0	gate
+42	0	gate
+56	0	gate
+59	0	gate
+26	0	gate
+37	0	gate
+53	0	gate
+80	0	gate
+56	0	gate
+209	0	gate
+135	0	gate
+73	0	gate
+35	0	gate
+103	0	gate
+27	0	gate
+75	0	gate
+26	0	gate
+33	0	gate
+96	0	gate
+29	0	gate
+29	0	gate
+80	0	gate
+43	0	gate
+54	0	gate
+43	0	gate
+28	0	gate
+34	0	gate
+58	0	gate
+178	0	gate
+30	1	gate
+0	46	gate
+0	158	gate
+0	30	gate
+0	38	gate
+0	116	gate
+0	33	gate
+0	88	gate
+0	42	gate
+0	56	gate
+0	59	gate
+0	26	gate
+0	37	gate
+0	53	gate
+0	80	gate
+0	56	gate
+0	209	gate
+0	135	gate
+0	73	gate
+0	35	gate
+0	103	gate
+0	27	gate
+0	75	gate
+0	26	gate
+0	33	gate
+0	96	gate
+0	29	gate
+0	29	gate
+0	80	gate
+0	43	gate
+0	54	gate
+0	43	gate
+0	25	gate
+0	34	gate
+0	58	gate
+0	178	gate
+
+--e76777e0--2014-11-14--Daniel Woods
+1	1	gate
+1	1	gate
+0	1	gate
+1	1	gate
+35	3	gate
+1	4	gate
+1	1	gate
+3	2	gate
+0	1	gate
+0	1	gate
+0	2	gate
+82	8	gate
+0	1	gate
+0	1	gate
+4	4	gate
+29	0	gate
+1	4	gate
+2	5	gate
+8	9	gate
+
+--f588b32b--2014-11-13--Bob T Builder
+1	1	gate
+
+--60515f64--2014-11-13--Bob T Builder
+1	1	gate
+
+--9b4f0535--2014-11-13--Daniel Woods
+1	1	gate
+
+--22cf2299--2014-11-13--Daniel Woods
+1	1	gate
+
+--e1c735b7--2014-11-13--Daniel Woods
+1	2	gate
+
+--9efde13c--2014-11-13--Daniel Woods
+--20486d67--2014-11-13--Daniel Woods
+0	1	gate
+6	0	gate
+7	2	gate
+45	0	gate
+49	66	gate
+0	21	gate
+0	48	gate
+1	0	gate
+73	0	gate
+1	0	gate
+7	0	gate
+29	0	gate
+0	5	gate
+9	1	gate
+62	0	gate
+13	4	gate
+
+--838bbc96--2014-11-12--Bob T Builder
+1	1	gate
+
+--8f4b3962--2014-11-12--Bob T Builder
+1	1	gate
+
+--07376d52--2014-11-12--Daniel Woods
+--47ebdc10--2014-11-12--Daniel Woods
+3	1	gate
+
+--4af27a20--2014-11-11--Bob T Builder
+1	1	gate
+
+--580ed28d--2014-11-11--Bob T Builder
+1	1	gate
+
+--b2740e37--2014-11-11--Daniel Woods
+1	1	gate
+
+--80ceb359--2014-11-03--Bob T Builder
+1	1	gate
+
+--610415cc--2014-11-03--Bob T Builder
+1	1	gate
+
+--1616e0b8--2014-11-03--Daniel Woods
+--d667a8a6--2014-11-03--Daniel Woods
+7	5	gate
+3	0	gate
+2	0	gate
+27	51	gate
+33	0	gate
+30	62	gate
+10	18	gate
+10	16	gate
+7	16	gate
+2	0	gate
+8	7	gate
+5	5	gate
+1	5	gate
+3	4	gate
+1	3	gate
+2	0	gate
+8	8	gate
+43	0	gate
+0	39	gate
+3	3	gate
+48	0	gate
+15	7	gate
+
+--85c52854--2014-10-31--Bob T Builder
+1	1	gate
+
+--5937db3a--2014-10-31--Bob T Builder
+1	1	gate
+
+--140d80a8--2014-10-31--Daniel Woods
+0	45	gate
+
+--b9832673--2014-10-31--Daniel Woods
+7	0	gate
+
+--c1822e6b--2014-10-31--Daniel Woods
+--81d60279--2014-10-31--Daniel Woods
+24	0	gate
+11	0	gate
+39	12	gate
+59	2	gate
+19	12	gate
+26	0	gate
+13	1	gate
+4	0	gate
+3	1	gate
+
+--2508042f--2014-10-31--Bob T Builder
+1	1	gate
+
+--55f5189b--2014-10-31--Bob T Builder
+1	1	gate
+
+--e943c10f--2014-10-31--chrisb
+45	0	gate
+
+--90975e85--2014-10-29--Bob T Builder
+1	1	gate
+
+--58cc8a10--2014-10-29--Bob T Builder
+1	1	gate
+
+--877b3de4--2014-10-29--Daniel Woods
+7	0	gate
+
+--40ef6000--2014-10-16--Daniel Woods
+17	6	gate
+7	1	gate
+2	2	gate
+22	1	gate
+1	1	gate
+
+--c6ed19b1--2014-10-12--Daniel Woods
+--e8635da0--2014-10-12--Daniel Woods
+11	0	gate
+11	0	gate
+8	4	gate
+33	0	gate
+
+--76ccc174--2014-10-11--Bob T Builder
+1	1	gate
+
+--7348e933--2014-10-11--Bob T Builder
+1	1	gate
+
+--9c6e7c16--2014-10-10--Daniel Woods
+--91998943--2014-10-10--Daniel Woods
+2	17	gate
+
+--0efa782b--2014-10-10--Bob T Builder
+1	1	gate
+
+--bd80ade1--2014-10-10--Bob T Builder
+1	1	gate
+
+--29e2b541--2014-10-10--Daniel Woods
+19	1	gate
+
+--108d47cc--2014-10-10--Daniel Woods
+0	4	gate
+
+--198d59a7--2014-10-10--Daniel Woods
+--290c4324--2014-10-10--Daniel Woods
+1	1	gate
+16	0	gate
+
+--cf5de2bf--2014-10-10--Bob T Builder
+1	1	gate
+
+--2bdf7ff1--2014-10-10--Bob T Builder
+1	1	gate
+
+--87072726--2014-10-10--Daniel Woods
+1	1	gate
+
+--2ce53263--2014-10-10--Daniel Woods
+2	0	gate
+1	0	gate
+1	0	gate
+
+--f000c1f1--2014-10-10--Daniel Woods
+7	2	gate
+
+--b00dd99c--2014-10-10--Daniel Woods
+203	0	gate
+
+--28f1c555--2014-10-06--Daniel Woods
+0	203	gate
+0	5	gate
+23	26	gate
+0	22	gate
+0	49	gate
+0	31	gate
+0	133	gate
+0	194	gate
+0	94	gate
+0	397	gate
+0	107	gate
+0	42	gate
+0	39	gate
+0	9	gate
+0	1	gate
+2	2	gate
+0	30	gate
+48	0	gate
+124	0	gate
+27	0	gate
+36	0	gate
+76	0	gate
+82	0	gate
+64	0	gate
+68	0	gate
+27	0	gate
+38	0	gate
+55	0	gate
+80	0	gate
+56	0	gate
+98	0	gate
+21	0	gate
+42	0	gate
+94	0	gate
+35	0	gate
+107	0	gate
+27	0	gate
+76	0	gate
+28	0	gate
+73	0	gate
+68	0	gate
+35	0	gate
+54	0	gate
+15	0	gate
+37	0	gate
+130	0	gate
+
+--c4fa9032--2014-08-20--Cameron Fieber
+203	0	gate
+
+--fcf94cdf--2014-08-19--Bob T Builder
+1	1	gate
+
+--d1ce64d5--2014-08-19--Bob T Builder
+1	1	gate
+
+--964dc791--2014-08-19--Cameron Fieber
+1	0	gate
+
+--a17a45d4--2014-08-19--Cameron Fieber
+2	1	gate
+
+--1c111bb5--2014-08-19--Cameron Fieber
+2	2	gate
+
+--a1001fe6--2014-08-19--Cameron Fieber
+1	0	gate
+30	12	gate
+107	0	gate
+
+--96872911--2014-08-15--Cameron Fieber
+7	0	gate
+1	1	gate
+38	0	gate
+21	0	gate
+49	0	gate
+31	0	gate
+133	0	gate
+194	0	gate
+75	0	gate
+397	0	gate
+42	0	gate
+39	0	gate
+9	0	gate
+-	-	gradle/wrapper/gradle-wrapper.jar
+6	0	gate
+164	0	gate
+90	0	gate
+30	0	gate
+
+--c94d75e2--2014-08-15--Cameron Fieber
+5	0	gate

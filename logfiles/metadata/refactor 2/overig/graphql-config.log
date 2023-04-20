@@ -1,0 +1,288 @@
+--6083789--2022-12-06--Sergejs Visockis
+9	9	docker/docker-compose.yml
+12	12	docker/startup.bat
+12	12	docker/startup.sh
+0	9	metadata-app/Dockerfile
+0	107	metadata-app/pom.xml
+0	12	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/MetadataApp.java
+0	34	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/AppConfig.java
+0	91	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/MapperConfig.java
+0	67	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/ResolverConfig.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedChartMetadata.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedComboBox.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedFormField.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedFormMetadata.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedFormSection.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLayout.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLookupHolder.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLookupInfo.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLookupMetadata.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedNavigation.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedNavigationElement.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedViewField.java
+0	6	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedViewMetadata.java
+0	43	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ChartMetadataMapper.java
+0	50	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ComboBoxMapper.java
+0	76	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormFieldMapper.java
+0	39	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormMetadataMapper.java
+0	47	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormSectionMapper.java
+0	40	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LayoutMapper.java
+0	38	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LookupHolderMapper.java
+0	40	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LookupMetadataMapper.java
+0	60	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/NavigationMapper.java
+0	66	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ViewFieldMapper.java
+0	50	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ViewMetadataMapper.java
+0	9	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/model/FormSectionModelMapper.java
+0	12	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ChartMetadataQueryResolver.java
+0	22	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/FormMetadataQueryResolver.java
+0	22	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/LookupMetadataQueryResolver.java
+0	23	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewMetadataQueryResolver.java
+0	74	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewQueryGraphQLResolver.java
+0	11	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/FormMetadataMapper.java
+0	12	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/LookupMetadataMapper.java
+0	12	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/ViewMetadataMapper.java
+0	29	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/ViewQueryResponseMapper.java
+0	27	metadata-app/src/main/resources/application.yml
+0	13	metadata-app/src/main/resources/graphql/chart_metadata.graphqls
+0	64	metadata-app/src/main/resources/graphql/enum.graphqls
+0	43	metadata-app/src/main/resources/graphql/form_metadata.graphqls
+0	14	metadata-app/src/main/resources/graphql/lookup.graphqls
+0	13	metadata-app/src/main/resources/graphql/navigation_metadata.graphqls
+0	11	metadata-app/src/main/resources/graphql/query.graphqls
+0	3	metadata-app/src/main/resources/graphql/scalars.graphqls
+0	60	metadata-app/src/main/resources/graphql/view_metadata.graphqls
+0	17	metadata-app/src/main/resources/graphql/view_query.graphqls
+0	9	metadata-deployer/Dockerfile
+0	55	metadata-deployer/pom.xml
+0	12	metadata-deployer/src/main/java/io/github/sergeivisotsky/metadata/preconfig/deployer/DeployerApp.java
+0	3	metadata-deployer/src/main/resources/application.yml
+0	227	metadata-deployer/src/main/resources/db/db.changelog-custom-data.xml
+0	41	metadata-deployer/src/main/resources/db/db.changelog-custom-schema.xml
+0	14	metadata-deployer/src/main/resources/db/db.changelog-master.xml
+9	0	metadata-graphql-app/Dockerfile
+107	0	metadata-graphql-app/pom.xml
+12	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/MetadataApp.java
+34	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/AppConfig.java
+91	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/MapperConfig.java
+67	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/ResolverConfig.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedChartMetadata.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedComboBox.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedFormField.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedFormMetadata.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedFormSection.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLayout.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLookupHolder.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLookupInfo.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLookupMetadata.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedNavigation.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedNavigationElement.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedViewField.java
+6	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedViewMetadata.java
+43	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ChartMetadataMapper.java
+50	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ComboBoxMapper.java
+76	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormFieldMapper.java
+39	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormMetadataMapper.java
+47	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormSectionMapper.java
+40	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LayoutMapper.java
+38	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LookupHolderMapper.java
+40	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LookupMetadataMapper.java
+60	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/NavigationMapper.java
+66	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ViewFieldMapper.java
+50	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ViewMetadataMapper.java
+9	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/model/FormSectionModelMapper.java
+12	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ChartMetadataQueryResolver.java
+22	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/FormMetadataQueryResolver.java
+22	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/LookupMetadataQueryResolver.java
+23	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewMetadataQueryResolver.java
+74	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewQueryGraphQLResolver.java
+11	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/FormMetadataMapper.java
+12	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/LookupMetadataMapper.java
+12	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/ViewMetadataMapper.java
+29	0	metadata-graphql-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/ViewQueryResponseMapper.java
+27	0	metadata-graphql-app/src/main/resources/application.yml
+13	0	metadata-graphql-app/src/main/resources/graphql/chart_metadata.graphqls
+64	0	metadata-graphql-app/src/main/resources/graphql/enum.graphqls
+43	0	metadata-graphql-app/src/main/resources/graphql/form_metadata.graphqls
+14	0	metadata-graphql-app/src/main/resources/graphql/lookup.graphqls
+13	0	metadata-graphql-app/src/main/resources/graphql/navigation_metadata.graphqls
+11	0	metadata-graphql-app/src/main/resources/graphql/query.graphqls
+3	0	metadata-graphql-app/src/main/resources/graphql/scalars.graphqls
+60	0	metadata-graphql-app/src/main/resources/graphql/view_metadata.graphqls
+17	0	metadata-graphql-app/src/main/resources/graphql/view_query.graphqls
+9	0	metadata-graphql-deployer/Dockerfile
+55	0	metadata-graphql-deployer/pom.xml
+12	0	metadata-graphql-deployer/src/main/java/io/github/sergeivisotsky/metadata/preconfig/deployer/DeployerApp.java
+3	0	metadata-graphql-deployer/src/main/resources/application.yml
+227	0	metadata-graphql-deployer/src/main/resources/db/db.changelog-custom-data.xml
+41	0	metadata-graphql-deployer/src/main/resources/db/db.changelog-custom-schema.xml
+14	0	metadata-graphql-deployer/src/main/resources/db/db.changelog-master.xml
+2	2	pom.xml
+
+--8aae88f--2022-07-02--Sergejs Visockis
+11	18	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/MapperConfig.java
+0	21	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormSectionModelMapper.java
+9	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/model/FormSectionModelMapper.java
+
+--f86ee0a--2022-07-02--Sergejs Visockis
+37	2	README.md
+
+--5eeaa62--2022-07-02--Sergejs Visockis
+37	2	README.md
+
+--b3103e0--2022-06-15--Sergejs Visockis
+1	1	pom.xml
+
+--47da960--2022-06-12--Sergejs Visockis
+--3001359--2022-06-12--Sergejs Visockis
+6	4	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/ResolverConfig.java
+0	1	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewMetadataQueryResolver.java
+0	99	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewQueryGraphQLQueryResolver.java
+74	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewQueryGraphQLResolver.java
+29	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/ViewQueryResponseMapper.java
+1	1	metadata-app/src/main/resources/graphql/query.graphqls
+
+--7dbbaff--2022-06-12--Sergejs Visockis
+--f735a1e--2022-06-11--Sergejs Visockis
+1	1	pom.xml
+
+--70ab067--2022-06-11--Sergejs Visockis
+1	1	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ComboBoxMapper.java
+
+--a13dc37--2022-06-11--Sergejs Visockis
+1	1	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ComboBoxMapper.java
+
+--cde4673--2022-06-11--Sergejs Visockis
+--5bafc7d--2022-06-11--Sergejs Visockis
+1	1	pom.xml
+
+--2b5426e--2022-06-11--Sergejs Visockis
+29	49	metadata-deployer/src/main/resources/db/db.changelog-custom-data.xml
+
+--cc11f7a--2022-06-11--Sergejs Visockis
+--8e738e9--2022-06-11--Sergejs Visockis
+29	49	metadata-deployer/src/main/resources/db/db.changelog-custom-data.xml
+
+--2572d89--2022-05-22--Sergejs Visockis
+3	3	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/ResolverConfig.java
+5	5	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewQueryGraphQLQueryResolver.java
+
+--a3c4ef0--2022-05-21--Sergejs Visockis
+1	1	docker/docker-compose.yml
+
+--39d2b06--2022-05-20--Sergejs Visockis
+3	0	metadata-app/pom.xml
+9	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/ResolverConfig.java
+99	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewQueryGraphQLQueryResolver.java
+1	0	metadata-app/src/main/resources/graphql/query.graphqls
+17	0	metadata-app/src/main/resources/graphql/view_query.graphqls
+
+--50930f6--2022-05-20--Sergejs Visockis
+1	1	metadata-app/Dockerfile
+
+--63ba72f--2022-05-07--Sergejs Visockis
+2	0	docker/.env
+2	0	docker/docker-compose.yml
+7	1	metadata-app/Dockerfile
+0	7	metadata-app/src/main/resources/application.yml
+7	1	metadata-deployer/Dockerfile
+1	9	metadata-deployer/src/main/resources/application.yml
+
+--225fdc5--2022-05-04--Sergejs Visockis
+1	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ViewMetadataMapper.java
+
+--8991349--2022-04-02--Sergejs Visockis
+24	2	docker/startup.bat
+26	2	docker/startup.sh
+3	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ChartMetadataMapper.java
+3	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ComboBoxMapper.java
+4	3	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormFieldMapper.java
+3	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormMetadataMapper.java
+3	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormSectionMapper.java
+3	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LayoutMapper.java
+3	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LookupHolderMapper.java
+3	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LookupMetadataMapper.java
+4	3	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/NavigationMapper.java
+3	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ViewFieldMapper.java
+3	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ViewMetadataMapper.java
+
+--dd10ac5--2022-03-05--Sergei Visotsky
+1	1	pom.xml
+
+--0900f85--2022-03-05--Sergei Visotsky
+1	1	pom.xml
+
+--2ae61f0--2022-03-05--Sergei Visotsky
+0	10	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedViewMetadata.java
+0	2	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ViewMetadataMapper.java
+0	17	metadata-deployer/src/main/resources/db/db.changelog-24-08-2021.xml
+0	1	metadata-deployer/src/main/resources/db/db.changelog-master.xml
+
+--289affe--2022-01-29--Sergei Visotsky
+83	0	.gitignore
+-	-	.mvn/wrapper/maven-wrapper.jar
+18	0	.mvn/wrapper/maven-wrapper.properties
+4	0	docker/.env
+64	0	docker/docker-compose.yml
+18	0	docker/startup.bat
+18	0	docker/startup.sh
+3	0	metadata-app/Dockerfile
+104	0	metadata-app/pom.xml
+12	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/MetadataApp.java
+34	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/AppConfig.java
+98	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/MapperConfig.java
+56	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/ResolverConfig.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedChartMetadata.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedComboBox.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedFormField.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedFormMetadata.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedFormSection.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLayout.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLookupHolder.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLookupInfo.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedLookupMetadata.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedNavigation.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedNavigationElement.java
+6	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedViewField.java
+16	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/domain/ExtendedViewMetadata.java
+42	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ChartMetadataMapper.java
+49	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ComboBoxMapper.java
+75	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormFieldMapper.java
+38	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormMetadataMapper.java
+46	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormSectionMapper.java
+21	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/FormSectionModelMapper.java
+39	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LayoutMapper.java
+37	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LookupHolderMapper.java
+39	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/LookupMetadataMapper.java
+59	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/NavigationMapper.java
+65	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ViewFieldMapper.java
+52	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ViewMetadataMapper.java
+12	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ChartMetadataQueryResolver.java
+22	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/FormMetadataQueryResolver.java
+22	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/LookupMetadataQueryResolver.java
+24	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewMetadataQueryResolver.java
+11	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/FormMetadataMapper.java
+12	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/LookupMetadataMapper.java
+12	0	metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/ViewMetadataMapper.java
+34	0	metadata-app/src/main/resources/application.yml
+13	0	metadata-app/src/main/resources/graphql/chart_metadata.graphqls
+64	0	metadata-app/src/main/resources/graphql/enum.graphqls
+43	0	metadata-app/src/main/resources/graphql/form_metadata.graphqls
+14	0	metadata-app/src/main/resources/graphql/lookup.graphqls
+13	0	metadata-app/src/main/resources/graphql/navigation_metadata.graphqls
+10	0	metadata-app/src/main/resources/graphql/query.graphqls
+3	0	metadata-app/src/main/resources/graphql/scalars.graphqls
+60	0	metadata-app/src/main/resources/graphql/view_metadata.graphqls
+3	0	metadata-deployer/Dockerfile
+55	0	metadata-deployer/pom.xml
+12	0	metadata-deployer/src/main/java/io/github/sergeivisotsky/metadata/preconfig/deployer/DeployerApp.java
+11	0	metadata-deployer/src/main/resources/application.yml
+17	0	metadata-deployer/src/main/resources/db/db.changelog-24-08-2021.xml
+247	0	metadata-deployer/src/main/resources/db/db.changelog-custom-data.xml
+41	0	metadata-deployer/src/main/resources/db/db.changelog-custom-schema.xml
+15	0	metadata-deployer/src/main/resources/db/db.changelog-master.xml
+316	0	mvnw
+188	0	mvnw.cmd
+100	0	pom.xml
+
+--e538b4d--2022-01-29--Sergei Visotsky
+2	0	README.md

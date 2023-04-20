@@ -1,0 +1,26 @@
+--743c84d--2022-06-11--Sergejs Visockis
+1	1	rest/pom.xml
+
+--8f8d059--2022-06-11--Sergejs Visockis
+1	1	rest/metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ComboBoxMapper.java
+
+--a93dbfd--2022-06-11--Sergejs Visockis
+1	1	rest/metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/mapper/ComboBoxMapper.java
+
+--743c84c--2022-06-12--Sergejs Visockis
+6	4	graphql/metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/ResolverConfig.java
+0	1	graphql/metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewMetadataQueryResolver.java
+0	99	graphql/metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewQueryGraphQLQueryResolver.java
+74	0	graphql/metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/ViewQueryGraphQLResolver.java
+29	0	graphql/metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/resolver/mapper/ViewQueryResponseMapper.java
+1	1	graphql/metadata-app/src/main/resources/graphql/query.graphqls
+
+--743c84d--2022-06-18--Sergejs Visockis
+1	1	rest/pom.xml
+
+--743c84d--2022-06-19--Sergejs Visockis
+1	1	rest/pom.xml
+
+--743c84d--2022-06-20--Sergejs Visockis
+1	1	graphql/metadata-app/src/main/java/io/github/sergeivisotsky/metadata/preconfig/app/config/ResolverConfig.java
+
